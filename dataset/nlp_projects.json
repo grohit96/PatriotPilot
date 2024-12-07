@@ -1,0 +1,132 @@
+{
+  "nlp_projects": {
+    "research_areas": [
+      {
+        "area": "Reasoning and Planning",
+        "projects": [
+          {
+            "title": "Reasoning and Planning",
+            "description": "We study advanced modeling approaches for machine reasoning and planning."
+          }
+        ]
+      },
+      {
+        "area": "Dataset Maps",
+        "projects": [
+          {
+            "title": "Natural Questions (English)",
+            "description": "Relevant Statistics: Percentage in-country: 80.07%. Missing countries: 49 of 243 (20.16%). Total Variation Distance between observed and population-proportional distribution: 11907.219. We also trained a linear model to find socioeconomic correlates of the datasets."
+          },
+          {
+            "title": "MasakhaNER (All)",
+            "description": "Relevant Statistics: Percentage in-country: 25.07%. Missing countries: 171 of 243 (70.37%). Total Variation Distance between observed and population-proportional distribution: 0.000. We also trained a linear model to find socioeconomic correlates of the datasets."
+          },
+          {
+            "title": "MLQA (English)",
+            "description": "Relevant Statistics: Percentage in-country: 53.63%. Missing countries: 80 of 243 (32.92%). Total Variation Distance between observed and population-proportional distribution: 913.093. We also trained a linear model to find socioeconomic correlates of the datasets."
+          },
+          {
+            "title": "TyDi-QA (All)",
+            "description": "Relevant Statistics: Percentage in-country: 20.39%. Missing countries: 69 of 243 (28.40%). Total Variation Distance between observed and population-proportional distribution: 745.564. We also trained a linear model to find socioeconomic correlates of the datasets."
+          },
+          {
+            "title": "SQuAD (English)",
+            "description": "Relevant Statistics: Percentage in-country: 62.73%. Missing countries: 93 of 243 (38.27%). Total Variation Distance between observed and population-proportional distribution: 5004.444. We also trained a linear model to find socioeconomic correlates of the datasets."
+          },
+          {
+            "title": "WikiANN (All)",
+            "description": "Relevant Statistics: Percentage in-country: 34.71%. Missing countries: 85 of 243 (34.98%). Total Variation Distance between observed and population-proportional distribution: 34.966. We also trained a linear model to find socioeconomic correlates of the datasets."
+          }
+        ]
+      },
+      {
+        "area": "Information Intelligence",
+        "projects": [
+          {
+            "title": "Information Intelligence",
+            "description": "We explore computational approaches for information intelligence tasks such as Question Answering, Information Extraction, etc."
+          }
+        ]
+      },
+      {
+        "area": "Efficient NLP/AI",
+        "projects": [
+          {
+            "title": "Efficient NLP/AI",
+            "description": "We study building NLP/AI models with limited supervision, especially for low-resource domains (e.g., healthcare)."
+          }
+        ]
+      },
+      {
+        "area": "Human-AI Interaction",
+        "projects": [
+          {
+            "title": "Human-AI Interaction",
+            "description": "We explore how machine learning systems can interact with humans effectively. This includes being able to converse with humans through dialogues, as well as proactively collaborate with and learn from humans during decision making."
+          }
+        ]
+      },
+      {
+        "area": "Language and Code",
+        "projects": [
+          {
+            "title": "Language and Code",
+            "description": "We seek to build natural language interfaces that allow humans to communicate with computers/machines easily. Applications of this research include semantic parsing and general-purpose code generation."
+          }
+        ]
+      },
+      {
+        "area": "Speech and Multilingual NLP",
+        "projects": [
+          {
+            "title": "Speech",
+            "description": "Most languages of the world are 'oral': they are not traditionally written and even if an alphabet exists, the community doesn’t usually use it. Hence, building NLP systems that can directly operate on speech input is paramount."
+          },
+          {
+            "title": "Multilingual NLP",
+            "description": "An exciting research direction that we pursue at GMU NLP is building multilingual and polyglot systems. The languages of the world often share similar characteristics, and training systems cross-lingually allows us to leverage these similarities and overcome data scarcity issues."
+          }
+        ]
+      },
+      {
+        "area": "Machine Translation and Documentation",
+        "projects": [
+          {
+            "title": "Machine Translation",
+            "description": "Machine Translation is the task of translating between human languages using computers. Starting from simple word-for-word rule-based system in 1950s, we now have large multilingual neural models that can learn to translate between dozens of languages."
+          },
+          {
+            "title": "Language Documentation",
+            "description": "Language Documentation aims at producing a permanent record that describes a language as used by its language community by producing a formal grammatical description along with a lexicon. Our group works on integrating NLP systems into the documentation workflow to speed-up the work of field linguists."
+          }
+        ]
+      },
+      {
+        "area": "Robustness and Fairness",
+        "projects": [
+          {
+            "title": "Fairness",
+            "description": "Advances in natural language processing (NLP) technology now make it possible to perform many tasks through natural language or over natural language data – automatic systems can answer questions, perform web search, or command our computers to perform specific tasks."
+          },
+          {
+            "title": "Robustness",
+            "description": "NLP systems are typically trained and evaluated in 'clean' settings, over data without significant noise. However, systems deployed in the real world need to deal with vast amounts of noise. At GMU NLP we work towards making NLP systems more robust to several types of noise (adversarial or naturally occurring)."
+          }
+        ]
+      },
+      {
+        "area": "Specialized Applications",
+        "projects": [
+          {
+            "title": "OCR",
+            "description": "This NEH-funded project focuses on the development of modern Optical Character Recognition (OCR) and post-correction tools tailored for Indigenous Latin American Languages."
+          },
+          {
+            "title": "Morphology",
+            "description": "Human language is marked by considerable diversity around the world, and the surface form of languages varies substantially. Morphology describes the way through which different word forms arise from lexemes. Computational morphology attempts to reproduce this process across languages, or uses machine learning models to model/discover the morphophonological processes that exist in a language."
+          }
+        ]
+      }
+    ]
+  }
+}

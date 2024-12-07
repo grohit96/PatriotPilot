@@ -1,0 +1,77 @@
+{
+    "ms_cs_degree_requirements": {
+        "ms_cs_general_requirements": {
+            "description": "In addition to general university requirements, students must complete 30 approved graduate credits (10 courses), divided into five core (required) basic courses, four advanced constrained elective courses, and one constrained elective. Students must take the two required basic courses of CS 530 Mathematical Foundations of Computer Science and CS 531 Computer Systems and Fundamentals of Systems Programming as early as possible.",
+            "core_courses": [
+                "CS 583 Analysis of Algorithms",
+                "CS 530 Mathematical Foundations of Computer Science",
+                "CS 531 Computer Systems and Fundamentals of Systems Programming"
+            ],
+            "advanced_courses": "At least four courses (12 credits) must be chosen from the advanced courses. These four courses must come from at least two different areas.",
+            "cs_designation": "At least six courses, two of which must be advanced, must be designated CS.",
+            "alternative_electives": "Up to two courses that are not on the list of pre-approved courses may be taken with prior approval of the program director."
+        },
+        "cyber_security_concentration": {
+            "description": "Students must take 5 courses from the following categories:",
+            "required": {
+                "description": "2 courses (6 credits)",
+                "courses": [
+                    "ISA 656 Network Security",
+                    "ISA 562 Information Security Theory and Practice"
+                ]
+            },
+            "elective_courses": {
+                "description": "Choose 2-3 courses (6-9 credits)",
+                "courses": [
+                    "CS 587 Introduction to Cryptography",
+                    "ISA 564 Security Laboratory",
+                    "ISA 673 Operating Systems Security",
+                    "ISA 674 Intrusion Detection",
+                    "SWE 637 Software Testing",
+                    "SWE 681 Secure Software Design and Programming",
+                    "ISA 763 Security Protocol Analysis",
+                    "ISA 764 Security Experimentation"
+                ]
+            },
+            "related_courses": {
+                "description": "Choose 0-1 course (0-3 credits)",
+                "courses": [
+                    "CS 540 Compilers",
+                    "CS 555 Computer Communications and Networking",
+                    "CS 571 Operating Systems",
+                    "CS 600 Theory of Computation",
+                    "CS 655 Wireless and Mobile Computing"
+                ]
+            }
+        },
+        "machine_learning_concentration": {
+            "description": "Students must take 5 courses from the following categories:",
+            "required": {
+                "description": "2 courses (6 credits)",
+                "courses": [
+                    "CS 584 Theory and Applications of Data Mining",
+                    "CS 688 Machine Learning"
+                ]
+            },
+            "elective_courses": {
+                "description": "Choose 2-3 courses (6-9 credits)",
+                "courses": [
+                    "CS 657 Mining Massive Datasets with MapReduce",
+                    "CS 678 Advanced Natural Language Processing",
+                    "CS 681 Instructable Cognitive Agents",
+                    "CS 747 Deep Learning",
+                    "CS 782 Advanced Machine Learning"
+                ]
+            },
+            "related_courses": {
+                "description": "Choose 0-1 course (0-3 credits)",
+                "courses": [
+                    "CS 580 Introduction to Artificial Intelligence",
+                    "CS 687 Advanced Artificial Intelligence",
+                    "CS 685 Autonomous Robotics",
+                    "CS 682 Computer Vision"
+                ]
+            }
+        }
+    }
+}

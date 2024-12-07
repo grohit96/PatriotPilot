@@ -1,0 +1,96 @@
+{
+    "computer_science_department_contact": {
+        "grad_advising": {
+            "office_location": "Engineering Building, Room 4300",
+            "map_url": "https://cs.gmu.edu/about/visit-the-department/"
+        },
+        "undergrad_advising": {
+            "office_location": "Buchanan Hall, Room D215",
+            "map_url": "https://cs.gmu.edu/about/visit-the-department/"
+        },
+        "phone_number": "(703) 993-1530",
+        "mailing_address": {
+            "department": "Department of Computer Science",
+            "university": "George Mason University",
+            "full_address": "4400 University Drive, MSN 4A5, Fairfax, VA 22030, USA"
+        },
+        "emails": {
+            "admin_support": "csinfo@gmu.edu",
+            "phd_program": "csphd@gmu.edu",
+            "ms_programs": "csgrad@gmu.edu",
+            "undergrad_programs": "csug@gmu.edu"
+        }
+    },
+    "leadership": [
+        {
+            "name": "David Rosenblum",
+            "position": "Department Chair"
+        },
+        {
+            "name": "Shvetha Soundararajan",
+            "position": "Associate Chair for Undergraduate Studies"
+        },
+        {
+            "name": "Mark Snyder",
+            "position": "Associate Chair for Undergraduate Studies"
+        },
+        {
+            "name": "Robert Pettit",
+            "position": "Associate Chair for Graduate Studies and Program Director, Online MS CS, Computing Foundations Certificate"
+        },
+        {
+            "name": "Hakan Aydin",
+            "position": "Program Director, PhD CS"
+        },
+        {
+            "name": "ThanhVu Nguyen",
+            "position": "Program Director, MS Software Engineering"
+        },
+        {
+            "name": "Alex Brodsky",
+            "position": "Program Director, MS Information Systems"
+        },
+        {
+            "name": "Zoran Duric",
+            "position": "Program Director, MS CS"
+        },
+        {
+            "name": "Shahnaz Kamberi",
+            "position": "Director of Inclusive Computing"
+        }
+    ],
+    "staff": [
+        {
+            "name": "Michele Pieper",
+            "role": "Department Operations Manager and Assistant to Chair"
+        },
+        {
+            "name": "Tonya Lawrence",
+            "role": "Office Manager"
+        },
+        {
+            "name": "Alyssa Tsukamoto",
+            "role": "Graduate Program Specialist"
+        },
+        {
+            "name": "Beth Posocco",
+            "role": "Graduate Program Specialist"
+        },
+        {
+            "name": "Linda Sheridan",
+            "role": "Undergraduate Academic Advisor"
+        },
+        {
+            "name": "Joshua Fletcher",
+            "role": "Undergraduate Academic Advisor"
+        },
+        {
+            "name": "Vernell Wilks",
+            "role": "Undergraduate Academic Advisor"
+        },
+        {
+            "name": "Kristi Morrow",
+            "role": "Undergraduate Academic Advisor"
+        }
+    ]
+}

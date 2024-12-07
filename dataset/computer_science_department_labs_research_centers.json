@@ -1,0 +1,109 @@
+{
+    "computer_science_department_labs_research_centers": [
+        {
+            "type": "Research Center",
+            "name": "Center for Assurance Research and Engineering",
+            "url": "https://care.vse.gmu.edu/"
+        },
+        {
+            "type": "Research Center",
+            "name": "Center of Excellence in Command, Control, Communications, Computing, and Intelligence (C4I)",
+            "url": "https://c4i.gmu.edu/"
+        },
+        {
+            "type": "Research Center",
+            "name": "George Mason University International Cyber Center",
+            "url": "https://www.internationalcybercenter.org/"
+        },
+        {
+            "type": "Research Center",
+            "name": "Learning Agents Center",
+            "url": "https://lalab.gmu.edu/"
+        },
+        {
+            "type": "Laboratory",
+            "name": "Autonomous Robotics Laboratory",
+            "url": "https://cs.gmu.edu/~robotics/pmwiki.php"
+        },
+        {
+            "type": "Laboratory",
+            "name": "Bioinformatics and Computational Biology Group",
+            "url": "https://cs.gmu.edu/~bcb"
+        },
+        {
+            "type": "Laboratory",
+            "name": "Computational Biology Laboratory",
+            "url": "https://cs.gmu.edu/~ashehu/?q=Home"
+        },
+        {
+            "type": "Laboratory",
+            "name": "Computer Vision and Robotics Laboratory",
+            "url": "https://www.cs.gmu.edu/"
+        },
+        {
+            "type": "Laboratory",
+            "name": "Computer and Networking Systems Laboratory",
+            "url": "https://cnslab.cs.gmu.edu/"
+        },
+        {
+            "type": "Laboratory",
+            "name": "Computational Reality, Creativity and Graphics Lab (CraGL)",
+            "url": "https://cragl.cs.gmu.edu/"
+        },
+        {
+            "type": "Laboratory",
+            "name": "Data Mining and Machine Learning Laboratory",
+            "url": "https://cs.gmu.edu/~dmml/"
+        },
+        {
+            "type": "Laboratory",
+            "name": "Design Computing and Extended Reality Group (DCXR)",
+            "url": "https://craigyuyu.github.io/"
+        },
+        {
+            "type": "Laboratory",
+            "name": "DYNAmic, RigOrous, and Automated Reasoning Systems Lab (DynaROARS)",
+            "url": "https://dynaroars.github.io/"
+        },
+        {
+            "type": "Laboratory",
+            "name": "Imaging and Vision Lab",
+            "url": "https://ivlab.cs.gmu.edu/"
+        },
+        {
+            "type": "Laboratory",
+            "name": "Laboratory for the Study and Simulation of Human Movement",
+            "url": "https://cs.gmu.edu/~vislab/index.html"
+        },
+        {
+            "type": "Laboratory",
+            "name": "Machine Learning in Biomedical Informatics Laboratory",
+            "url": null
+        },
+        {
+            "type": "Laboratory",
+            "name": "Machine Learning and Optimization Lab",
+            "url": "https://mingrliu.github.io/"
+        },
+        {
+            "type": "Laboratory",
+            "name": "Measurable Security Laboratory",
+            "url": "https://msl.cs.gmu.edu/"
+        },
+        {
+            "type": "Laboratory",
+            "name": "Motion and Shape Computing Group",
+            "url": "https://masc.cs.gmu.edu/"
+        },
+        {
+            "type": "Laboratory",
+            "name": "Natural Language Processing Group",
+            "url": "https://nlp.cs.gmu.edu/"
+        },
+        {
+            "type": "Laboratory",
+            "name": "RobotiXX Lab",
+            "url": "https://robotixx.cs.gmu.edu/"
+        }
+    ]
+}

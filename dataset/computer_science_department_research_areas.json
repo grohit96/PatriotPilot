@@ -1,0 +1,362 @@
+{
+    "computer_science_department_research_areas": [
+        {
+            "name": "Algorithms and Theory of Computation",
+            "faculty": [
+                {
+                    "name": "Ivan Avramovic"
+                },
+                {
+                    "name": "Foteini Baldimtsi"
+                },
+                {
+                    "name": "Xue Chen"
+                },
+                {
+                    "name": "Dov Gordon"
+                },
+                {
+                    "name": "Evgenios Kornaropoulos"
+                },
+                {
+                    "name": "Fei Li"
+                },
+                {
+                    "name": "Jyh-Ming Lien"
+                },
+                {
+                    "name": "Dana Richards"
+                },
+                {
+                    "name": "Duminda Wijesekera"
+                },
+                {
+                    "name": "Fang-Yi Yu"
+                }
+            ]
+        },
+        {
+            "name": "Artificial Intelligence",
+            "faculty": [
+                {
+                    "name": "Antonios Anastasopoulos"
+                },
+                {
+                    "name": "Zoran Duri\u0107"
+                },
+                {
+                    "name": "Jana Ko\u0161eck\u00e1"
+                },
+                {
+                    "name": "Mingrui Liu"
+                },
+                {
+                    "name": "Sean Luke"
+                },
+                {
+                    "name": "Amarda Shehu"
+                },
+                {
+                    "name": "Gregory Stein"
+                },
+                {
+                    "name": "Gheorghe Tecuci"
+                },
+                {
+                    "name": "Xuesu Xiao"
+                },
+                {
+                    "name": "Ziyu Yao"
+                },
+                {
+                    "name": "Shuochao Yao"
+                },
+                {
+                    "name": "Lap-Fai (Craig) Yu"
+                },
+                {
+                    "name": "Fang-Yi Yu"
+                },
+                {
+                    "name": "Ahmed Bin Zaman"
+                },
+                {
+                    "name": "Qiang Zeng"
+                },
+                {
+                    "name": "Ziwei Zhu"
+                }
+            ]
+        },
+        {
+            "name": "Bioinformatics",
+            "faculty": [
+                {
+                    "name": "Daniel Barbar\u00e1"
+                },
+                {
+                    "name": "Carlotta Domeniconi"
+                },
+                {
+                    "name": "Zoran Duri\u0107"
+                },
+                {
+                    "name": "Huzefa Rangwala"
+                },
+                {
+                    "name": "Amarda Shehu"
+                },
+                {
+                    "name": "Ahmed Bin Zaman"
+                }
+            ]
+        },
+        {
+            "name": "Computer Science Education",
+            "faculty": [
+                {
+                    "name": "Shahnaz Kamberi"
+                },
+                {
+                    "name": "Robert Pettit"
+                },
+                {
+                    "name": "Huzefa Rangwala"
+                },
+                {
+                    "name": "Sanjeev Setia"
+                },
+                {
+                    "name": "Mark Snyder"
+                },
+                {
+                    "name": "Elizabeth White"
+                }
+            ]
+        },
+        {
+            "name": "Databases and Information Systems",
+            "faculty": [
+                {
+                    "name": "Daniel Barbar\u00e1"
+                },
+                {
+                    "name": "Alex Brodsky"
+                },
+                {
+                    "name": "Duminda Wijesekera"
+                }
+            ]
+        },
+        {
+            "name": "Data Mining and Machine Learning",
+            "faculty": [
+                {
+                    "name": "Antonios Anastasopoulos"
+                },
+                {
+                    "name": "Daniel Barbar\u00e1"
+                },
+                {
+                    "name": "Alex Brodsky"
+                },
+                {
+                    "name": "Sanmay Das"
+                },
+                {
+                    "name": "Ping Deng"
+                },
+                {
+                    "name": "Carlotta Domeniconi"
+                },
+                {
+                    "name": "Jana Ko\u0161eck\u00e1"
+                },
+                {
+                    "name": "Jessica Lin"
+                },
+                {
+                    "name": "Mingrui Liu"
+                },
+                {
+                    "name": "Huzefa Rangwala"
+                },
+                {
+                    "name": "David Rosenblum"
+                },
+                {
+                    "name": "Gheorghe Tecuci"
+                },
+                {
+                    "name": "Xuesu Xiao"
+                },
+                {
+                    "name": "Shuochao Yao"
+                },
+                {
+                    "name": "Ziyu Yao"
+                },
+                {
+                    "name": "Fang-Yi Yu"
+                },
+                {
+                    "name": "Lap-Fai (Craig) Yu"
+                },
+                {
+                    "name": "Ziwei Zhu"
+                }
+            ]
+        },
+        {
+            "name": "Graphics, Visualization and Computer Game Design",
+            "faculty": [
+                {
+                    "name": "Jan Allbeck"
+                },
+                {
+                    "name": "Jim X. Chen"
+                },
+                {
+                    "name": "Yotam Gingold"
+                },
+                {
+                    "name": "Bo Han"
+                },
+                {
+                    "name": "Sean Luke"
+                },
+                {
+                    "name": "Lap-Fai (Craig) Yu"
+                }
+            ]
+        },
+        {
+            "name": "Human-Computer Interaction",
+            "faculty": [
+                {
+                    "name": "Yotam Gingold"
+                },
+                {
+                    "name": "Brittany Johnson-Matthews"
+                },
+                {
+                    "name": "Thomas LaToza"
+                },
+                {
+                    "name": "Lap-Fai (Craig) Yu"
+                }
+            ]
+        },
+        {
+            "name": "Robotics and Computer Vision",
+            "faculty": [
+                {
+                    "name": "Zoran Duri\u0107"
+                },
+                {
+                    "name": "Jana Ko\u0161eck\u00e1"
+                },
+                {
+                    "name": "Sean Luke"
+                },
+                {
+                    "name": "Robert Simon"
+                },
+                {
+                    "name": "Gregory Stein"
+                },
+                {
+                    "name": "Xuesu Xiao"
+                },
+                {
+                    "name": "Lap-Fai (Craig) Yu"
+                }
+            ]
+        },
+        {
+            "name": "Security, Privacy and Cryptography",
+            "faculty": [
+                {
+                    "name": "Giuseppe Ateniese"
+                },
+                {
+                    "name": "Foteini Baldimtsi"
+                },
+                {
+                    "name": "Songqing Chen"
+                },
+                {
+                    "name": "Dov Gordon"
+                },
+                {
+                    "name": "Evgenios Kornaropoulos"
+                },
+                {
+                    "name": "Lannan (Lisa) Luo"
+                },
+                {
+                    "name": "Eric Osterweil"
+                },
+                {
+                    "name": "Sanjeev Setia"
+                },
+                {
+                    "name": "Robert Simon"
+                },
+                {
+                    "name": "Xinyuan (Frank) Wang"
+                },
+                {
+                    "name": "Duminda Wijesekera"
+                },
+                {
+                    "name": "Qiang Zeng"
+                },
+                {
+                    "name": "Xiaokuan Zhang"
+                }
+            ]
+        },
+        {
+            "name": "Software Engineering",
+            "faculty": [
+                {
+                    "name": "Brittany Johnson-Matthews"
+                },
+                {
+                    "name": "Wing Lam"
+                },
+                {
+                    "name": "Thomas LaToza"
+                },
+                {
+                    "name": "Lannan (Lisa) Luo"
+                },
+                {
+                    "name": "Andrian Marcus"
+                },
+                {
+                    "name": "Wes Masri"
+                },
+                {
+                    "name": "Daniel Menasc\u00e9"
+                },
+                {
+                    "name": "ThanhVu (Vu) Nguyen"
+                },
+                {
+                    "name": "Robert Pettit"
+                },
+                {
+                    "name": "David Rosenblum"
+                },
+                {
+                    "name": "Shvetha Soundararajan"
+                },
+                {
+                    "name": "Elizabeth White"
+                }
+            ]
+        }
+    ]
+}

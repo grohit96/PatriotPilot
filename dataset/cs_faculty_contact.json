@@ -1,0 +1,633 @@
+{
+    "cs_faculty_contact": [
+        {
+            "name": "Ghada Abdelmoumin",
+            "title": "Associate Professor (Teaching)",
+            "email": "gabdelmo@gmu.edu",
+            "phone": "703-993-1152",
+            "webpage": "N/A",
+            "office_hours": "Email for Appointment",
+            "office_location": "ENGR 4439"
+        },
+        {
+            "name": "Jan Allbeck",
+            "title": "Associate Professor, Associate Dean Honors College",
+            "email": "jallbeck@gmu.edu",
+            "phone": "703-993-1101",
+            "webpage": "cs.gmu.edu/~jallbeck/",
+            "office_hours": "Email for Appointment",
+            "office_location": "BUCHAN D205D"
+        },
+        {
+            "name": "Antonios Anastasopoulos",
+            "title": "Assistant Professor",
+            "email": "antonis@gmu.edu",
+            "phone": "703-993-6821",
+            "webpage": "cs.gmu.edu/~antonis/",
+            "office_hours": "Mondays: 3:00 - 3:30 PM or Email for Appointment",
+            "office_location": "ENGR 4412"
+        },
+        {
+            "name": "Kevin Andrea",
+            "title": "Assistant Professor (Teaching)",
+            "email": "kandrea@gmu.edu",
+            "phone": "703-993-5429",
+            "webpage": "cs.gmu.edu/~kandrea",
+            "office_hours": [
+                "CS 367: Tuesdays: 2:00 - 3:30 PM",
+                "CS 262: Mondays: 1:00 - 2:30 PM",
+                "Advising: Email for Appointment"
+            ],
+            "office_location": "BUCHAN D217C"
+        },
+        {
+            "name": "Giuseppe Ateniese",
+            "title": "Eminent Scholar, Professor",
+            "email": "ateniese@gmu.edu",
+            "phone": "703-993-6758",
+            "webpage": "ateniese.github.io/",
+            "office_hours": "Email for Appointment",
+            "office_location": "RSCH 339"
+        },
+        {
+            "name": "Ivan Avramovic",
+            "title": "Assistant Professor (Teaching)",
+            "email": "iavramo2@gmu.edu",
+            "phone": "703-993-5426",
+            "webpage": "cs.gmu.edu/~iavramo2/",
+            "office_hours": "Tuesdays & Thursdays: 11:30 AM - 12:30 PM or Email for Appointment",
+            "office_location": "BUCHAN D215K"
+        },
+        {
+            "name": "Foteini Baldimtsi",
+            "title": "Associate Professor",
+            "email": "foteini@gmu.edu",
+            "phone": "703-993-6148",
+            "webpage": "http://cs.gmu.edu/~foteini/",
+            "office_hours": "Email for Appointment",
+            "office_location": "ENGR 5333"
+        },
+        {
+            "name": "Daniel Barbara",
+            "title": "Professor",
+            "email": "dbarbara@gmu.edu",
+            "phone": "703-993-1627",
+            "webpage": "http://cs.gmu.edu/~dbarbara/",
+            "office_hours": "Email for Appointment",
+            "office_location": "ENGR 4420"
+        },
+        {
+            "name": "Michael Jarret Baume",
+            "title": "Assistant Professor",
+            "email": "mjarretb@gmu.edu",
+            "phone": "N/A",
+            "webpage": "N/A",
+            "office_hours": "Email for Appointment",
+            "office_location": "EXPL 2220"
+        },
+        {
+            "name": "Alex Brodsky",
+            "title": "Professor",
+            "email": "brodsky@gmu.edu",
+            "phone": "703-993-1529",
+            "webpage": "http://cs.gmu.edu/~brodsky/",
+            "office_hours": "Email for Appointment",
+            "office_location": "ENGR 4418"
+        },
+        {
+            "name": "Mary (Missy) Cummings",
+            "title": "Professor",
+            "email": "cummings@gmu.edu",
+            "phone": "703-993-6969",
+            "webpage": "cec.gmu.edu/node/9136",
+            "office_hours": "Email for Appointment",
+            "office_location": "ENGR 2705"
+        },
+        {
+            "name": "Sanmay Das",
+            "title": "Professor",
+            "email": "sanmay@gmu.edu",
+            "phone": "703-993-6820",
+            "webpage": "cs.gmu.edu/~sanmay/",
+            "office_hours": "Fridays 3:00 - 4:00 PM",
+            "office_location": "ENGR 4422"
+        },
+        {
+            "name": "Ping Deng",
+            "title": "Associate Professor (Teaching)",
+            "email": "pideng@gmu.edu",
+            "phone": "703-993-4322",
+            "webpage": "cs.gmu.edu/~pideng/",
+            "office_hours": "Mondays & Wednesdays: 12:00 - 1:00 PM",
+            "office_location": "ENGR 4608"
+        },
+        {
+            "name": "Archange Giscard Destine",
+            "title": "Instructor",
+            "email": "adestine@gmu.edu",
+            "phone": "703-993-1452",
+            "webpage": "N/A",
+            "office_hours": "Email for Appointment",
+            "office_location": "ENGR 3241"
+        },
+        {
+            "name": "Socrates Dimitriadis",
+            "title": "Assistant Professor (Teaching)",
+            "email": "socrates@gmu.edu",
+            "phone": "703-993-6268",
+            "webpage": "cs.gmu.edu/~socrates",
+            "office_hours": "Tuesday and Wednesday 2:00-3:00 PM",
+            "office_location": "ENGR 4508"
+        },
+        {
+            "name": "Sapna Gambhir",
+            "title": "Associate Professor (Teaching)",
+            "email": "sgambhi@gmu.edu",
+            "phone": "703-993-7154",
+            "webpage": "N/A",
+            "office_hours": [
+                "Tuesdays: 3:15 - 4:15 PM",
+                "Wednesdays: 1:30 - 2:30 PM",
+                "Email for Appointment"
+            ],
+            "office_location": "RSCH 356"
+        },
+        {
+            "name": "Yotam Gingold",
+            "title": "Associate Professor",
+            "email": "ygingold@gmu.edu",
+            "phone": "703-993-9196",
+            "webpage": "cs.gmu.edu/~ygingold/",
+            "office_hours": "Email for Appointment",
+            "office_location": "RSCH 408"
+        },
+        {
+            "name": "Ana Loreto Gonzalez Hernandez",
+            "title": "Assistant Professor (Teaching)",
+            "email": "loreto@gmu.edu",
+            "phone": "703-993-6431",
+            "webpage": "N/A",
+            "office_hours": [
+                "CS 262: Tuesdays: 4:00 - 5:30 PM",
+                "CS 580: Tuesdays: 3:00 - 4:00 PM"
+            ],
+            "office_location": "BUCHAN D217D"
+        },
+        {
+            "name": "Ziwei Zhu",
+            "title": "Assistant Professor",
+            "email": "zzhu20@gmu.edu",
+            "phone": "703-993-6933",
+            "webpage": "ziweii.github.io/",
+            "office_hours": "Email for Appointment",
+            "office_location": "ENGR 4609"
+        },
+        {
+            "name": "David Ignacio Gonzalez Samudio",
+            "title": "Instructor (Teaching)",
+            "email": "dgonza10@gmu.edu",
+            "phone": "N/A",
+            "webpage": "N/A",
+            "office_hours": "Email for Appointment",
+            "office_location": "ENGR 4436"
+        },
+        {
+            "name": "Sara Gopalkrishna",
+            "title": "Assistant Professor (Teaching)",
+            "email": "slgopal@gmu.edu",
+            "phone": "703-993-6936",
+            "webpage": "N/A",
+            "office_hours": "Thursdays: 12:30-2:30 PM",
+            "office_location": "BUCHAN D217E"
+        },
+        {
+            "name": "Dov Gordon",
+            "title": "Associate Professor",
+            "email": "gordon@gmu.edu",
+            "phone": "703-993-2767",
+            "webpage": "cs.gmu.edu/~gordon",
+            "office_hours": [
+                "Mondays: 1:30-2:30 PM (ENGR 4423)",
+                "Tuesdays: 10:00-11:00 AM (Zoom)"
+            ],
+            "office_location": "ENGR 4423"
+        },
+        {
+            "name": "Bo Han",
+            "title": "Associate Professor",
+            "email": "bohan@gmu.edu",
+            "phone": "703-993-6651",
+            "webpage": "cs.gmu.edu/~bohan/",
+            "office_hours": "Mondays & Wednesdays: 4:15 - 5:00 PM",
+            "office_location": "ENGR 5324"
+        },
+        {
+            "name": "Brian Hrolenok",
+            "title": "Assistant Professor (Teaching)",
+            "email": "hrolenok@gmu.edu",
+            "phone": "703-993-6824",
+            "webpage": "cs.gmu.edu/~hrolenok/",
+            "office_hours": "Email for Appointment",
+            "office_location": "ENGR 4708"
+        },
+        {
+            "name": "Wassim Itani",
+            "title": "Associate Professor (Teaching)",
+            "email": "wassim@gmu.edu",
+            "phone": "703-993-6943",
+            "webpage": "N/A",
+            "office_hours": "Email for Appointment",
+            "office_location": "BUCHAN D217I"
+        },
+        {
+            "name": "Brittany Johnson-Matthews",
+            "title": "Assistant Professor",
+            "email": "johnsonb@gmu.edu",
+            "phone": "703-993-6828",
+            "webpage": "cs.gmu.edu/~johnsonb/",
+            "office_hours": "Email for Appointment",
+            "office_location": "ENGR 4440"
+        },
+        {
+            "name": "Shahnaz Kamberi",
+            "title": "Associate Professor (Teaching)",
+            "email": "kamberis@gmu.edu",
+            "phone": "703-993-6825",
+            "webpage": "N/A",
+            "office_hours": "Mondays: 1:30 - 2:30 PM",
+            "office_location": "ENGR 2706"
+        },
+        {
+            "name": "Parastoo Kamranfar",
+            "title": "Assistant Professor (Teaching)",
+            "email": "pkamranf@gmu.edu",
+            "phone": "703-993-8885",
+            "webpage": "N/A",
+            "office_hours": "Tuesday/Thursday 1:30-2:30 PM",
+            "office_location": "RSCH 361"
+        },
+        {
+            "name": "Evgenios Kornaropoulos",
+            "title": "Assistant Professor",
+            "email": "evgenios@gmu.edu",
+            "phone": "703-993-6646",
+            "webpage": "cs.gmu.edu/~evgenios/",
+            "office_hours": "Email for Appointment",
+            "office_location": "RSCH 352"
+        },
+        {
+            "name": "Wing Lam",
+            "title": "Assistant Professor",
+            "email": "winglam@gmu.edu",
+            "phone": "703-993-6664",
+            "webpage": "cs.gmu.edu/~winglam/",
+            "office_hours": "Wednesdays: 3:30 - 4:30 PM",
+            "office_location": "ENGR 4442"
+        },
+        {
+            "name": "Thomas Latoza",
+            "title": "Associate Professor",
+            "email": "tlatoza@gmu.edu",
+            "phone": "703-993-1677",
+            "webpage": "cs.gmu.edu/~tlatoza/",
+            "office_hours": "Email for Appointment",
+            "office_location": "ENGR 4431"
+        },
+        {
+            "name": "Fei Li",
+            "title": "Associate Professor",
+            "email": "fli4@gmu.edu",
+            "phone": "703-993-1540",
+            "webpage": "cs.gmu.edu/~lifei/",
+            "office_hours": "Email for Appointment",
+            "office_location": "ENGR 5326"
+        },
+        {
+            "name": "Lannan (Lisa) Luo",
+            "title": "Associate Professor",
+            "email": "lluo4@gmu.edu",
+            "phone": "703-993-6942",
+            "webpage": "lannan.github.io/",
+            "office_hours": "Email for Appointment",
+            "office_location": "ENGR 5332"
+        },
+        {
+            "name": "Juan (Judy) Luo",
+            "title": "Associate Professor (Teaching)",
+            "email": "jluo2@gmu.edu",
+            "phone": "703-993-5241",
+            "webpage": "N/A",
+            "office_hours": "Email for Appointment",
+            "office_location": "ENGR 5328"
+        },
+        {
+            "name": "Andrian Marcus",
+            "title": "Professor",
+            "email": "amarcus7@gmu.edu",
+            "phone": "703-993-9237",
+            "webpage": "www.andrianmarcus.net/",
+            "office_hours": "Email for Appointment",
+            "office_location": "ENGR 4452"
+        },
+        {
+            "name": "Hamza Mughal",
+            "title": "Assistant Professor (Teaching)",
+            "email": "hmughal2@gmu.edu",
+            "phone": "703-993-6934",
+            "webpage": "hamzamughal.com",
+            "office_hours": "Email for Appointment",
+            "office_location": "BUCHAN D217F"
+        },
+        {
+            "name": "Radu Negulescu",
+            "title": "Associate Professor (Teaching)",
+            "email": "rnegules@gmu.edu",
+            "phone": "703-993-6836",
+            "webpage": "N/A",
+            "office_hours": [
+                "Tuesday: 1:00-2:00",
+                "Thursday: 6:00-7:00",
+                "Friday: 12:00-1:00",
+                "Email for Appointment"
+            ],
+            "office_location": "RSCH 364"
+        },
+        {
+            "name": "Thanh Vu Nguyen",
+            "title": "Associate Professor",
+            "email": "tvn@gmu.edu",
+            "phone": "703-993-6641",
+            "webpage": "dynaroars.cs.gmu.edu",
+            "office_hours": "Tuesdays: 11:00 AM - 12:00 PM",
+            "office_location": "ENGR 4430"
+        },
+        {
+            "name": "Eric Osterweil",
+            "title": "Assistant Professor",
+            "email": "eoster@gmu.edu",
+            "phone": "703-993-4321",
+            "webpage": "cs.gmu.edu/~eoster/",
+            "office_hours": "Email for Appointment",
+            "office_location": "ENGR 5346"
+        },
+        {
+            "name": "John Otten",
+            "title": "Senior Instructor",
+            "email": "jotten2@gmu.edu",
+            "phone": "703-993-1669",
+            "webpage": "cs.gmu.edu/~jotten2/",
+            "office_hours": [
+                "Wednesday: 12:00-1:00 PM",
+                "Wednesday: 4:30-5:30 PM"
+            ],
+            "office_location": "ENGR 5335"
+        },
+        {
+            "name": "Robert Pettit",
+            "title": "Professor of Practice and Associate Chair",
+            "email": "rpettit@gmu.edu",
+            "phone": "703-993-6643",
+            "webpage": "cs.gmu.edu/~rpettit/",
+            "office_hours": "Wednesdays: 1:00 - 3:00 PM",
+            "office_location": "ENGR 4304"
+        },
+        {
+            "name": "Huzefa Rangwala",
+            "title": "Professor and Lawrence Cranberg Faculty Fellow",
+            "email": "rangwala@gmu.edu",
+            "phone": "N/A",
+            "webpage": "cs.gmu.edu/~rangwala/",
+            "office_hours": "On Leave",
+            "office_location": "N/A N/A"
+        },
+        {
+            "name": "Michael Reep",
+            "title": "Associate Professor (Teaching)",
+            "email": "mreep@gmu.edu",
+            "phone": "703-993-7164",
+            "webpage": "N/A",
+            "office_hours": [
+                "Tuesdays & Thursdays: 10:30 - 11:30 AM",
+                "Email for Appointment"
+            ],
+            "office_location": "ENGR 4417"
+        },
+        {
+            "name": "Katherine (Raven) Russell",
+            "title": "Associate Professor (Teaching)",
+            "email": "krusselc@gmu.edu",
+            "phone": "703-993-3339",
+            "webpage": "N/A",
+            "office_hours": "Fridays: 5:00 - 7:00 PM",
+            "office_location": "BUCHAN D217B"
+        },
+        {
+            "name": "Sanjeev Setia",
+            "title": "Professor",
+            "email": "setia@gmu.edu",
+            "phone": "703-993-4098",
+            "webpage": "cs.gmu.edu/~setia/",
+            "office_hours": "Tuesdays 1:30-3:00 PM",
+            "office_location": "ENGR 5305"
+        },
+        {
+            "name": "Maha Shamseddine",
+            "title": "Assistant Professor (Teaching)",
+            "email": "maha@gmu.edu",
+            "phone": "703-993-6941",
+            "webpage": "N/A",
+            "office_hours": "Tuesdays & Thursdays: 10:30 AM - 12:00 PM",
+            "office_location": "BUCHAN D215I"
+        },
+        {
+            "name": "Mark Snyder",
+            "title": "Professor (Teaching) and Associate Chair",
+            "email": "msnyde14@gmu.edu",
+            "phone": "703-993-5624",
+            "webpage": "cs.gmu.edu/~marks/",
+            "office_hours": [
+                "For General Academic Matters: Email csug@gmu.edu for appointment",
+                "CS 463: T/R 1:30-2:30 PM"
+            ],
+            "office_location": "BUCHAN D217G"
+        },
+        {
+            "name": "Shvetha Soundararajan",
+            "title": "Associate Chair and Associate Professor (Teaching)",
+            "email": "shvetha@gmu.edu",
+            "phone": "703-993-6219",
+            "webpage": "cs.gmu.edu/~shvetha/",
+            "office_hours": [
+                "CS 321: Mondays 1:30 - 2:30 PM (virtual) and by appointment",
+                "SWE 621: Wednesdays 1:30 - 2:30 PM (virtual) and by appointment",
+                "Advising: By appointment"
+            ],
+            "office_location": "BUCHAN D217H"
+        },
+        {
+            "name": "Gregory Stein",
+            "title": "Assistant Professor",
+            "email": "gjstein@gmu.edu",
+            "phone": "703-993-6822",
+            "webpage": "cs.gmu.edu/~gjstein/",
+            "office_hours": "Fridays: 9:30 - 11:00 AM",
+            "office_location": "RSCH 169"
+        },
+        {
+            "name": "Gheorghe Tecuci",
+            "title": "Professor",
+            "email": "tecuci@gmu.edu",
+            "phone": "703-993-1722",
+            "webpage": "lac.gmu.edu/members/~tecuci/",
+            "office_hours": "Email for Appointment",
+            "office_location": "ENGR 4613"
+        },
+        {
+            "name": "Xinyuan (Frank) Wang",
+            "title": "Associate Professor",
+            "email": "xwangc@gmu.edu",
+            "phone": "703-993-9461",
+            "webpage": "cs.gmu.edu/~xwangc/",
+            "office_hours": "Fridays: 4:20 - 5:30 PM",
+            "office_location": "ENGR 5331"
+        },
+        {
+            "name": "Elizabeth White",
+            "title": "Associate Professor",
+            "email": "white@gmu.edu",
+            "phone": "703-993-1586",
+            "webpage": "cs.gmu.edu/~white/",
+            "office_hours": "Email for Appointment",
+            "office_location": "ENGR 4302"
+        },
+        {
+            "name": "Duminda Wijesekera",
+            "title": "Professor",
+            "email": "dwijesek@gmu.edu",
+            "phone": "703-993-1578",
+            "webpage": "cs.gmu.edu/~duminda/",
+            "office_hours": "Email for Appointment",
+            "office_location": "RSCH 436"
+        },
+        {
+            "name": "Xuesu Xiao",
+            "title": "Assistant Professor",
+            "email": "xiao@gmu.edu",
+            "phone": "703-993-6938",
+            "webpage": "cs.gmu.edu/~xiao/",
+            "office_hours": "Email for Appointment",
+            "office_location": "RSCH 165"
+        },
+        {
+            "name": "Lishan Yang",
+            "title": "Assistant Professor",
+            "email": "lyang28@gmu.edu",
+            "phone": "703-993-6903",
+            "webpage": "lishanyang.github.io",
+            "office_hours": "Mondays: 4:30 - 5:30 PM & Fridays: 8:30 - 9:30 AM or Email for Appointment",
+            "office_location": "ENGR 4610"
+        },
+        {
+            "name": "Shuochao Yao",
+            "title": "Assistant Professor",
+            "email": "shuochao@gmu.edu",
+            "phone": "703-993-6827",
+            "webpage": "yscacaca.github.io/",
+            "office_hours": "Email for Appointment",
+            "office_location": "ENGR 5327"
+        },
+        {
+            "name": "Ziyu Yao",
+            "title": "Assistant Professor",
+            "email": "ziyuyao@gmu.edu",
+            "phone": "703-993-6649",
+            "webpage": "ziyuyao.org/",
+            "office_hours": "Email for Appointment",
+            "office_location": "ENGR 4415"
+        },
+        {
+            "name": "Jinwei Ye",
+            "title": "Associate Professor",
+            "email": "jinweiye@gmu.edu",
+            "phone": "703-993-6668",
+            "webpage": "cs.gmu.edu/~jinweiye/",
+            "office_hours": "Email for Appointment",
+            "office_location": "RSCH 409"
+        },
+        {
+            "name": "Binqian (Bella) Yin",
+            "title": "Assistant Professor (Teaching)",
+            "email": "byin2@gmu.edu",
+            "phone": "703-993-8454",
+            "webpage": "N/A",
+            "office_hours": "Email for Appointment",
+            "office_location": "BUCHAN D217J"
+        },
+        {
+            "name": "Fang-Yi Yu",
+            "title": "Assistant Professor",
+            "email": "fangyiyu@gmu.edu",
+            "phone": "703-993-6930",
+            "webpage": "cs.gmu.edu/~fangyiyu/",
+            "office_hours": "Email for Appointment",
+            "office_location": "RSCH 350"
+        },
+        {
+            "name": "Lap Fai (Craig) Yu",
+            "title": "Associate Professor",
+            "email": "craigyu@gmu.edu",
+            "phone": "703-993-4813",
+            "webpage": "cs.gmu.edu/~craigyu/",
+            "office_hours": "Email for Appointment",
+            "office_location": "RSCH 406"
+        },
+        {
+            "name": "Ahmed Bin Zaman",
+            "title": "Assistant Professor (Teaching)",
+            "email": "azaman6@gmu.edu",
+            "phone": "703-993-6642",
+            "webpage": "N/A",
+            "office_hours": [
+                "CS 112: Tuesdays: 2:00-4:00 PM",
+                "CS 330: Thursdays: 2:00-4:00 PM"
+            ],
+            "office_location": "ENGR 4455"
+        },
+        {
+            "name": "Qiang Zeng",
+            "title": "Associate Professor",
+            "email": "zeng@gmu.edu",
+            "phone": "N/A",
+            "webpage": "cs.gmu.edu/~zeng/",
+            "office_hours": "Tuesdays & Thursdays: 3:00 - 4:00 PM",
+            "office_location": "ENGR 4448"
+        },
+        {
+            "name": "Xiaokuan Zhang",
+            "title": "Assistant Professor",
+            "email": "xiaokuan@gmu.edu",
+            "phone": "703-993-6931",
+            "webpage": "mainrake.github.io/",
+            "office_hours": "Email for Appointment",
+            "office_location": "RSCH 357"
+        },
+        {
+            "name": "Yutao Zhong",
+            "title": "Associate Professor (Teaching)",
+            "email": "yzhong@gmu.edu",
+            "phone": "703-993-1773",
+            "webpage": "cs.gmu.edu/~yzhong/",
+            "office_hours": "Email for Appointment",
+            "office_location": "ENGR 4433"
+        },
+        {
+            "name": "Keren Zhou",
+            "title": "Assistant Professor",
+            "email": "kzhou6@gmu.edu",
+            "phone": "703-993-8889",
+            "webpage": "www.jokerzen.tech/",
+            "office_hours": "Fridays: 2:00 - 3:00 PM",
+            "office_location": "ENGR 5315"
+        }
+    ]
+}

@@ -1,0 +1,237 @@
+{
+    "computer_science_department_alumni": [
+        {
+            "name": "Meaghan Clark",
+            "degrees": [
+                "BS CS"
+            ],
+            "graduation_years": [
+                2012
+            ],
+            "current_positions": [
+                {
+                    "title": null,
+                    "company": null,
+                    "department": null,
+                    "institution": null
+                }
+            ],
+            "former_position": null
+        },
+        {
+            "name": "Ben Gelman",
+            "degrees": [
+                "BS CS, MS CS"
+            ],
+            "graduation_years": [
+                2014,
+                2016
+            ],
+            "current_positions": [
+                {
+                    "title": null,
+                    "company": null,
+                    "department": null,
+                    "institution": null
+                }
+            ],
+            "former_position": null
+        },
+        {
+            "name": "Nathan LaPierre",
+            "degrees": [
+                "BS CS"
+            ],
+            "graduation_years": [
+                2015
+            ],
+            "current_positions": [
+                {
+                    "title": null,
+                    "company": null,
+                    "department": null,
+                    "institution": null
+                }
+            ],
+            "former_position": null
+        },
+        {
+            "name": "Naeem Esfahani",
+            "degrees": [
+                "Ph.D."
+            ],
+            "graduation_years": [
+                2014
+            ],
+            "current_positions": [
+                {
+                    "title": "Software Engineer",
+                    "company": "Google",
+                    "department": null,
+                    "institution": null
+                }
+            ],
+            "former_position": null
+        },
+        {
+            "name": "Yao Liu",
+            "degrees": [
+                "Ph.D."
+            ],
+            "graduation_years": [
+                2013
+            ],
+            "current_positions": [
+                {
+                    "title": "Assistant Professor",
+                    "company": null,
+                    "department": "Computer Science Department",
+                    "institution": "Binghamton University"
+                }
+            ],
+            "former_position": null
+        },
+        {
+            "name": "Sam Blasiak",
+            "degrees": [
+                "Ph.D."
+            ],
+            "graduation_years": [
+                2013
+            ],
+            "current_positions": [
+                {
+                    "title": "Software Engineer",
+                    "company": "Google",
+                    "department": null,
+                    "institution": null
+                }
+            ],
+            "former_position": null
+        },
+        {
+            "name": "Ronald Ritchey",
+            "degrees": [
+                "B.S.",
+                "M.S.",
+                "Ph.D."
+            ],
+            "graduation_years": [
+                1996,
+                2000,
+                2007
+            ],
+            "current_positions": [
+                {
+                    "title": "Managing Director",
+                    "company": "JP Morgan & Chase",
+                    "department": null,
+                    "institution": null
+                }
+            ],
+            "former_position": null
+        },
+        {
+            "name": "Alan Harbitter",
+            "degrees": [
+                "Ph.D."
+            ],
+            "graduation_years": [
+                2002
+            ],
+            "current_positions": [
+                {
+                    "title": "CTO",
+                    "company": "Harbitter Consulting, LLC",
+                    "department": null,
+                    "institution": null
+                }
+            ],
+            "former_position": null
+        },
+        {
+            "name": "Peng Ning",
+            "degrees": [
+                "Ph.D."
+            ],
+            "graduation_years": [
+                2001
+            ],
+            "current_positions": [
+                {
+                    "title": "Professor",
+                    "department": "CS Department",
+                    "institution": "NC State University",
+                    "company": null
+                },
+                {
+                    "title": "Vice President",
+                    "department": null,
+                    "institution": null,
+                    "company": "Samsung Telecommunications America"
+                }
+            ],
+            "former_position": null
+        },
+        {
+            "name": "M. Brian Blake",
+            "degrees": [
+                "Ph.D."
+            ],
+            "graduation_years": [
+                2000
+            ],
+            "current_positions": [
+                {
+                    "title": "Provost and Executive VP",
+                    "company": null,
+                    "department": null,
+                    "institution": "Drexel University"
+                }
+            ],
+            "former_position": null
+        },
+        {
+            "name": "Abdur Chowdhury",
+            "degrees": [
+                "B.S.",
+                "M.S."
+            ],
+            "graduation_years": [
+                1995,
+                1997
+            ],
+            "current_positions": [
+                {
+                    "title": null,
+                    "company": "Twitter",
+                    "department": null,
+                    "institution": null
+                }
+            ],
+            "former_position": "Chief Scientist"
+        },
+        {
+            "name": "Anhtuan Dinh",
+            "degrees": [
+                "B.S.",
+                "M.S.",
+                "Ph.D."
+            ],
+            "graduation_years": [
+                1989,
+                1991,
+                1994
+            ],
+            "current_positions": [
+                {
+                    "title": "Director of Software Systems Engineering",
+                    "company": "MITRE",
+                    "department": null,
+                    "institution": null
+                }
+            ],
+            "former_position": null
+        }
+    ]
+}

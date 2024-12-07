@@ -1,0 +1,239 @@
+{
+  "members": {
+    "faculty": [
+      {
+        "name": "Ziyu Yao",
+        "title": "Assistant Professor",
+        "research_interests": [
+          "Question Answering",
+          "Semantic Parsing",
+          "Human-AI Interaction",
+          "Language and Code",
+          "Efficient NLP/AI"
+        ]
+      },
+      {
+        "name": "Antonios Anastasopoulos",
+        "title": "Assistant Professor",
+        "research_interests": [
+          "Computational Linguistics",
+          "Machine Translation",
+          "Speech Recognition",
+          "NLP for Endangered Languages"
+        ]
+      }
+    ],
+    "students": {
+      "phd_students": [
+        {
+          "name": "Daking Rai",
+          "research_interests": [
+            "Natural Language Processing",
+            "Machine Learning",
+            "Deep Learning"
+          ]
+        },
+        {
+          "name": "Mohamed Aghzal",
+          "research_interests": [
+            "Natural Language Processing"
+          ]
+        },
+        {
+          "name": "Saurabh Srivastava",
+          "research_interests": [
+            "Natural Language Processing",
+            "Machine Learning",
+            "Deep Learning"
+          ]
+        },
+        {
+          "name": "Anjishnu Mukherjee",
+          "research_interests": [
+            "Large Language Models",
+            "Fairness and Biases"
+          ]
+        },
+        {
+          "name": "Joshua Otten",
+          "research_interests": [
+            "Natural Language Processing",
+            "Ancient Languages",
+            "Artificial Intelligence",
+            "Linguistics",
+            "Embedded Systems"
+          ]
+        },
+        {
+          "name": "Milind Agarwal",
+          "research_interests": [
+            "Natural Language Processing",
+            "Machine Learning",
+            "Endangered Languages"
+          ]
+        },
+        {
+          "name": "Syeda Sabrina Akter",
+          "research_interests": [
+            "Multilingual NLP",
+            "Speech Translation",
+            "NLP for Low-Resource and Endangered Languages"
+          ]
+        },
+        {
+          "name": "Fahim Faisal",
+          "research_interests": [
+            "Computational Linguistics",
+            "Natural Language Processing",
+            "Machine Learning"
+          ]
+        },
+        {
+          "name": "Murong Yue",
+          "research_interests": [
+            "Natural Language Processing",
+            "Deep Learning"
+          ]
+        },
+        {
+          "name": "Prabin Bhandari",
+          "research_interests": [
+            "Natural Language Processing",
+            "Machine Learning",
+            "Endangered Languages"
+          ]
+        },
+        {
+          "name": "Hao Yan",
+          "research_interests": [
+            "Natural Language Processing",
+            "Machine Learning",
+            "Deep Learning"
+          ]
+        },
+        {
+          "name": "Jonathan Mbuya Kabala",
+          "research_interests": [
+            "Natural Language Processing"
+          ]
+        },
+        {
+          "name": "Nathaniel (Nate) Krasner",
+          "research_interests": [
+            "Natural Language Processing"
+          ]
+        },
+        {
+          "name": "Belu Ticona",
+          "research_interests": [
+            "Natural Language Processing",
+            "Speech",
+            "Computational Social Science",
+            "Communication and Representation of Culture"
+          ]
+        },
+        {
+          "name": "Chutong Meng",
+          "research_interests": [
+            "Speech and Language Processing"
+          ]
+        },
+        {
+          "name": "Kourosh T Baghaei",
+          "research_interests": [
+            "Natural Language Processing",
+            "Machine Learning",
+            "Reinforcement Learning",
+            "Game Development"
+          ]
+        }
+      ],
+      "undergraduate_students": [
+        {
+          "name": "Reva Hirave",
+          "research_interests": [
+            "Natural Language Processing",
+            "Computational Social Science",
+            "Sociolinguistics"
+          ]
+        },
+        {
+          "name": "Wijdane Mifdal",
+          "research_interests": [
+            "Natural Language Processing"
+          ]
+        }
+      ]
+    },
+    "alumni": [
+      {
+        "name": "Ruoyu (Roy) Xie",
+        "transition": "Undergraduate → PhD@Duke CS",
+        "research_interests": [
+          "Natural Language Processing",
+          "Machine Learning",
+          "Computer Vision"
+        ]
+      },
+      {
+        "name": "Md Mahfuz Ibn Alam",
+        "transition": "PhD Student → Term Faculty @ William & Mary",
+        "research_interests": [
+          "Natural Language Processing",
+          "Machine Learning",
+          "Computer Vision",
+          "Common Sense Reasoning"
+        ]
+      },
+      {
+        "name": "Sina Ahmadi",
+        "transition": "Postdoctoral Researcher → Postdoc@U.Zurich",
+        "research_interests": [
+          "Computational Linguistics",
+          "NLP for Endangered Languages",
+          "Language Resources"
+        ]
+      },
+      {
+        "name": "Yinkai Wang",
+        "transition": "Undergraduate → PhD@Tufts",
+        "research_interests": [
+          "Natural Language Processing"
+        ]
+      },
+      {
+        "name": "Sharalina Keshava",
+        "transition": "CS MSc → Amazon",
+        "research_interests": [
+          "Natural Language Processing",
+          "Fairness in AI",
+          "Multilingual NLP",
+          "Machine Learning",
+          "Deep Learning"
+        ]
+      }
+    ],
+    "collaborators": [
+      {
+        "name": "Chahat Raj",
+        "research_interests": [
+          "NLP",
+          "ML"
+        ]
+      },
+      {
+        "name": "Claytone Sikasote",
+        "research_interests": [
+          "Language Processing for Bemba"
+        ]
+      },
+      {
+        "name": "Sam Blouir",
+        "research_interests": [
+          "NLP",
+          "ML"
+        ]
+      }
+    ]
+  }
+}

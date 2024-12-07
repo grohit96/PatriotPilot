@@ -1,0 +1,143 @@
+{
+    "computer_science_department_advising": {
+        "undergraduate_advising": {
+            "description": "The Department of Computer Science has four undergraduate advisors on staff who are qualified to answer many student questions on both policy and procedure.",
+            "advisors": [
+                {
+                    "name": "Josh Fletcher",
+                    "position": "Undergraduate Academic Advisor",
+                    "webpage": "https://cs.gmu.edu/directory/detail/96/"
+                },
+                {
+                    "name": "Kristi Morrow",
+                    "position": "Undergraduate Academic Advisor",
+                    "webpage": "https://cs.gmu.edu/directory/detail/186/"
+                },
+                {
+                    "name": "Linda Sheridan",
+                    "position": "Undergraduate Academic Advisor",
+                    "webpage": "https://cs.gmu.edu/directory/detail/74/"
+                },
+                {
+                    "name": "Vernell Wilks",
+                    "position": "Undergraduate Academic Advisor",
+                    "webpage": "https://cs.gmu.edu/directory/detail/167/"
+                }
+            ],
+            "appointment": {
+                "note": "Advising is by appointment only",
+                "booking_link": "https://outlook.office365.com/book/CSUGAdvising@gmuedu.onmicrosoft.com/",
+                "instructions": [
+                    "Be sure to select the correct format for your appointment.",
+                    "Note the location for in-person advising: Undergraduate Advising Office, Buchanan Hall D215."
+                ]
+            },
+            "contact": {
+                "email": "csug@gmu.edu",
+                "phone": "(703) 993-1530"
+            },
+            "FERPA": "Advising appointments are one-on-one meetings with an advisor. Other students, friends, or family are not permitted to participate in the meeting unless FERPA permission has been granted by the student and applied to their account prior to that day's meeting.",
+            "required_advising_appointments": [
+                {
+                    "course": "CS 110",
+                    "instructions": [
+                        "Meet with one of the Undergraduate Academic Advisors listed above.",
+                        "Email the filled out CS 110 Advising Form at least 48 hours prior to the scheduled appointment.",
+                        "Do not arrive at your appointment with your form in hand or on your laptop."
+                    ],
+                    "form_link": "https://cs.gmu.edu/media/uploads/programs/undergraduate/files/advisingcs110.pdf"
+                },
+                {
+                    "course": "CS 330",
+                    "instructions": [
+                        "Meet with your faculty advisor.",
+                        "Bring the filled out CS 330 Advising Form to your faculty meeting."
+                    ],
+                    "form_link": "https://cs.gmu.edu/media/uploads/programs/undergraduate/files/advisingcs330.pdf"
+                }
+            ],
+            "faculty_advisors": {
+                "description": "If you have formally declared Computer Science as your major, you will have an assigned faculty advisor to assist you with scheduling, the CS 330 Advising Form, and other academic decisions.",
+                "recommendation": "We recommend that you meet with your faculty advisor on a regular basis.",
+                "additional_info_link": "https://cs.gmu.edu/current-students/undergraduates/advising/advising-faq/"
+            }
+        },
+        "graduate_advising": {
+            "advisors": [
+                {
+                    "name": "Imekom Inyang",
+                    "position": "Graduate Program Specialist",
+                    "webpage": "https://cs.gmu.edu/directory/detail/198/"
+                },
+                {
+                    "name": "Lauren Nyilas",
+                    "position": "Graduate Program Specialist",
+                    "webpage": "https://cs.gmu.edu/directory/detail/197/"
+                },
+                {
+                    "name": "Beth Posocco",
+                    "position": "Graduate Program Specialist",
+                    "webpage": "https://cs.gmu.edu/directory/detail/75/"
+                },
+                {
+                    "name": "Alyssa Tsukamoto",
+                    "position": "Graduate Program Specialist",
+                    "webpage": "https://cs.gmu.edu/directory/detail/180/"
+                }
+            ],
+            "contact_information": {
+                "office_location": "Engineering Building Suite #4300, 4th Floor",
+                "email": "csgrad@gmu.edu",
+                "phone": "(703) 993-1530"
+            },
+            "advising_details": {
+                "appointment_information": {
+                    "note": "The following advising options are for MS students only. PhD CS students should email 'csphd@gmu.edu' or book an appointment through the PhD bookings link for advising.",
+                    "virtual_and_in_person_advising": "Available",
+                    "book_appointment": "https://outlook.office365.com/book/CSGraduateAdvising@gmuedu.onmicrosoft.com/"
+                },
+                "walk_in_advising": {
+                    "days": "Tuesday/Wednesday/Friday",
+                    "time": "1PM to 4PM",
+                    "location": "CS Office"
+                },
+                "notes": [
+                    "Appointments are recommended and preferred.",
+                    "Please note that appointments take priority, and you may need to wait until an advisor is free to meet with you."
+                ],
+                "FERPA": "Advising appointments are one-on-one meetings with an advisor. Other students, friends, or family are not permitted to participate in the meeting unless FERPA permission has been granted by the student and applied to their account prior to that day's meeting."
+            },
+            "additional_contacts": {
+                "ms_infs_fall_2022_or_later": "msinfs@gmu.edu",
+                "ms_cs_online_program_prospective_students": "online2@gmu.edu or https://masononline.gmu.edu/programs/ms-computer-science/",
+                "ms_cs_online_program_current_students": "Assigned MS CS Online Advisor",
+                "mason_into_program": "intomason@gmu.edu"
+            }
+        },
+        "phd_advising": {
+            "advisor": {
+                "name": "Alyssa Tsukamoto",
+                "position": "Graduate Program Specialist",
+                "webpage": "https://cs.gmu.edu/directory/detail/180/"
+            },
+            "appointment_details": {
+                "note": "Appointments are only available for current students at this time. Prospective students interested in the program should email 'csphd@gmu.edu' for guidance.",
+                "in_person_advising": "Available",
+                "book_appointment": "https://outlook.office365.com/book/CSPhDAdvising@gmuedu.onmicrosoft.com/"
+            },
+            "virtual_advising": "Currently suspended until further notice",
+            "walk_in_advising": {
+                "days": "Tuesday/Wednesday/Friday",
+                "time": "1PM to 4PM",
+                "location": "CS Office"
+            },
+            "contact_information": {
+                "office_location": "Engineering Building Suite #4300, 4th Floor",
+                "email": "csphd@gmu.edu",
+                "phone": "(703) 993-1530"
+            },
+            "unable_to_attend": "If you are unable to attend your appointment, cancellation through your confirmation email or by emailing 'csphd@gmu.edu' would be appreciated.",
+            "FERPA": "Advising appointments are one-on-one meetings with an advisor. Other students, friends, or family are not permitted to participate in the meeting unless FERPA permission has been granted by the student and applied to their account prior to that day's meeting."
+        }
+    }
+}

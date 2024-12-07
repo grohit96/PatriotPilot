@@ -1,0 +1,1209 @@
+{
+    "computer_science_primary_course_list": [
+        {
+            "grading_scale": "Undergraduate Regular",
+            "description": "This course is intended to help students learn to think in the manner necessary to fully grasp the nature and power of the digital world around us...",
+            "prerequisites": null,
+            "title": "Principles of Computing",
+            "credits": 3,
+            "schedule_type": "Lecture",
+            "code": "CS 100"
+        },
+        {
+            "grading_scale": "Undergraduate Regular",
+            "description": "Intensive introduction to legal, social, and ethical issues surrounding software development and computer use...",
+            "prerequisites": null,
+            "title": "Computer Ethics and Society",
+            "credits": 1,
+            "schedule_type": "Lecture",
+            "code": "CS 105"
+        },
+        {
+            "grading_scale": "Undergraduate Regular",
+            "description": "This is the first of a two-semester sequence intended for students with little or no programming experience...",
+            "prerequisites": null,
+            "title": "Intro to Computer Programming, Part A",
+            "credits": 3,
+            "schedule_type": "Lecture",
+            "code": "CS 108"
+        },
+        {
+            "grading_scale": "Undergraduate Regular",
+            "description": "This is the second part of a two-semester sequence intended for students with little or no programming experience...",
+            "prerequisites": [
+                "CS 108"
+            ],
+            "title": "Intro to Computer Programming, Part B",
+            "credits": 3,
+            "schedule_type": [
+                "Laboratory",
+                "Lecture"
+            ],
+            "code": "CS 109"
+        },
+        {
+            "grading_scale": "Undergraduate Regular",
+            "description": "Offers a broad overview of computer science designed to provide computer science majors with an introduction to their discipline...",
+            "prerequisites": null,
+            "title": "Essentials of Computer Science",
+            "credits": 3,
+            "schedule_type": "Lecture",
+            "code": "CS 110"
+        },
+        {
+            "grading_scale": "Undergraduate Regular",
+            "description": "Rigorous introduction to problem solving through development of computer programs...",
+            "prerequisites": [
+                "Math Placement Aleks",
+                "MATH 104",
+                "MATH 105",
+                "MATH 113",
+                "MATH 115",
+                "MATH 123"
+            ],
+            "title": "Introduction to Computer Programming",
+            "credits": 4,
+            "schedule_type": [
+                "Laboratory",
+                "Lecture"
+            ],
+            "code": "CS 112"
+        },
+        {
+            "grading_scale": null,
+            "description": "Thorough treatment of programming according to object-oriented principles. Introduces classes, interfaces, inheritance, polymorphism, and single dispatch as means to decompose problems. Covers intermediate programming techniques including error handling through exceptions, arrangement of source code into packages, and simple data structures. Intermediate debugging techniques and unit testing are covered. Note: Lectures and labs are offered in groups. Students MUST register for a lecture and a lab from the same group. Limited to two attempts.",
+            "prerequisites": [
+                "CS 112 (minimum grade C or XS)",
+                "109C"
+            ],
+            "title": "Object-Oriented Programming",
+            "credits": 3,
+            "schedule_type": [
+                "Laboratory",
+                "Lecture"
+            ],
+            "code": "CS 211"
+        },
+        {
+            "grading_scale": null,
+            "description": "Introduction to C as a second programming language with emphasis on problems and language features relevant to engineers. Topics include basic data types, pointers, elementary data structures, file/output, bitwise operations, and Unix commands for compilation and debugging. Intended as terminal course in computer programming. Limited to two attempts.",
+            "prerequisites": [
+                "CS 112 (minimum grade C or XS)",
+                "109C or L109"
+            ],
+            "title": "Computer Programming for Engineers",
+            "credits": 3,
+            "schedule_type": "Lecture",
+            "code": "CS 222"
+        },
+        {
+            "grading_scale": null,
+            "description": "Introduction to the language C, as well as operating system concepts, in UNIX, to prepare students for topics in systems programming. Limited to two attempts.",
+            "prerequisites": [
+                "CS 110 (minimum grade C or XS)",
+                "CS 211 (minimum grade C or XS)"
+            ],
+            "title": "Introduction to Low-Level Programming",
+            "credits": 3,
+            "schedule_type": [
+                "Laboratory",
+                "Lecture"
+            ],
+            "code": "CS 262"
+        },
+        {
+            "grading_scale": null,
+            "description": "Examines legal and ethical issues surrounding computer technology and its use, as well as the foundation building that is necessary to deal with those challenges.",
+            "prerequisites": [
+                "CS 105 or COMM 100",
+                "ENGH 302 or HNRS 260"
+            ],
+            "title": "Synthesis of Ethics and Law for the Computing Professional",
+            "credits": 3,
+            "schedule_type": "Lecture",
+            "code": "CS 306"
+        },
+        {
+            "grading_scale": null,
+            "description": "Focuses on object-oriented programming with an emphasis on tools and techniques for developing moderate to large programs.",
+            "prerequisites": [
+                "CS 211",
+                "MATH 125 or MATH 113"
+            ],
+            "title": "Data Structures",
+            "credits": 3,
+            "schedule_type": "Lecture",
+            "code": "CS 310"
+        },
+        {
+            "grading_scale": null,
+            "description": "An introduction to concepts, methods, and tools for the creation of large-scale software systems.",
+            "prerequisites": [
+                "CS 310",
+                "ENGH 302 or HNRS 260"
+            ],
+            "title": "Software Engineering",
+            "credits": 3,
+            "schedule_type": "Lecture",
+            "code": "CS 321"
+        },
+        {
+            "grading_scale": null,
+            "description": "Game design in various electronic entertainment technologies with emphasis on programming.",
+            "prerequisites": [
+                "CS 211"
+            ],
+            "title": "Introduction to Game Design",
+            "credits": 3,
+            "schedule_type": "Lecture",
+            "code": "CS 325"
+        },
+        {
+            "grading_scale": null,
+            "description": "Covers abstract concepts such as formal languages, models of computation, and proof strategies.",
+            "prerequisites": [
+                "CS 211",
+                "MATH 125"
+            ],
+            "title": "Formal Methods and Models",
+            "credits": 3,
+            "schedule_type": "Lecture",
+            "code": "CS 330"
+        },
+        {
+            "grading_scale": null,
+            "description": "Focuses on programming essential mathematical and geometric concepts underlying computer graphics.",
+            "prerequisites": [
+                "CS 262",
+                "CS 310"
+            ],
+            "title": "Visual Computing",
+            "credits": 3,
+            "schedule_type": "Lecture",
+            "code": "CS 351"
+        },
+        {
+            "grading_scale": null,
+            "description": "Introduces students to computer systems from a programmer's perspective.",
+            "prerequisites": [
+                "CS 262 or CS 222",
+                "MATH 125",
+                "CS 110"
+            ],
+            "title": "Computer Systems and Programming",
+            "credits": 4,
+            "schedule_type": [
+                "Lecture",
+                "Recitation"
+            ],
+            "code": "CS 367"
+        },
+        {
+            "grading_scale": null,
+            "description": "Introduces students to the research and project design process within the computing field.",
+            "prerequisites": [
+                "CS 262"
+            ],
+            "title": "Research and Project Design Principles in Computing",
+            "credits": 3,
+            "schedule_type": "Lecture",
+            "code": "CS 390"
+        },
+        {
+            "grading_scale": null,
+            "description": "Programming-intensive lab course refining problem-solving and programming skills.",
+            "prerequisites": [
+                "CS 310"
+            ],
+            "title": "Advanced Programming Lab",
+            "credits": 1,
+            "schedule_type": "Laboratory",
+            "code": "CS 391"
+        },
+        {
+            "grading_scale": null,
+            "description": "Special topics of interest in computer science for undergraduates taught by student/faculty teams.",
+            "prerequisites": [
+                "CS 211"
+            ],
+            "title": "Student Initiated Special Topics",
+            "credits": 1,
+            "schedule_type": "Lecture",
+            "code": "CS 395"
+        },
+        {
+            "grading_scale": null,
+            "description": "Special and emerging topics in computer science or closely related disciplines. May be repeated if topics are substantially different.",
+            "prerequisites": [
+                "CS 211 (minimum grade C or XS)"
+            ],
+            "title": "Special Topics",
+            "credits": 3,
+            "schedule_type": "Lecture",
+            "code": "CS 399"
+        },
+        {
+            "grading_scale": null,
+            "description": "Practical course to become effective computer professional. Examines legal and ethical issues surrounding computer technology and its use, as well as the foundation building that is necessary to deal with those challenges. Applies philosophical bases for ethical decision making to modern concerns raised by computers and technology...",
+            "prerequisites": [
+                "CS 105 (C, XS), 110 (C, XS)",
+                "COMM 100 (C, XS)",
+                "ENGH 302 (C, XS)",
+                "HNRS 260 (C, XS)"
+            ],
+            "title": "Synthesis of Ethics and Law for the Computing Professional",
+            "credits": 3,
+            "schedule_type": "Lecture",
+            "code": "CS 405"
+        },
+        {
+            "grading_scale": null,
+            "description": "Introduction to technologies and techniques used in modern computer games. Teams will explore the various facets of a complete design using sophisticated tools. Includes a project in which a game is prototyped...",
+            "prerequisites": [
+                "CS 310 (C, XS)",
+                "CS 351 (C, XS)"
+            ],
+            "title": "Game Programming I",
+            "credits": 3,
+            "schedule_type": "Lecture",
+            "code": "CS 425"
+        },
+        {
+            "grading_scale": null,
+            "description": "Project-oriented continuation of CS 425 with an emphasis on the implementation of a complete game...",
+            "prerequisites": [
+                "CS 325 (C, XS)",
+                "CS 425 (C, XS)"
+            ],
+            "title": "Game Programming II",
+            "credits": 3,
+            "schedule_type": "Lecture",
+            "code": "CS 426"
+        },
+        {
+            "grading_scale": null,
+            "description": "Survey of basic programming language processors and software development tools with an emphasis on compilers...",
+            "prerequisites": [
+                "CS 310 (C, XS)",
+                "CS 330 (C, XS)",
+                "CS 367 (C, XS)"
+            ],
+            "title": "Compilers",
+            "credits": 3,
+            "schedule_type": "Lecture",
+            "code": "CS 440"
+        },
+        {
+            "grading_scale": null,
+            "description": "Covers basics to intermediate knowledge for the design, implementation, and use of relational database systems...",
+            "prerequisites": [
+                "CS 310 (C, XS)",
+                "CS 330 (C, XS)"
+            ],
+            "title": "Database Concepts",
+            "credits": 3,
+            "schedule_type": "Lecture",
+            "code": "CS 450"
+        },
+        {
+            "grading_scale": null,
+            "description": "Basic graphics principles and programming. Topics include scan conversion, transformation, viewing...",
+            "prerequisites": [
+                "MATH 203 (C, XS)",
+                "CS 310 (C, XS)",
+                "CS 367 (C, XS)"
+            ],
+            "title": "Computer Graphics",
+            "credits": 3,
+            "schedule_type": "Lecture",
+            "code": "CS 451"
+        },
+        {
+            "grading_scale": null,
+            "description": "This course covers the concepts and techniques underlying virtual reality (VR) technologies...",
+            "prerequisites": [
+                "CS 325 (C, XS)",
+                "CS 351 (C, XS)",
+                "CS 451 (C, XS)"
+            ],
+            "title": "Virtual Reality",
+            "credits": 3,
+            "schedule_type": "Lecture",
+            "code": "CS 452"
+        },
+        {
+            "grading_scale": null,
+            "description": "Data communications and networking protocols, with study organized to follow layers of Internet Protocol Suite...",
+            "prerequisites": [
+                "CS 310 (C, XS)",
+                "CS 367 (C, XS)",
+                "STAT 344 (C, XS)"
+            ],
+            "title": "Computer Communications and Networking",
+            "credits": 3,
+            "schedule_type": "Lecture",
+            "code": "CS 455"
+        },
+        {
+            "grading_scale": null,
+            "description": "Key programming mechanisms described independently of particular machines or languages...",
+            "prerequisites": [
+                "CS 330 (C, XS)",
+                "CS 367 (C, XS)",
+                "CS 310 (C, XS)"
+            ],
+            "title": "Comparative Programming Languages",
+            "credits": 3,
+            "schedule_type": "Lecture",
+            "code": "CS 463"
+        },
+        {
+            "grading_scale": null,
+            "description": "Computer subsystems and instruction set architectures. Single-cycle, multiple-cycle, and pipeline architectures...",
+            "prerequisites": [
+                "CS 367 (C, XS)"
+            ],
+            "title": "Computer Systems Architecture",
+            "credits": 3,
+            "schedule_type": "Lecture",
+            "code": "CS 465"
+        },
+        {
+            "grading_scale": null,
+            "description": "Fundamental principles and techniques for implementing secure computer systems...",
+            "prerequisites": [
+                "CS 310 (C, XS)",
+                "CS 367 (C, XS)"
+            ],
+            "title": "Secure Programming and Systems",
+            "credits": 3,
+            "schedule_type": "Lecture",
+            "code": "CS 468"
+        },
+        {
+            "grading_scale": null,
+            "description": "Covers the software subsystems that are involved in defending computer systems. Studies threats and architecting solutions against them, including but not limited to access control and identity management, network and system security, intrusion detection and recovery systems, monitoring and forensic systems.",
+            "prerequisites": [
+                "CS 330 (C, XS)",
+                "CS 367 (C, XS)",
+                "STAT 344 (C, XS)"
+            ],
+            "title": "Security Engineering",
+            "credits": 3,
+            "schedule_type": "Lecture",
+            "code": "CS 469"
+        },
+        {
+            "grading_scale": null,
+            "description": "Issues in multiprogramming. Covers concurrent processes and synchronization mechanisms; processor scheduling; memory, file, I/O, and deadlock management; performance of operating systems; and projects dealing with synchronization in multiprogrammed OS and virtual memory management.",
+            "prerequisites": [
+                "CS 310 (C, XS)",
+                "ECE 340 (C, XS)",
+                "CS 367 (C, XS)",
+                "ECE 445 (C, XS)"
+            ],
+            "title": "Operating Systems",
+            "credits": 3,
+            "schedule_type": "Lecture",
+            "code": "CS 471"
+        },
+        {
+            "grading_scale": null,
+            "description": "Practical issues in designing and implementing concurrent and distributed software. Topics include concurrent programming, synchronization, multithreading, local and wide-area network protocols, distributed computation, systems integration, and techniques for expressing coarse-grained parallelism at the application level.",
+            "prerequisites": [
+                "CS 310 (C, XS)",
+                "CS 367 (C, XS)"
+            ],
+            "title": "Concurrent and Distributed Systems",
+            "credits": 3,
+            "schedule_type": "Lecture",
+            "code": "CS 475"
+        },
+        {
+            "grading_scale": null,
+            "description": "This project based course will teach fundamental principles of software development for the mobile device environment, emphasizing the application of numerous academic concepts and the new design and programming paradigms that stem from the use of mobile devices.",
+            "prerequisites": [
+                "CS 310 (C, XS)",
+                "CS 367 (C, XS)"
+            ],
+            "title": "Mobile Application Development",
+            "credits": 3,
+            "schedule_type": "Lecture",
+            "code": "CS 477"
+        },
+        {
+            "grading_scale": null,
+            "description": "Covers the core concepts and algorithms for the theory and practice of natural language processing (NLP), the creation of computer programs that aim to understand, generate, and learn natural language.",
+            "prerequisites": [
+                "CS 310 (C, XS)",
+                "CS 330 (C, XS)"
+            ],
+            "title": "Natural Language Processing",
+            "credits": 3,
+            "schedule_type": "Lecture",
+            "code": "CS 478"
+        },
+        {
+            "grading_scale": null,
+            "description": "Principles and methods for knowledge representation, reasoning, learning, problem solving, planning, heuristic search, and natural language processing and their application to building intelligent systems in a variety of domains.",
+            "prerequisites": [
+                "CS 310 (C, XS)",
+                "CS 330 (C, XS)"
+            ],
+            "title": "Introduction to Artificial Intelligence",
+            "credits": 3,
+            "schedule_type": "Lecture",
+            "code": "CS 480"
+        },
+        {
+            "grading_scale": null,
+            "description": "Basic principles of visual perception and their implementation on computer systems. Topics include early visual processing, edge detection, segmentation, intrinsic images, image modeling, representation of visual knowledge, and image understanding.",
+            "prerequisites": [
+                "CS 310 (C, XS)",
+                "MATH 203 (C, XS)",
+                "STAT 344 (C, XS)"
+            ],
+            "title": "Computer Vision",
+            "credits": 3,
+            "schedule_type": "Lecture",
+            "code": "CS 482"
+        },
+        {
+            "grading_scale": null,
+            "description": "Analyzes computational resources for important problem types by alternative algorithms and their associated data structures, using mathematically rigorous techniques.",
+            "prerequisites": [
+                "CS 310 (C, XS)",
+                "CS 330 (C, XS)",
+                "MATH 125 (C, XS)"
+            ],
+            "title": "Analysis of Algorithms",
+            "credits": 3,
+            "schedule_type": "Lecture",
+            "code": "CS 483"
+        },
+        {
+            "grading_scale": null,
+            "description": "Basic principles and methods for data analysis and knowledge discovery. Emphasizes developing basic skills for modeling and prediction and performance evaluation.",
+            "prerequisites": [
+                "CS 310 (C, XS)",
+                "STAT 344 (C, XS)",
+                "MATH 351 (C)",
+                "MATH 352 (C)"
+            ],
+            "title": "Data Mining",
+            "credits": 3,
+            "schedule_type": "Lecture",
+            "code": "CS 484"
+        },
+        {
+            "grading_scale": null,
+            "description": "Covers various basic topics in autonomous robotics, such as autonomous architectures and their interaction with physical hardware, elementary kinematics and robot control, motion and trajectory planning, localization, task planning, learning and adaptation, modeling, and sensor fusion.",
+            "prerequisites": [
+                "CS 262 (C, XS)",
+                "CS 310 (C, XS)",
+                "MATH 203 (C, XS)"
+            ],
+            "title": "Autonomous Robotics",
+            "credits": 3,
+            "schedule_type": "Lecture",
+            "code": "CS 485"
+        },
+        {
+            "grading_scale": null,
+            "description": "Covers formal definitions of security for the most common tasks: data encryption and authentication, in both the private key and public key settings. Covers the process of formally proving that constructions meet the appropriate security definitions. Also covers practical constructions and applications, such as how to correctly use block ciphers and hash functions for the tasks above. In addition, several current topics in cryptography may also be covered.",
+            "prerequisites": [
+                "CS 310 (C, XS)",
+                "CS 330 (C, XS)",
+                "STAT 344 (C, XS)"
+            ],
+            "title": "Introduction to Cryptography",
+            "credits": 3,
+            "schedule_type": "Lecture",
+            "code": "CS 487"
+        },
+        {
+            "grading_scale": null,
+            "description": "Capstone course focusing on design and successful implementation of major software project, encompassing broad spectrum of knowledge and skills, developed by team of students. Requires final exhibition to faculty-industry panel.",
+            "prerequisites": [
+                "CS 321 (C, XS)",
+                "CS 421 (C)",
+                "CS 483 (C, XS)"
+            ],
+            "title": "Design Exhibition",
+            "credits": 3,
+            "schedule_type": "Lecture",
+            "code": "CS 490"
+        },
+        {
+            "grading_scale": null,
+            "description": "Senior design project course focusing on design and successful implementation of major software project specified by an industry sponsor, encompassing broad spectrum of knowledge and skills, developed by team of students. Requires final exhibition to faculty-industry panel.",
+            "prerequisites": [
+                "CS 321 (C, XS)"
+            ],
+            "title": "Industry-Sponsored Senior Design Project",
+            "credits": 3,
+            "schedule_type": "Lecture",
+            "code": "CS 491"
+        },
+        {
+            "grading_scale": null,
+            "description": "Research and analysis of selected problems or topics in computer science. Topic must be arranged with instructor and approved by department chair before registering.",
+            "prerequisites": null,
+            "title": "Independent Study in Computer Science",
+            "credits": "1-3",
+            "schedule_type": "Independent Study",
+            "code": "CS 498"
+        },
+        {
+            "grading_scale": null,
+            "description": "Topics of special interest to undergraduates. Notes: May be repeated if topics substantially different.",
+            "prerequisites": [
+                "CS 310 (C, XS)",
+                "CS 330 (C, XS)"
+            ],
+            "title": "Special Topics in Computer Science",
+            "credits": 3,
+            "schedule_type": "Lecture",
+            "code": "CS 499"
+        },
+        {
+            "grading_scale": null,
+            "description": "Select contemporary topics in Engineering and Computing. Offered by Computer Science. May be repeated within the degree for a maximum 6 credits.",
+            "prerequisites": null,
+            "title": "Special Topics",
+            "credits": "0-4",
+            "schedule_type": "Lecture",
+            "code": "CS 500"
+        },
+        {
+            "grading_scale": null,
+            "description": "Techniques to store, manage, and use data including databases, relational model, schemas, queries and transactions. On Line Transaction Processing, Data Warehousing, star schema, On Line Analytical Processing. MOLAP, HOLAP, and hybrid systems. Overview of Data Mining principles, models, supervised and unsupervised learning, pattern finding. Massively parallel architectures and Hadoop. Notes: This course cannot be taken for credit by students of the MS CS, MS ISA, MS SWE, CS PhD or IT PhD programs. Offered by Computer Science. May not be repeated for credit.",
+            "prerequisites": null,
+            "title": "Principles of Data Management and Mining",
+            "credits": 3,
+            "schedule_type": "Lecture",
+            "code": "CS 504"
+        },
+        {
+            "grading_scale": null,
+            "description": "This course focuses on the topics of basic mathematical structures, mathematical logic and probability theory; and application of these concepts to problem solving and formal reasoning through hand-on practice with the use of computational tools. Note: May not be taken for credit by students in the PhD CS program, or by students who went through the Bachelor's-Accelerated Master's in Computer Science or the Bachelor's-Accelerated Master's in Software Engineering programs. Offered by Computer Science. May not be repeated for credit.",
+            "prerequisites": null,
+            "title": "Mathematical Foundations of Computer Science",
+            "credits": 3,
+            "schedule_type": "Lecture",
+            "code": "CS 530"
+        },
+        {
+            "grading_scale": null,
+            "description": "This course is a hands-on introduction to the systems level of programming with an emphasis on data structures and interfacing with operating systems. This course focuses on fundamental data structures needed to design and implement systems applications and continues with an introduction to the Unix Application Programming Interface, signals, threads, and interprocess communications. This course is taught from a programmatic perspective using C, with special topics in both Java and Python. Note: May not be taken for credit by students in the PhD CS program, or by students who went through the Bachelor's-Accelerated Master's in Computer Science or the Bachelor's-Accelerated Master's in Software Engineering programs. Offered by Computer Science. May not be repeated for credit.",
+            "prerequisites": null,
+            "title": "Computer Systems and Fundamentals of Systems Programming",
+            "credits": 3,
+            "schedule_type": "Lecture",
+            "code": "CS 531"
+        },
+        {
+            "grading_scale": null,
+            "description": "Survey of basic programming language processors and software development tools with an emphasis on compiler generation. Topics covered include: lexical analysis; parsing theory; semantic analysis; intermediate representations; runtime environments; code generation; and basic program analysis and optimization. This class is project intensive and will include having students implement a compiler for a simple language. Offered by Computer Science. May not be repeated for credit.",
+            "prerequisites": null,
+            "title": "Compilers",
+            "credits": 3,
+            "schedule_type": "Lecture",
+            "code": "CS 540"
+        },
+        {
+            "grading_scale": null,
+            "description": "An introduction to database management with focus on architecting databases and using them in applications. Topics to be covered include: data modeling with the Entity-Relationship model, the relational data model and its formal languages, SQL, the theory of database design, object databases, XML and Web data. Offered by Computer Science. May not be repeated for credit.",
+            "prerequisites": null,
+            "title": "Database Systems",
+            "credits": 3,
+            "schedule_type": "Lecture",
+            "code": "CS 550"
+        },
+        {
+            "grading_scale": null,
+            "description": "Graphics principles and programming. Topics include graphics hardware, antialiasing, transformations, viewing, illumination, blending, texture mapping, color models, curves, surfaces, and animation. Offered by Computer Science. May not be repeated for credit.",
+            "prerequisites": null,
+            "title": "Computer Graphics",
+            "credits": 3,
+            "schedule_type": "Lecture",
+            "code": "CS 551"
+        },
+        {
+            "grading_scale": null,
+            "description": "Techniques and systems for communication of data between computational devices and layers of Internet Protocol Suite. Topics include role of various media and software components, local and wide area network protocols, network design, performance and cost considerations, and emerging advanced commercial technologies. Emphasizes TCP/IP family of protocols. Offered by Computer Science. May not be repeated for credit.",
+            "prerequisites": null,
+            "title": "Computer Communications and Networking",
+            "credits": 3,
+            "schedule_type": "Lecture",
+            "code": "CS 555"
+        },
+        {
+            "grading_scale": null,
+            "description": "Models of operating systems. Major functions including processes, memory management, I/O, interprocess communication, files, directories, shells, distributed systems, performance, and user interface. Offered by Computer Science. May not be repeated for credit.",
+            "prerequisites": null,
+            "title": "Operating Systems",
+            "credits": 3,
+            "schedule_type": "Lecture",
+            "code": "CS 571"
+        },
+        {
+            "grading_scale": null,
+            "description": "Artificial Intelligence principles and methods. Topics will include uninformed search, informed search, adversarial search, probabilistic reasoning and models, Bayes networks, machine learning fundamentals, classification and clustering, and neural networks. Additional topics may include knowledge representation, constraint satisfaction search, agent architectures, and Markov decision problems, among others. Offered by Computer Science. May not be repeated for credit.",
+            "prerequisites": null,
+            "title": "Introduction to Artificial Intelligence",
+            "credits": 3,
+            "schedule_type": "Lecture",
+            "code": "CS 580"
+        },
+        {
+            "grading_scale": null,
+            "description": "Topics include analyzing sequential and parallel algorithmic strategies such as greedy methods, divide and conquer strategies, dynamic programming, search and traversal techniques, and approximation algorithms; and analyzing specific algorithms falling into these classes, NP-Hard and NP-Complete problems. Offered by Computer Science. May not be repeated for credit.",
+            "prerequisites": null,
+            "title": "Analysis of Algorithms",
+            "credits": 3,
+            "schedule_type": "Lecture",
+            "code": "CS 583"
+        },
+        {
+            "grading_scale": null,
+            "description": "Concepts and techniques in data mining and multidisciplinary applications. Topics include databases; data cleaning and transformation; concept description; association and correlation rules; data classification and predictive modeling; performance analysis and scalability; data mining in advanced database systems, including text, audio, and images; and emerging themes and future challenges. Offered by Computer Science. May not be repeated for credit.",
+            "prerequisites": null,
+            "title": "Theory and Applications of Data Mining",
+            "credits": 3,
+            "schedule_type": "Lecture",
+            "code": "CS 584"
+        },
+        {
+            "grading_scale": null,
+            "description": "Covers formal definitions of security for the most common tasks: data encryption and authentication, in both the private key and public key settings. Covers the process of formally proving that constructions meet the appropriate security definitions. Also covers practical constructions and applications, such as how to correctly use block ciphers and hash functions for the tasks above. In addition, several current topics in cryptography may also be covered. Offered by Computer Science. May not be repeated for credit.",
+            "prerequisites": null,
+            "title": "Introduction to Cryptography",
+            "credits": 3,
+            "schedule_type": "Lecture",
+            "code": "CS 587"
+        },
+        {
+            "grading_scale": null,
+            "description": "Special topics in computer science not occurring in existing courses. Offered by Computer Science. May be repeated within the degree for a maximum 9 credits.",
+            "prerequisites": null,
+            "title": "Basic Topics in Computer Science",
+            "credits": 3,
+            "schedule_type": "Lecture",
+            "code": "CS 595"
+        },
+        {
+            "grading_scale": null,
+            "description": "Introduction to logic and proof techniques, formal languages, automata theory, and computational complexity. Specific topics include regular and context-free languages, Turing machines, NP-completeness, and undecidability. Offered by Computer Science. May not be repeated for credit.",
+            "prerequisites": null,
+            "title": "Theory of Computation",
+            "credits": 3,
+            "schedule_type": "Lecture",
+            "code": "CS 600"
+        },
+        {
+            "grading_scale": null,
+            "description": "Provides an overview of advanced algorithm design and analysis techniques. Topics include algorithms for hash tables, matrix operations, number theory, string matching, computational geometry, combinatorial optimization, and linear programming; also the areas of NP-completeness and approximation algorithms. Offered by Computer Science. May not be repeated for credit.",
+            "prerequisites": null,
+            "title": "Advanced Algorithms",
+            "credits": 3,
+            "schedule_type": "Lecture",
+            "code": "CS 630"
+        },
+        {
+            "grading_scale": null,
+            "description": "Basic principles and methods for computing in field of geometric modeling. Emphasizes data structures used to represent geometric objects and algorithms for manipulating those data structures. Topics include range searching, polygon triangulation, convex hulls, motion-planning, visibility, and mesh generation. Offered by Computer Science. May not be repeated for credit.",
+            "prerequisites": null,
+            "title": "Computational Geometry",
+            "credits": 3,
+            "schedule_type": "Lecture",
+            "code": "CS 633"
+        },
+        {
+            "grading_scale": null,
+            "description": "Covers three major parallel computing paradigms: MIMD computation, SIMD computation, and data flow computation. Emphasizes interfaces between algorithm design and implementation, architecture, and software. Examines parallel algorithms and parallel programming languages relative to architecture of particular parallel computers. Offered by Computer Science. May not be repeated for credit.",
+            "prerequisites": null,
+            "title": "Foundations of Parallel Computation",
+            "credits": 3,
+            "schedule_type": "Lecture",
+            "code": "CS 635"
+        },
+        {
+            "grading_scale": null,
+            "description": "Examines advanced compiler techniques such as code optimizations for sequential and parallel machines; compilers for logical, functional, or object-oriented languages; and other topics in current literature. Offered by Computer Science. May not be repeated for credit.",
+            "prerequisites": null,
+            "title": "Advanced Compilers",
+            "credits": 3,
+            "schedule_type": "Lecture",
+            "code": "CS 640"
+        },
+        {
+            "grading_scale": null,
+            "description": "Study of the internal architecture of database systems. Topics include: physical data organization and indexing, query processing and optimization, transaction processing, database system architectures, Web services and Web data security. Offered by Computer Science. May not be repeated for credit.",
+            "prerequisites": null,
+            "title": "Advanced Database Management",
+            "credits": 3,
+            "schedule_type": "Lecture",
+            "code": "CS 650"
+        },
+        {
+            "grading_scale": null,
+            "description": "This course provides an introduction to wireless and mobile networking. Topics include principles and architectures of wireless and mobile networking and fundamental issues of wireless communications with energy-constrained, mobile devices. It discusses physical, data link, and network layer protocols including IEEE 802.11, and emerging wireless networks such as Internet-of-Things, high-speed millimeter-waves, vehicular networks, and mobile and IoT sensing applications including indoor localization, smart-homes, and smart-cities. Offered by Computer Science. May not be repeated for credit.",
+            "prerequisites": null,
+            "title": "Wireless and Mobile Computing",
+            "credits": 3,
+            "schedule_type": "Lecture",
+            "code": "CS 655"
+        },
+        {
+            "grading_scale": null,
+            "description": "Covers the techniques to mine large datasets, including Distributed File Systems and Map-Reduce, similarity search, and data stream processing. Covers classic problems in data mining, such as clustering, association rule mining, and others from the point of view of scalability. Includes a final project to exercise concepts covered in class. Offered by Computer Science. May not be repeated for credit.",
+            "prerequisites": null,
+            "title": "Mining Massive Datasets with MapReduce",
+            "credits": 3,
+            "schedule_type": "Lecture",
+            "code": "CS 657"
+        },
+        {
+            "grading_scale": null,
+            "description": "Networked virtual environment overview, networking and multimedia concepts, virtual simulation concepts, efficiency/performance issues, and online conferencing/virtual classrooms. Course is based around a project with multiple segments, each covering one aspect of networked virtual environments, plus a final session where one- or two-person teams create a minimally functional networked virtual environment over the Internet using multicast network software. Lectures available online/recorded. Offered by Computer Science. May not be repeated for credit.",
+            "prerequisites": null,
+            "title": "Networked Virtual Environments",
+            "credits": 3,
+            "schedule_type": "Lecture",
+            "code": "CS 658"
+        },
+        {
+            "grading_scale": null,
+            "description": "Addresses some graphics game techniques including collision detection, levels of detail, physics-based simulations, textures, maps, and shadows. Offered by Computer Science. May not be repeated for credit.",
+            "prerequisites": null,
+            "title": "Computer Graphics Game Technologies",
+            "credits": 3,
+            "schedule_type": "Lecture",
+            "code": "CS 662"
+        },
+        {
+            "grading_scale": null,
+            "description": "This course will cover the fundamentals of computational design. Students will learn how to design a computational design framework to generate different types of designs such as interior design, 3D product design, and user interface design. Topics to discuss include 3D representation, 3D modeling, procedural modeling, simulation, and interaction techniques. Students will also learn how to carry out user studies and hypothesis testing to evaluate designs. The course will also include advanced topics on using optimization and artificial intelligence techniques to generate designs. Offered by Computer Science. May not be repeated for credit.",
+            "prerequisites": null,
+            "title": "Computational Design",
+            "credits": 3,
+            "schedule_type": "Lecture",
+            "code": "CS 663"
+        },
+        {
+            "grading_scale": null,
+            "description": "Basic principles and methods for automatic authentication of individuals. Technologies include face, fingerprint, and iris recognition; and speaker verification. Additional topics cover multimodal biometrics, system design, performance evaluation, and privacy concerns. Term project required. Offered by Computer Science. May not be repeated for credit.",
+            "prerequisites": null,
+            "title": "Biometrics and Identity Management",
+            "credits": 3,
+            "schedule_type": "Lecture",
+            "code": "CS 667"
+        },
+        {
+            "grading_scale": null,
+            "description": "Theory and practice of analytical models of computer systems. Topics include open and closed multiclass queuing networks, single and multiple class Mean Value Analysis, Markov Chains, performance and availability models of Internet data centers, software performance engineering, and e-commerce performance. Offered by Computer Science. May not be repeated for credit.",
+            "prerequisites": null,
+            "title": "Computer System Performance Evaluation",
+            "credits": 3,
+            "schedule_type": "Lecture",
+            "code": "CS 672"
+        },
+        {
+            "grading_scale": null,
+            "description": "Focuses on technological and development environments in developing multimedia applications. Projects involve experience with multimedia authoring tools and simulations to assess performance. Offered by Computer Science. May not be repeated for credit.",
+            "prerequisites": null,
+            "title": "Multimedia Computing and Systems",
+            "credits": 3,
+            "schedule_type": "Lecture",
+            "code": "CS 673"
+        },
+        {
+            "grading_scale": null,
+            "description": "Issues in design and implementation of distributed systems and applications. Topics include distributed communication paradigms, middleware, coordination and synchronization, distributed transactions, consistency and replication, fault-tolerance and reliability, and peer-to-peer systems. Offered by Computer Science. May not be repeated for credit.",
+            "prerequisites": null,
+            "title": "Distributed Systems",
+            "credits": 3,
+            "schedule_type": "Lecture",
+            "code": "CS 675"
+        },
+        {
+            "grading_scale": null,
+            "description": "The course covers recent advances in the field of natural language processing (NLP). Topics include language generation; language understanding; multilingual learning; transfer learning; active learning; multitask and multimodal learning; semantics; representation learning for language data; machine reading and question answering. Offered by Computer Science. May not be repeated for credit.",
+            "prerequisites": null,
+            "title": "Advanced Natural Language Processing",
+            "credits": 3,
+            "schedule_type": "Lecture",
+            "code": "CS 678"
+        },
+        {
+            "grading_scale": null,
+            "description": "Design and development of cognitive agents that learn problem-solving expertise directly from domain experts. Topics include modeling expert's knowledge, mixed-initiative reasoning based on knowledge and evidence, ontology design and development, multistrategy rule learning, and knowledge-based maintenance. Projects include development of specific cognitive agents through teaching and learning. Offered by Computer Science. May not be repeated for credit.",
+            "prerequisites": null,
+            "title": "Instructable Cognitive Agents",
+            "credits": 3,
+            "schedule_type": "Lecture",
+            "code": "CS 681"
+        },
+        {
+            "grading_scale": null,
+            "description": "Study of computational models of visual perception and their implementation in computer systems. Topics include early visual processing, edge detection, segmentation, intrinsic images, image modeling, representation of visual knowledge, and image understanding. Offered by Computer Science. May not be repeated for credit.",
+            "prerequisites": null,
+            "title": "Computer Vision",
+            "credits": 3,
+            "schedule_type": "Lecture",
+            "code": "CS 682"
+        },
+        {
+            "grading_scale": null,
+            "description": "Examines design and analysis of parallel algorithms. Material focuses on algorithms for both theoretical and practical models of parallel computation. Considers algorithm design and analysis for PRAM and existing SIMD and MIMD type architectures. Topics include sorting, graph algorithms, numerical algorithms, and computational complexity. Offered by Computer Science. May not be repeated for credit.",
+            "prerequisites": null,
+            "title": "Parallel Algorithms",
+            "credits": 3,
+            "schedule_type": "Lecture",
+            "code": "CS 683"
+        },
+        {
+            "grading_scale": null,
+            "description": "Data structures and analytical techniques to study graph algorithms. Data structures include disjoint sets, heaps, and dynamic trees. Algorithms include minimum spanning trees, shortest path, maximum flow, and graph planarity. Offered by Computer Science. May not be repeated for credit.",
+            "prerequisites": null,
+            "title": "Graph Algorithms",
+            "credits": 3,
+            "schedule_type": "Lecture",
+            "code": "CS 684"
+        },
+        {
+            "grading_scale": null,
+            "description": "Reviews developments in intelligent autonomous systems. Studies applications of artificial intelligence, computer vision, and machine learning to robotics.",
+            "prerequisites": null,
+            "title": "Autonomous Robotics",
+            "credits": 3,
+            "schedule_type": "Lecture",
+            "code": "CS 685"
+        },
+        {
+            "grading_scale": null,
+            "description": "Concepts and techniques in image processing. Discusses methods for image capture, transformation, enhancement, restoration, and encoding.",
+            "prerequisites": null,
+            "title": "Image Processing and Applications",
+            "credits": 3,
+            "schedule_type": "Lecture",
+            "code": "CS 686"
+        },
+        {
+            "grading_scale": null,
+            "description": "Explores foundational issues of artificial intelligence, such as roles of knowledge and search, formalization of knowledge and inference, and symbolic versus emergent approaches to intelligence.",
+            "prerequisites": null,
+            "title": "Advanced Artificial Intelligence",
+            "credits": 3,
+            "schedule_type": "Lecture",
+            "code": "CS 687"
+        },
+        {
+            "grading_scale": null,
+            "description": "This course covers the theory and principles underlying different machine learning paradigms. The emphasis is on statistical theory and methodology.",
+            "prerequisites": null,
+            "title": "Machine Learning",
+            "credits": 3,
+            "schedule_type": "Lecture",
+            "code": "CS 688"
+        },
+        {
+            "grading_scale": null,
+            "description": "Covers topics from artificial intelligence, algorithms, and databases. Presents algorithms that model and simulate physical and biological systems.",
+            "prerequisites": null,
+            "title": "Planning Motions of Robots and Molecules",
+            "credits": 3,
+            "schedule_type": "Lecture",
+            "code": "CS 689"
+        },
+        {
+            "grading_scale": null,
+            "description": "Special topics in artificial intelligence and databases not occurring in regular computer science sequence.",
+            "prerequisites": null,
+            "title": "Special Topics in Artificial Intelligence and Databases",
+            "credits": 3,
+            "schedule_type": "Lecture",
+            "code": "CS 690"
+        },
+        {
+            "grading_scale": null,
+            "description": "Special topics in programming languages and software engineering not occurring in regular computer science sequence.",
+            "prerequisites": null,
+            "title": "Special Topics in Programming Languages and Software Engineering",
+            "credits": 3,
+            "schedule_type": "Lecture",
+            "code": "CS 691"
+        },
+        {
+            "grading_scale": null,
+            "description": "Special topics in systems and networks not occurring in regular computer science sequence.",
+            "prerequisites": null,
+            "title": "Special Topics in Systems and Networks",
+            "credits": 3,
+            "schedule_type": "Lecture",
+            "code": "CS 692"
+        },
+        {
+            "grading_scale": null,
+            "description": "Special topics in theoretical computer science not occurring in regular computer science sequence.",
+            "prerequisites": null,
+            "title": "Special Topics in Theoretical Computer Science",
+            "credits": 3,
+            "schedule_type": "Lecture",
+            "code": "CS 693"
+        },
+        {
+            "grading_scale": null,
+            "description": "Special topics in visual computing not occurring in regular computer science sequence.",
+            "prerequisites": null,
+            "title": "Special Topics in Visual Computing",
+            "credits": 3,
+            "schedule_type": "Lecture",
+            "code": "CS 694"
+        },
+        {
+            "grading_scale": null,
+            "description": "Special topics in Computer Science not occurring in regular computer science sequence. Notes: May be repeated for credit when topics are distinctly different. Offered by Computer Science. May be repeated within the term.",
+            "prerequisites": null,
+            "title": "Special Topics in Computer Science",
+            "credits": 3,
+            "schedule_type": "Lecture",
+            "code": "CS 695"
+        },
+        {
+            "grading_scale": null,
+            "description": "Analysis and investigation of contemporary problem in Computer Science. Must be supervised by a fulltime faculty member or affiliate faculty member of the Computer Science department. To register, students must complete an individualized section form available on the department\u2019s website. The form must include course outcomes, course content, and a reading list. A written report is required. Must be approved by the faculty member, MS-CS program director, and chair or associate chair. Offered by Computer Science. May be repeated within the degree for a maximum 6 credits.",
+            "prerequisites": null,
+            "title": "Independent Reading and Research",
+            "credits": 3,
+            "schedule_type": "Research",
+            "code": "CS 697"
+        },
+        {
+            "grading_scale": null,
+            "description": "Topics include approaches for evaluating, writing, and presenting scholarly papers, research integrity issues, and quantitative models and methods in experimental computer science. Techniques for the use of analytic and simulation models, design of experiments, hypothesis testing, and statistical analysis of data are presented. Students apply these techniques to a project, write a report, and make a presentation to the class. Offered by Computer Science. May not be repeated for credit.",
+            "prerequisites": null,
+            "title": "Research Methodology in Computer Science",
+            "credits": 3,
+            "schedule_type": "Lecture",
+            "code": "CS 700"
+        },
+        {
+            "grading_scale": null,
+            "description": "Readings and research for early stage PhD students under the direction of a Computer Science faculty member. Research findings must be reported in a professionally prepared document and presented in a public meeting at the end of the semester. Offered by Computer Science. May be repeated within the term for a maximum 3 credits.",
+            "prerequisites": null,
+            "title": "Research Experience in Computer Science",
+            "credits": 3,
+            "schedule_type": "Research",
+            "code": "CS 701"
+        },
+        {
+            "grading_scale": null,
+            "description": "Topics include concurrent programming languages and constructs, and specification, design, verification, and validation of concurrent programs. Students required to solve concurrent programming problems and check solutions by using verification, testing, and debugging tools. Offered by Computer Science. May not be repeated for credit.",
+            "prerequisites": null,
+            "title": "Concurrent Software Systems",
+            "credits": 3,
+            "schedule_type": "Lecture",
+            "code": "CS 706"
+        },
+        {
+            "grading_scale": null,
+            "description": "Discusses, from quantitative point of view, characteristics of most important technologies used to support implementation of e-business sites. Includes topics such as hardware and software architectures of e-business sites, authentication, payment services, understanding customer behavior, workload characterization, scalability analysis, and performance prediction. Notes: Term paper and project required. Offered by Computer Science. May not be repeated for credit.",
+            "prerequisites": null,
+            "title": "Scalable Internet Services",
+            "credits": 3,
+            "schedule_type": "Lecture",
+            "code": "CS 719"
+        },
+        {
+            "grading_scale": null,
+            "description": "This course presents the theory, underlying principles and applications of Deep Learning (DL). Topics include the concepts of Multilayer Perceptrons (MLPs) and algorithms to train them, Regularization of DL, Convolutional Networks (CNNs), Autoencoders, Recurrent Networks (RNNs), and Deep Generative Models including Generative Adversarial Methods. Problems from various application domains such as natural language processing and computer vision will be discussed. Offered by Computer Science. May not be repeated for credit.",
+            "prerequisites": null,
+            "title": "Deep Learning",
+            "credits": 3,
+            "schedule_type": "Lecture",
+            "code": "CS 747"
+        },
+        {
+            "grading_scale": null,
+            "description": "Advanced graphics methods and tools. Topics include visualization, modeling, rendering, animation, simulation, virtual reality, graphics software tools, and current research topics. Offered by Computer Science. May not be repeated for credit.",
+            "prerequisites": null,
+            "title": "Interactive Graphics Software",
+            "credits": 3,
+            "schedule_type": "Lecture",
+            "code": "CS 752"
+        },
+        {
+            "grading_scale": null,
+            "description": "Current and emerging issues in advanced computer networks and applications. Topics include software systems associated with packet and cell-switched networking architectures and protocols, high-performance LANs, scheduling and congestion control, mobile networking, multimedia applications, and next generation of Internet. Offered by Computer Science. May not be repeated for credit.",
+            "prerequisites": null,
+            "title": "Advanced Computer Networks",
+            "credits": 3,
+            "schedule_type": "Lecture",
+            "code": "CS 755"
+        },
+        {
+            "grading_scale": null,
+            "description": "Analytical, measurement, and simulation techniques for modeling and analyzing computer networks. Examines elementary queuing analysis; networks of queues; routing and flow controls; and applications to local and wide area networks, Internet, and emerging networking technologies. Offered by Computer Science. May not be repeated for credit.",
+            "prerequisites": null,
+            "title": "Performance Analysis of Computer Networks",
+            "credits": 3,
+            "schedule_type": "Lecture",
+            "code": "CS 756"
+        },
+        {
+            "grading_scale": null,
+            "description": "This course focuses on the theory and applications of generative models in Machine Learning. The course covers the theoretical aspects behind the Deep Learning models utilized to generate data, plus their practical applications. Offered by Computer Science. May not be repeated for credit.",
+            "prerequisites": null,
+            "title": "Generative Deep Learning",
+            "credits": 3,
+            "schedule_type": "Lecture",
+            "code": "CS 757"
+        },
+        {
+            "grading_scale": null,
+            "description": "Real-time systems and principles supporting design and implementation. Emphasizes fundamental results from real-time scheduling theory and relevance to computer system design. Topics include system design issues for real-time applications involving operating systems, communication networks, databases, and multimedia. Offered by Computer Science. May not be repeated for credit.",
+            "prerequisites": null,
+            "title": "Real-Time Systems Design and Development",
+            "credits": 3,
+            "schedule_type": "Lecture",
+            "code": "CS 773"
+        },
+        {
+            "grading_scale": null,
+            "description": "Studies recent advances in development of machine vision algorithms and knowledge-based vision systems. Topics include scalespace; Gabor and wavelet processing; distributed and hierarchical processing using neural networks; motion analysis; active, functional, and selective perception; object and target recognition; expert systems; data fusion; and machine learning. Emphasizes system integration in terms of perception, control, action, and adaptation. Presents applications to robotics, intelligent highways, inspection, forensic, and data compression.",
+            "prerequisites": null,
+            "title": "Computational Vision",
+            "credits": 3,
+            "schedule_type": "Lecture",
+            "code": null
+        },
+        {
+            "grading_scale": null,
+            "description": "Covers statistical pattern recognition, neural network, and statistical learning theory approaches. Topics include decision theory and Bayes' theorem, density (parametric and nonparametric) estimation, linear and nonlinear discriminant analysis, SVM and kernel methods, SRM and model selection, performance evaluation, mixture of experts (AdaBoost), dimensionality reduction, feature selection and extraction, and clustering. Emphasizes experimental design, applications, and performance evaluation.",
+            "prerequisites": null,
+            "title": "Advanced Pattern Recognition",
+            "credits": 3,
+            "schedule_type": "Lecture",
+            "code": null
+        },
+        {
+            "grading_scale": null,
+            "description": "Current and emerging issues in human-computer intelligent interaction and human-centered systems and their applications. Topics include video processing, visualization, virtual environments, adaptation and tutoring, image and scene modeling, analysis and synthesis, face and gesture recognition, and speech and natural language processing. Term project and topical review required.",
+            "prerequisites": null,
+            "title": "Human-Computer Intelligent Interaction",
+            "credits": 3,
+            "schedule_type": "Lecture",
+            "code": null
+        },
+        {
+            "grading_scale": null,
+            "description": "Covers study of alternate computer security, including how these methods can be combined in a layered defense and factors that affect the selection of the architectures. Reviews recent papers and reports.",
+            "prerequisites": null,
+            "title": "Topics in Resilient and Secure Computer Systems",
+            "credits": 3,
+            "schedule_type": "Lecture",
+            "code": null
+        },
+        {
+            "grading_scale": null,
+            "description": "The course covers recent advances in the field of machine learning. Possible topics include: Learning Theory (PAC, error bounds, VC-dimension); Learning manifolds; Transfer learning; Active learning; Learning with structured data (e.g., graphs); Topic modeling; Learning with text; Graphical Models (Bayesian Networks); Learning HMMs.",
+            "prerequisites": null,
+            "title": "Advanced Machine Learning",
+            "credits": 3,
+            "schedule_type": "Lecture",
+            "code": null
+        },
+        {
+            "grading_scale": null,
+            "description": "Decision-guidance systems support an iterative process of giving actionable recommendations to and extracting feedbacks from human decision-makers, with the goal of arriving at the best possible course of action. Focuses on models, languages, algorithms, and applications of Decision-Guidance Management Systems.",
+            "prerequisites": null,
+            "title": "Decision Guidance Systems",
+            "credits": 3,
+            "schedule_type": "Lecture",
+            "code": null
+        },
+        {
+            "grading_scale": null,
+            "description": "Studies self-managing, self-optimizing, self-configuring, self-tuning, self-healing, and self-protecting computing systems. Analyzes examples of autonomic systems as well as various techniques to design and build such systems.",
+            "prerequisites": null,
+            "title": "Autonomic Computing",
+            "credits": 3,
+            "schedule_type": "Lecture",
+            "code": null
+        },
+        {
+            "grading_scale": null,
+            "description": "Advanced topics not occurring in regular sequence. Satisfies MS breadth requirement only if explicitly stated in syllabus in given section.",
+            "prerequisites": null,
+            "title": "Advanced Topics in CS",
+            "credits": 3,
+            "schedule_type": "Lecture",
+            "code": null
+        },
+        {
+            "grading_scale": null,
+            "description": "Master's students undertake a project using knowledge gained in prior MS courses. Topic chosen under the guidance of a member of the Graduate Faculty.",
+            "prerequisites": null,
+            "title": "Research Project",
+            "credits": 3,
+            "schedule_type": "Thesis",
+            "code": null
+        },
+        {
+            "grading_scale": null,
+            "description": "Research project completed under supervision of a member of the Graduate Faculty of the department, resulting in a technical report accepted by a three-member faculty committee.",
+            "prerequisites": null,
+            "title": "MS Thesis",
+            "credits": "1-6",
+            "schedule_type": "Thesis",
+            "code": null
+        },
+        {
+            "grading_scale": null,
+            "description": "Students are required to attend colloquia including talks by distinguished speakers, faculty candidates, and Mason faculty. This course introduces PhD students to research topics in computer science.",
+            "prerequisites": null,
+            "title": "Computer Science Colloquium",
+            "credits": "0 credits",
+            "schedule_type": "Seminar",
+            "code": null
+        },
+        {
+            "grading_scale": null,
+            "description": "Advanced topics not occurring in regular sequence. May be repeated for credit when subject differs. Only one such course should be used for breadth requirements.",
+            "prerequisites": null,
+            "title": "Research Topics in CS",
+            "credits": "3 credits",
+            "schedule_type": "Lecture",
+            "code": null
+        },
+        {
+            "grading_scale": null,
+            "description": "Reading and research on a specific topic under the direction of a faculty member. Must be supervised by a fulltime faculty member or affiliate faculty member of the Computer Science department.",
+            "prerequisites": null,
+            "title": "Directed Reading and Research",
+            "credits": "1-6 credits",
+            "schedule_type": "Research",
+            "code": null
+        },
+        {
+            "grading_scale": null,
+            "description": "Work on a research proposal that forms the basis for a doctoral dissertation. No more than 24 credits of CS 998 and 999 may be applied to the doctoral degree requirements.",
+            "prerequisites": null,
+            "title": "Doctoral Dissertation Proposal",
+            "credits": "1-12 credits",
+            "schedule_type": "Dissertation",
+            "code": null
+        },
+        {
+            "grading_scale": null,
+            "description": "Dissertation research under the supervision of the dissertation director. No more than 24 credits of CS 998 and 999 may be applied to the doctoral degree requirements.",
+            "prerequisites": null,
+            "title": "Doctoral Dissertation",
+            "credits": "1-12 credits",
+            "schedule_type": "Dissertation",
+            "code": null
+        }
+    ]
+}

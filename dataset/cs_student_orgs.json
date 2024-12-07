@@ -1,0 +1,80 @@
+{
+    "computer_science_department_student_organizations": [
+        {
+            "name": "Association for Computing Machinery Student Chapter (ACM)",
+            "description": "A professional society dedicated to advancing computing as a science and profession."
+        },
+        {
+            "name": "Beta Theta Tau (\u0392\u0398\u03a4)",
+            "description": "An honor society recognizing academic excellence in computing disciplines."
+        },
+        {
+            "name": "Break Through Tech @ GMU",
+            "description": "An initiative aimed at increasing the representation of women in computing."
+        },
+        {
+            "name": "Break Through Tech (BTT)",
+            "description": "A program designed to propel more women into tech education and careers."
+        },
+        {
+            "name": "Computer-Human Interaction Student Group (CHI)",
+            "description": "Focuses on the study and advancement of human-computer interaction."
+        },
+        {
+            "name": "CS Club",
+            "description": "Provides a platform for students to enhance their computer science knowledge and skills through various projects and events."
+        },
+        {
+            "name": "Game Analysis Design Interest Group (GADIG)",
+            "description": "Dedicated to the analysis and design of video games."
+        },
+        {
+            "name": "Girls Who Code",
+            "description": "Supports women in computing through education and community involvement."
+        },
+        {
+            "name": "GMU Robotics Club (ARC)",
+            "description": "Engages students in robotics projects and competitions."
+        },
+        {
+            "name": "Mason Competitive Cyber",
+            "description": "Focuses on cybersecurity competitions and skill development."
+        },
+        {
+            "name": "Minorities in Computing (MiCP)",
+            "description": "Aims to support and increase the participation of underrepresented groups in computing."
+        },
+        {
+            "name": "Movies & ML",
+            "description": "Explores the intersection of film and machine learning."
+        },
+        {
+            "name": "National Society of Black Engineers (NSBE)",
+            "description": "Supports and promotes the aspirations of collegiate and pre-collegiate students and professionals in engineering and technology."
+        },
+        {
+            "name": "Patriot Hackers",
+            "description": "A community for ethical hacking and cybersecurity enthusiasts."
+        },
+        {
+            "name": "Society of Asian Scientists and Engineers (SASE)",
+            "description": "Promotes the professional development of Asian heritage scientists and engineers."
+        },
+        {
+            "name": "Social Sandbox",
+            "description": "A collaborative space for social computing projects."
+        },
+        {
+            "name": "Society of Women Engineers (SWE)",
+            "description": "Stimulates women to achieve full potential in careers as engineers and leaders."
+        },
+        {
+            "name": "STEMinists",
+            "description": "Advocates for women in STEM fields."
+        },
+        {
+            "name": "Tech4Good",
+            "description": "Focuses on leveraging technology for social good."
+        }
+    ]
+}

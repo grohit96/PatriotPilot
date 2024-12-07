@@ -1,0 +1,385 @@
+{
+    "computer_science_courses_by_area": {
+        "Artificial_Intelligence_and_Databases": {
+            "basic_courses": [
+                {
+                    "course_code": "CS 550",
+                    "course_name": "Database Systems"
+                },
+                {
+                    "course_code": "CS 580",
+                    "course_name": "Introduction to Artificial Intelligence"
+                },
+                {
+                    "course_code": "CS 584",
+                    "course_name": "Theory and Applications of Data Mining"
+                },
+                {
+                    "course_code": "INFS 623",
+                    "course_name": "Web Search Engines and Recommender Systems"
+                }
+            ],
+            "advanced_courses": [
+                {
+                    "course_code": "CS 650",
+                    "course_name": "Advanced Database Management"
+                },
+                {
+                    "course_code": "CS 657",
+                    "course_name": "Mining Massive Datasets with MapReduce"
+                },
+                {
+                    "course_code": "CS 667",
+                    "course_name": "Biometrics and Identity Management"
+                },
+                {
+                    "course_code": "CS 678",
+                    "course_name": "Advanced Natural Language Processing"
+                },
+                {
+                    "course_code": "CS 681",
+                    "course_name": "Instructable Cognitive Agents"
+                },
+                {
+                    "course_code": "CS 685",
+                    "course_name": "Autonomous Robotics"
+                },
+                {
+                    "course_code": "CS 687",
+                    "course_name": "Advanced Artificial Intelligence"
+                },
+                {
+                    "course_code": "CS 688",
+                    "course_name": "Machine Learning"
+                },
+                {
+                    "course_code": "CS 689",
+                    "course_name": "Planning Motions of Robots and Molecules"
+                },
+                {
+                    "course_code": "CS 747",
+                    "course_name": "Deep Learning"
+                },
+                {
+                    "course_code": "CS 782",
+                    "course_name": "Advanced Machine Learning"
+                },
+                {
+                    "course_code": "CS 787",
+                    "course_name": "Decision Guidance Systems"
+                },
+                {
+                    "course_code": "INFS 740",
+                    "course_name": "Database Programming for the World Wide Web"
+                },
+                {
+                    "course_code": "INFS 760",
+                    "course_name": "Advanced Database Management"
+                },
+                {
+                    "course_code": "INFS 772",
+                    "course_name": "Intelligent Agents and the Semantic Web"
+                },
+                {
+                    "course_code": "INFS 774",
+                    "course_name": "Enterprise Architecture"
+                }
+            ]
+        },
+        "Programming_Languages_and_Software_Engineering": {
+            "basic_courses": [
+                {
+                    "course_code": "CS 540",
+                    "course_name": "Language Processors"
+                },
+                {
+                    "course_code": "SWE 619",
+                    "course_name": "Object-Oriented Software Specification and Construction"
+                },
+                {
+                    "course_code": "SWE 620",
+                    "course_name": "Software Requirements Analysis and Specification"
+                },
+                {
+                    "course_code": "SWE 621",
+                    "course_name": "Software Design and Architecture"
+                },
+                {
+                    "course_code": "SWE 622",
+                    "course_name": "Distributed Software Engineering"
+                }
+            ],
+            "advanced_courses": [
+                {
+                    "course_code": "CS 640",
+                    "course_name": "Advanced Compilers"
+                },
+                {
+                    "course_code": "SWE 681",
+                    "course_name": "Secure Software Design and Programming or ISA Secure Software Design and Programming"
+                },
+                {
+                    "course_code": "SWE 631",
+                    "course_name": "Software Design Patterns"
+                },
+                {
+                    "course_code": "SWE 632",
+                    "course_name": "User Interface Design and Development"
+                },
+                {
+                    "course_code": "SWE 637",
+                    "course_name": "Software Testing"
+                },
+                {
+                    "course_code": "SWE 642",
+                    "course_name": "Software Engineering for the World Wide Web"
+                },
+                {
+                    "course_code": "SWE 645",
+                    "course_name": "Component-Based Software Development"
+                },
+                {
+                    "course_code": "SWE 721",
+                    "course_name": "Reusable Software Architectures"
+                },
+                {
+                    "course_code": "SWE 737",
+                    "course_name": "Advanced Software Testing"
+                },
+                {
+                    "course_code": "SWE 760",
+                    "course_name": "Software Analysis and Design of Real-Time Systems"
+                }
+            ]
+        },
+        
+        "Systems_and_Networks": {
+            "basic_courses": [
+            {
+                "course_code": "CS 531",
+                "course_name": "Computer Systems and Fundamentals of Systems Programming"
+            },
+            {
+                "course_code": "CS 555",
+                "course_name": "Computer Communications and Networking"
+            },
+            {
+                "course_code": "CS 571",
+                "course_name": "Operating Systems"
+            },
+            {
+                "course_code": "CS 587",
+                "course_name": "Introduction to Cryptography"
+            },
+            {
+                "course_code": "ISA 562",
+                "course_name": "Information Security Theory and Practice"
+            },
+            {
+                "course_code": "ISA 564",
+                "course_name": "Security Laboratory"
+            }
+            ],
+            "advanced_courses": [
+            {
+                "course_code": "CS 635",
+                "course_name": "Foundations of Parallel Computation"
+            },
+            {
+                "course_code": "CS 655",
+                "course_name": "Wireless and Mobile Computing"
+            },
+            {
+                "course_code": "CS 658",
+                "course_name": "Networked Virtual Environments"
+            },
+            {
+                "course_code": "CS 672",
+                "course_name": "Computer System Performance Evaluation"
+            },
+            {
+                "course_code": "CS 673",
+                "course_name": "Multimedia Computing and Systems"
+            },
+            {
+                "course_code": "CS 675",
+                "course_name": "Distributed Systems"
+            },
+            {
+                "course_code": "CS 706",
+                "course_name": "Concurrent Software Systems"
+            },
+            {
+                "course_code": "CS 719",
+                "course_name": "Scalable Internet Services"
+            },
+            {
+                "course_code": "CS 756",
+                "course_name": "Performance Analysis of Computer Networks"
+            },
+            {
+                "course_code": "CS 773",
+                "course_name": "Real-Time Systems Design and Development"
+            },
+            {
+                "course_code": "CS 779",
+                "course_name": "Topics in Resilient and Secure Computer Systems"
+            },
+            {
+                "course_code": "CS 788",
+                "course_name": "Autonomic Computing"
+            },
+            {
+                "course_code": "ISA 656",
+                "course_name": "Network Security"
+            },
+            {
+                "course_code": "ISA 673",
+                "course_name": "Operating Systems Security"
+            },
+            {
+                "course_code": "ISA 674",
+                "course_name": "Intrusion Detection"
+            },
+            {
+                "course_code": "ISA 697",
+                "course_name": "Topics in Information Security"
+            },
+            {
+                "course_code": "ISA 763",
+                "course_name": "Security Protocol Analysis"
+            },
+            {
+                "course_code": "ISA 764",
+                "course_name": "Security Experimentation"
+            },
+            {
+                "course_code": "ISA 785",
+                "course_name": "Research in Digital Forensics"
+            }
+            ]
+        },
+        
+        "Theoretical_Computer_Science": {
+            "basic_courses": [
+            {
+                "course_code": "CS 530",
+                "course_name": "Mathematical Foundations of Computer Science"
+            },
+            {
+                "course_code": "CS 583",
+                "course_name": "Analysis of Algorithms"
+            }
+            ],
+            "advanced_courses": [
+            {
+                "course_code": "CS 600",
+                "course_name": "Theory of Computation"
+            },
+            {
+                "course_code": "CS 630",
+                "course_name": "Advanced Algorithms"
+            },
+            {
+                "course_code": "CS 633",
+                "course_name": "Computational Geometry"
+            },
+            {
+                "course_code": "CS 683",
+                "course_name": "Parallel Algorithms"
+            },
+            {
+                "course_code": "CS 684",
+                "course_name": "Graph Algorithms"
+            }
+            ]
+        },
+        
+        "Visual_Computing": {
+            "basic_courses": [
+            {
+                "course_code": "CS 551",
+                "course_name": "Computer Graphics"
+            }
+            ],
+            "advanced_courses": [
+            {
+                "course_code": "CS 662",
+                "course_name": "Computer Graphics Game Technologies"
+            },
+            {
+                "course_code": "CS 663",
+                "course_name": "Computational Design"
+            },
+            {
+                "course_code": "CS 667",
+                "course_name": "Biometrics and Identity Management"
+            },
+            {
+                "course_code": "CS 682",
+                "course_name": "Computer Vision"
+            },
+            {
+                "course_code": "CS 686",
+                "course_name": "Image Processing and Applications"
+            },
+            {
+                "course_code": "CS 752",
+                "course_name": "Interactive Graphics Software"
+            },
+            {
+                "course_code": "CS 774",
+                "course_name": "Computational Vision"
+            },
+            {
+                "course_code": "CS 777",
+                "course_name": "Human-Computer Intelligent Interaction"
+            }
+            ]
+        },
+        
+        "Unclassified_Courses": [
+            {
+            "course_code": "CS 595",
+            "course_name": "Basic Topics in Computer Science"
+            },
+            {
+            "course_code": "CS 695",
+            "course_name": "Topics in Computer Science"
+            },
+            {
+            "course_code": "CS 697",
+            "course_name": "Independent Reading and Research"
+            },
+            {
+            "course_code": "CS 795",
+            "course_name": "Advanced Topics in CS"
+            },
+            {
+            "course_code": "CS 798",
+            "course_name": "Project Seminar"
+            },
+            {
+            "course_code": "CS 799",
+            "course_name": "Thesis"
+            },
+            {
+            "course_code": "CS 895",
+            "course_name": "Research Topics in CS"
+            },
+            {
+            "course_code": "SWE 699",
+            "course_name": "Special Topics in Software Engineering"
+            },
+            {
+            "course_code": "SWE 795",
+            "course_name": "Advanced Topics in Software Engineering"
+            },
+            {
+            "course_code": "SWE 796",
+            "course_name": "Directed Readings in Software Engineering"
+            }
+        ]       
+          
+    }
+}

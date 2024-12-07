@@ -1,0 +1,82 @@
+{
+    "courses": [
+        {
+            "course_code": "CS 678",
+            "semester_offered": "Fall 2024",
+            "course_title": "Advanced Natural Language Processing",
+            "instructors": ["Anastasopoulos"]
+        },
+        {
+            "course_code": "CS 478",
+            "semester_offered": "Fall 2024",
+            "course_title": "Natural Language Processing",
+            "instructors": ["Yao"]
+        },
+        {
+            "course_code": "CS 678",
+            "semester_offered": "Spring 2024",
+            "course_title": "Advanced Natural Language Processing",
+            "instructors": ["Yao"]
+        },
+        {
+            "course_code": "CS 678",
+            "semester_offered": "Fall 2023",
+            "course_title": "Advanced Natural Language Processing",
+            "instructors": ["Yao"]
+        },
+        {
+            "course_code": "CS 478",
+            "semester_offered": "Fall 2023",
+            "course_title": "Natural Language Processing",
+            "instructors": ["Anastasopoulos"]
+        },
+        {
+            "course_code": "CS 678",
+            "semester_offered": "Spring 2023",
+            "course_title": "Advanced Natural Language Processing",
+            "instructors": ["Anastasopoulos", "Ahmadi"]
+        },
+        {
+            "course_code": "CS 478",
+            "semester_offered": "Spring 2023",
+            "course_title": "Natural Language Processing",
+            "instructors": ["Yao"]
+        },
+        {
+            "course_code": "CS 678",
+            "semester_offered": "Fall 2022",
+            "course_title": "Advanced Natural Language Processing",
+            "instructors": ["Anastasopoulos", "Yao"]
+        },
+        {
+            "course_code": "CS 688",
+            "semester_offered": "Spring 2022",
+            "course_title": "Machine Learning",
+            "instructors": ["Anastasopoulos"]
+        },
+        {
+            "course_code": "CS 499",
+            "semester_offered": "Spring 2022",
+            "course_title": "Natural Language Processing",
+            "instructors": ["Yao"]
+        },
+        {
+            "course_code": "CS 695",
+            "semester_offered": "Fall 2021",
+            "course_title": "Special Topics in Natural Language Processing",
+            "instructors": ["Yao"]
+        },
+        {
+            "course_code": "CS 499",
+            "semester_offered": "Spring 2021",
+            "course_title": "Natural Language Processing",
+            "instructors": ["Anastasopoulos"]
+        },
+        {
+            "course_code": "CS 695",
+            "semester_offered": "Fall 2020",
+            "course_title": "Special Topics in Natural Language Processing",
+            "instructors": ["Anastasopoulos"]
+        }
+    ]
+}

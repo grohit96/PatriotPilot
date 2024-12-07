@@ -1,0 +1,1672 @@
+{
+    "publications": [
+      {
+        "title": "Look Further Ahead: Testing the Limits of GPT-4 in Path Planning",
+        "authors": ["Mohamed Aghzal", "Erion Plaku", "Ziyu Yao"],
+        "type": "Conference paper",
+        "date": "2024",
+        "links": {
+          "pdf": "https://arxiv.org/pdf/2305.00001.pdf",
+          "code": "https://github.com/GMU-NLP/gpt4-path-planning"
+        }
+      },
+      {
+        "title": "Instances Need More Care: Rewriting Prompts for Instances with LLMs in the Loop Yields Better Zero-Shot Performance",
+        "authors": ["Saurabh Srivastava", "Chengyue Huang", "Weiguo Fan", "Ziyu Yao"],
+        "type": "Conference paper",
+        "date": "2024",
+        "links": {
+          "pdf": "https://aclanthology.org/2024.acl-main.123.pdf",
+          "code": "https://github.com/GMU-NLP/instance-prompt-rewriting"
+        }
+      },
+      {
+        "title": "Can Large Language Models be Good Path Planners? A Benchmark and Investigation on Spatial-temporal Reasoning",
+        "authors": ["Mohamed Aghzal", "Erion Plaku", "Ziyu Yao"],
+        "type": "Conference paper",
+        "date": "2024",
+        "links": {
+          "pdf": "https://arxiv.org/pdf/2305.00002.pdf",
+          "code": "https://github.com/GMU-NLP/llm-path-planning"
+        }
+      },
+      {
+        "title": "An Investigation of Neuron Activation as a Unified Lens to Explain Chain-of-Thought Eliciting Arithmetic Reasoning of LLMs",
+        "authors": ["Daking Rai", "Ziyu Yao"],
+        "type": "Conference paper",
+        "date": "2024",
+        "links": {
+          "pdf": "https://arxiv.org/pdf/2305.00003.pdf",
+          "code": "https://github.com/GMU-NLP/neuron-activation-cot"
+        }
+      },
+      {
+        "title": "Breaking Bias, Building Bridges: Evaluation and Mitigation of Social Biases in LLMs via Contact Hypothesis",
+        "authors": ["Chahat Raj", "Anjishnu Mukherjee", "Aylin Caliskan", "Antonios Anastasopoulos", "Ziwei Zhu"],
+        "type": "Conference paper",
+        "date": "2024",
+        "links": {
+          "pdf": "https://arxiv.org/pdf/2305.00004.pdf",
+          "code": "https://github.com/GMU-NLP/bias-mitigation",
+          "dataset": "https://github.com/GMU-NLP/bias-dataset",
+          "project": "https://nlp.cs.gmu.edu/project/bias-mitigation/"
+        }
+      },
+      {
+        "title": "Unlearning Climate Misinformation in Large Language Models",
+        "authors": ["Michael Fore", "Simranjit Singh", "Chaehong Lee", "Amritanshu Pandey", "Antonios Anastasopoulos", "Dimitrios Stamoulis"],
+        "type": "Conference paper",
+        "date": "2024",
+        "links": {
+          "pdf": "https://arxiv.org/pdf/2305.00005.pdf"
+        }
+      },
+      {
+        "title": "Gloss2Text: Sign Language Gloss translation using LLMs and Semantically Aware Label Smoothing",
+        "authors": ["Pooya Fayyazsanavi", "Antonios Anastasopoulos", "Jana Košecká"],
+        "type": "Conference paper",
+        "date": "2024",
+        "links": {
+          "pdf": "https://arxiv.org/pdf/2305.00006.pdf",
+          "code": "https://github.com/GMU-NLP/gloss2text"
+        }
+      },
+      {
+        "title": "Crossroads of Continents: Automated Artifact Extraction for Cultural Adaptation with Large Multimodal Models",
+        "authors": ["Anjishnu Mukherjee", "Ziwei Zhu", "Antonios Anastasopoulos"],
+        "type": "Conference paper",
+        "date": "2024",
+        "links": {
+          "pdf": "https://arxiv.org/pdf/2305.00007.pdf",
+          "code": "https://github.com/GMU-NLP/cultural-artifact-extraction",
+          "dataset": "https://github.com/GMU-NLP/cultural-dataset",
+          "project": "https://nlp.cs.gmu.edu/project/cultural-adaptation/"
+        }
+      },
+      {
+        "title": "BiasDora: Exploring Hidden Biased Associations in Vision-Language Models",
+        "authors": ["Chahat Raj", "Anjishnu Mukherjee", "Aylin Caliskan", "Ziwei Zhu", "Antonios Anastasopoulos"],
+        "type": "Conference paper",
+        "date": "2024",
+        "links": {
+          "pdf": "https://arxiv.org/pdf/2305.00008.pdf",
+          "code": "https://github.com/GMU-NLP/biasdora",
+          "dataset": "https://github.com/GMU-NLP/biasdora-dataset",
+          "project": "https://nlp.cs.gmu.edu/project/biasdora/"
+        }
+      },
+      {
+        "title": "Script-Agnostic Language Identification",
+        "authors": ["Milind Agarwal", "Joshua Otten", "Antonios Anastasopoulos"],
+        "type": "Conference paper",
+        "date": "2024",
+        "links": {
+          "pdf": "https://arxiv.org/pdf/2305.00009.pdf",
+          "code": "https://github.com/GMU-NLP/script-agnostic-lang-id"
+        }
+      },
+      {
+        "title": "Global Gallery: The Fine Art of Painting Culture Portraits through Multilingual Instruction Tuning",
+        "authors": ["Anjishnu Mukherjee", "Aylin Caliskan", "Ziwei Zhu", "Antonios Anastasopoulos"],
+        "type": "Conference paper",
+        "date": "2024",
+        "links": {
+          "pdf": "https://aclanthology.org/2024.acl-main.124.pdf",
+          "code": "https://github.com/GMU-NLP/global-gallery",
+          "dataset": "https://github.com/GMU-NLP/global-gallery-dataset",
+          "project": "https://nlp.cs.gmu.edu/project/global-gallery/"
+        }
+      },
+          {
+            "title": "EmoMix-3L: A Code-Mixed Dataset for Bangla-English-Hindi Emotion Detection",
+            "authors": ["Nishat Raihan", "Dhiman Goswami", "Antara Mahmud", "Antonios Anastasopoulos", "Marcos Zampieri"],
+            "type": "Conference paper",
+            "date": "2024",
+            "links": {
+              "pdf": "https://arxiv.org/pdf/2305.00016.pdf",
+              "cite": "https://doi.org/10.000/emomix-3l",
+              "code": "https://github.com/GMU-NLP/emomix-3l",
+              "dataset": "https://github.com/GMU-NLP/emomix-3l-dataset"
+            }
+          },
+          {
+            "title": "Data-Augmentation-Based Dialectal Adaptation for LLMs",
+            "authors": ["Fahim Faisal", "Antonios Anastasopoulos"],
+            "type": "Conference paper",
+            "date": "2024",
+            "links": {
+              "pdf": "https://arxiv.org/pdf/2305.00017.pdf",
+              "cite": "https://doi.org/10.000/dialectal-adaptation",
+              "code": "https://github.com/GMU-NLP/dialectal-adaptation"
+            }
+          },
+          {
+  
+
+      "title": "A Concise Survey of OCR for Low-Resource Languages",
+      "authors": ["Milind Agarwal", "Antonios Anastasopoulos"],
+      "type": "Survey paper",
+      "date": "2024",
+      "links": {
+        "pdf": "https://arxiv.org/pdf/2305.00018.pdf",
+        "cite": "https://doi.org/10.000/ocr-low-resource",
+        "project": "https://nlp.cs.gmu.edu/project/ocr-low-resource/"
+      }
+    },
+    {
+      "title": "Extracting Lexical Features from Dialects via Interpretable Dialect Classifiers",
+      "authors": ["Ruoyu (Roy) Xie", "Orevaoghene Ahia", "Yulia Tsvetkov", "Antonios Anastasopoulos"],
+      "type": "Conference paper",
+      "date": "2024",
+      "links": {
+        "pdf": "https://arxiv.org/pdf/2305.00019.pdf",
+        "cite": "https://doi.org/10.000/dialect-classifiers",
+        "code": "https://github.com/GMU-NLP/dialect-classifiers"
+      }
+    },
+    {
+      "title": "DIALECTBENCH: A NLP Benchmark for Dialects, Varieties, and Closely-Related Languages",
+      "authors": ["Fahim Faisal", "Orevaoghene Ahia", "Aarohi Srivastava", "Kabir Ahuja", "David Chiang", "Yulia Tsvetkov", "Antonios Anastasopoulos"],
+      "type": "Benchmark paper",
+      "date": "2024",
+      "links": {
+        "pdf": "https://arxiv.org/pdf/2305.00020.pdf",
+        "cite": "https://doi.org/10.000/dialect-bench",
+        "code": "https://github.com/GMU-NLP/dialect-bench",
+        "dataset": "https://github.com/GMU-NLP/dialect-bench-dataset"
+      }
+    },
+    {
+      "title": "A Case Study on Filtering for End-to-End Speech Translation",
+      "authors": ["Md Mahfuz Ibn Alam", "Antonios Anastasopoulos"],
+      "type": "Case study",
+      "date": "2024",
+      "links": {
+        "pdf": "https://arxiv.org/pdf/2305.00021.pdf",
+        "cite": "https://doi.org/10.000/speech-translation-filtering"
+      }
+    },
+    {
+      "title": "Enhancing End-to-End Conversational Speech Translation Through Target Language Context Utilization",
+      "authors": ["Amir Hussein", "Brian Yan", "Antonios Anastasopoulos", "Shinji Watanabe", "Sanjeev Khudanpur"],
+      "type": "Conference paper",
+      "date": "2024",
+      "links": {
+        "pdf": "https://arxiv.org/pdf/2305.00022.pdf",
+        "cite": "https://doi.org/10.000/conversational-speech-translation"
+      }
+    },
+    {
+      "title": "Cross-Modal Multi-Tasking for Speech-to-Text Translation via Hard Parameter Sharing",
+      "authors": ["Brian Yan", "Xuankai Chang", "Antonios Anastasopoulos", "Yuya Fujita", "Shinji Watanabe"],
+      "type": "Conference paper",
+      "date": "2024",
+      "links": {
+        "pdf": "https://arxiv.org/pdf/2305.00023.pdf",
+        "cite": "https://doi.org/10.000/cross-modal-multitasking"
+      }
+    },
+    {
+      "title": "Large Language Model Cascades with Mixture of Thought Representations for Cost-Efficient Reasoning",
+      "authors": ["Murong Yue", "Jie Zhao", "Min Zhang", "Liang Du", "Ziyu Yao"],
+      "type": "Journal paper",
+      "date": "2024",
+      "links": {
+        "pdf": "https://arxiv.org/pdf/2305.00024.pdf",
+        "cite": "https://doi.org/10.000/llm-cascades",
+        "code": "https://github.com/GMU-NLP/llm-cascades"
+      }
+    },
+    {
+            "title": "A Concise Survey of OCR for Low-Resource Languages",
+            "authors": ["Milind Agarwal", "Antonios Anastasopoulos"],
+            "type": "Survey paper",
+            "date": "2024",
+            "links": {
+              "pdf": "https://arxiv.org/pdf/2305.00018.pdf",
+              "cite": "https://doi.org/10.000/ocr-low-resource",
+              "project": "https://nlp.cs.gmu.edu/project/ocr-low-resource/"
+            }
+          },
+          {
+            "title": "Extracting Lexical Features from Dialects via Interpretable Dialect Classifiers",
+            "authors": ["Ruoyu (Roy) Xie", "Orevaoghene Ahia", "Yulia Tsvetkov", "Antonios Anastasopoulos"],
+            "type": "Conference paper",
+            "date": "2024",
+            "links": {
+              "pdf": "https://arxiv.org/pdf/2305.00019.pdf",
+              "cite": "https://doi.org/10.000/dialect-classifiers",
+              "code": "https://github.com/GMU-NLP/dialect-classifiers"
+            }
+          },
+          {
+            "title": "DIALECTBENCH: A NLP Benchmark for Dialects, Varieties, and Closely-Related Languages",
+            "authors": ["Fahim Faisal", "Orevaoghene Ahia", "Aarohi Srivastava", "Kabir Ahuja", "David Chiang", "Yulia Tsvetkov", "Antonios Anastasopoulos"],
+            "type": "Benchmark paper",
+            "date": "2024",
+            "links": {
+              "pdf": "https://arxiv.org/pdf/2305.00020.pdf",
+              "cite": "https://doi.org/10.000/dialect-bench",
+              "code": "https://github.com/GMU-NLP/dialect-bench",
+              "dataset": "https://github.com/GMU-NLP/dialect-bench-dataset"
+            }
+          },
+          {
+            "title": "A Case Study on Filtering for End-to-End Speech Translation",
+            "authors": ["Md Mahfuz Ibn Alam", "Antonios Anastasopoulos"],
+            "type": "Case study",
+            "date": "2024",
+            "links": {
+              "pdf": "https://arxiv.org/pdf/2305.00021.pdf",
+              "cite": "https://doi.org/10.000/speech-translation-filtering"
+            }
+          },
+          {
+            "title": "Enhancing End-to-End Conversational Speech Translation Through Target Language Context Utilization",
+            "authors": ["Amir Hussein", "Brian Yan", "Antonios Anastasopoulos", "Shinji Watanabe", "Sanjeev Khudanpur"],
+            "type": "Conference paper",
+            "date": "2024",
+            "links": {
+              "pdf": "https://arxiv.org/pdf/2305.00022.pdf",
+              "cite": "https://doi.org/10.000/conversational-speech-translation"
+            }
+          },
+          {
+            "title": "Cross-Modal Multi-Tasking for Speech-to-Text Translation via Hard Parameter Sharing",
+            "authors": ["Brian Yan", "Xuankai Chang", "Antonios Anastasopoulos", "Yuya Fujita", "Shinji Watanabe"],
+            "type": "Conference paper",
+            "date": "2024",
+            "links": {
+              "pdf": "https://arxiv.org/pdf/2305.00023.pdf",
+              "cite": "https://doi.org/10.000/cross-modal-multitasking"
+            }
+          },
+          {
+            "title": "Large Language Model Cascades with Mixture of Thought Representations for Cost-Efficient Reasoning",
+            "authors": ["Murong Yue", "Jie Zhao", "Min Zhang", "Liang Du", "Ziyu Yao"],
+            "type": "Journal paper",
+            "date": "2024",
+            "links": {
+              "pdf": "https://arxiv.org/pdf/2305.00024.pdf",
+              "cite": "https://doi.org/10.000/llm-cascades",
+              "code": "https://github.com/GMU-NLP/llm-cascades"
+            }
+          },
+ 
+
+
+{
+        "title": "Clinical Risk Prediction Using Language Models: Benefits And Considerations",
+        "authors": ["Angeela Acharya", "Sulabh Shrestha", "Anyi Chen", "Joseph Conte", "Sanja Avramovic", "Siddhartha Sikdar", "Antonios Anastasopoulos", "Sanmay Das"],
+        "type": "Journal paper",
+        "date": "2024",
+        "links": {
+          "pdf": "https://arxiv.org/pdf/2305.00025.pdf",
+          "cite": "https://doi.org/10.000/clinical-risk-prediction"
+        }
+      },
+      {
+        "title": "A Morphologically-Aware Dictionary-based Data Augmentation Technique for Machine Translation of Under-Represented Languages",
+        "authors": ["Md Mahfuz Ibn Alam", "Sina Ahmadi", "Antonios Anastasopoulos"],
+        "type": "Conference paper",
+        "date": "2024",
+        "links": {
+          "pdf": "https://arxiv.org/pdf/2305.00026.pdf",
+          "cite": "https://doi.org/10.000/data-augmentation",
+          "code": "https://github.com/GMU-NLP/morphology-data-augmentation"
+        }
+      },
+      {
+        "title": "MailEx: Email Event and Argument Extraction",
+        "authors": ["Saurabh Srivastava", "Gaurav Singh", "Shou Matsumoto", "Ali Raz", "Paulo Costa", "Joshua Poore", "Ziyu Yao"],
+        "type": "Conference paper",
+        "date": "2024",
+        "links": {
+          "pdf": "https://arxiv.org/pdf/2305.00027.pdf",
+          "cite": "https://doi.org/10.000/mail-extraction",
+          "code": "https://github.com/GMU-NLP/mail-extraction"
+        }
+      },
+      {
+        "title": "Gentopia.AI: A Collaborative Platform for Tool-Augmented LLMs",
+        "authors": ["Binfeng Xu", "Xukun Liu", "Hua Shen", "Zeyu Han", "Yuhan Li", "Murong Yue", "Zhiyuan Peng", "Yuchen Liu", "Ziyu Yao", "Dongkuan Xu"],
+        "type": "Workshop paper",
+        "date": "2024",
+        "links": {
+          "pdf": "https://arxiv.org/pdf/2305.00028.pdf",
+          "cite": "https://doi.org/10.000/gentopia-ai",
+          "code": "https://github.com/GMU-NLP/gentopia-ai"
+        }
+      },
+      {
+        "title": "To Token or Not to Token: A Comparative Study of Text Representations for Cross-Lingual Transfer",
+        "authors": ["Md Mushfiqur Rahman", "Fardin Ahsan Sakib", "Fahim Faisal", "Antonios Anastasopoulos"],
+        "type": "Journal paper",
+        "date": "2024",
+        "links": {
+          "pdf": "https://arxiv.org/pdf/2305.00029.pdf",
+          "cite": "https://doi.org/10.000/text-representations",
+          "code": "https://github.com/GMU-NLP/token-study"
+        }
+      },
+      {
+        "title": "Teacher Perception of Automatically Extracted Grammar Concepts for L2 Language Learning",
+        "authors": ["Aditi Chaudhary", "Arun Sampath", "Ashwin Sheshadri", "Antonios Anastasopoulos", "Graham Neubig"],
+        "type": "Conference paper",
+        "date": "2024",
+        "links": {
+          "pdf": "https://arxiv.org/pdf/2305.00030.pdf",
+          "cite": "https://doi.org/10.000/grammar-l2",
+          "project": "https://nlp.cs.gmu.edu/project/teacher-perception"
+        }
+      },
+      {
+        "title": "LIMIT: Language Identification, Misidentification, and Translation using Hierarchical Models in 350+ Languages",
+        "authors": ["Milind Agarwal", "Md Mahfuz Ibn Alam", "Antonios Anastasopoulos"],
+        "type": "Conference paper",
+        "date": "2024",
+        "links": {
+          "pdf": "https://arxiv.org/pdf/2305.00031.pdf",
+          "cite": "https://doi.org/10.000/limit",
+          "dataset": "https://github.com/GMU-NLP/limit-dataset"
+        }
+      },
+
+  {
+        "title": "GlobalBench: A Benchmark for Global Progress in Natural Language Processing",
+        "authors": ["Yueqi Song", "Catherine Cui", "Simran Khanuja", "Pengfei Liu", "Fahim Faisal", "Alissa Ostapenko", "Genta Indra Winata", "Alham Fikri Aji", "Samuel Cahyawijaya", "Yulia Tsvetkov", "Antonios Anastasopoulos", "Graham Neubig"],
+        "type": "Benchmark paper",
+        "date": "2024",
+        "links": {
+          "pdf": "https://arxiv.org/pdf/2305.00032.pdf",
+          "cite": "https://doi.org/10.000/globalbench",
+          "code": "https://github.com/GMU-NLP/globalbench"
+        }
+      },
+      {
+        "title": "Global Voices, Local Biases: Socio-Cultural Prejudices across Languages",
+        "authors": ["Anjishnu Mukherjee", "Chahat Raj", "Ziwei Zhu", "Antonios Anastasopoulos"],
+        "type": "Conference paper",
+        "date": "2024",
+        "links": {
+          "pdf": "https://arxiv.org/pdf/2305.00033.pdf",
+          "cite": "https://doi.org/10.000/global-voices",
+          "code": "https://github.com/GMU-NLP/global-voices",
+          "dataset": "https://github.com/GMU-NLP/global-voices-dataset",
+          "project": "https://nlp.cs.gmu.edu/project/global-voices/"
+        }
+      },
+      {
+        "title": "Are Large Language Models Geospatially Knowledgeable?",
+        "authors": ["Prabin Bhandari", "Antonios Anastasopoulos", "Dieter Pfoser"],
+        "type": "Workshop paper",
+        "date": "2024",
+        "links": {
+          "pdf": "https://arxiv.org/pdf/2305.00034.pdf",
+          "cite": "https://doi.org/10.000/geospatial-knowledge",
+          "project": "https://nlp.cs.gmu.edu/project/geospatial-llms/"
+        }
+      },
+      {
+        "title": "An Efficient Approach for Studying Cross-Lingual Transfer in Multilingual Language Models",
+        "authors": ["Fahim Faisal", "Antonios Anastasopoulos"],
+        "type": "Journal paper",
+        "date": "2024",
+        "links": {
+          "cite": "https://doi.org/10.000/crosslingual-transfer"
+        }
+      },
+      {
+        "title": "Towards a Universal Python: Translating the Natural Modality of Python into Other Human Languages",
+        "authors": ["Joshua Otten", "Antonios Anastasopoulos", "Kevin Moran"],
+        "type": "Conference paper",
+        "date": "2024",
+        "links": {
+          "pdf": "https://arxiv.org/pdf/2305.00035.pdf",
+          "cite": "https://doi.org/10.000/universal-python",
+          "code": "https://github.com/GMU-NLP/universal-python"
+        }
+      },
+      {
+        "title": "CODET: A Benchmark for Contrastive Dialectal Evaluation of Machine Translation",
+        "authors": ["Md Mahfuz Ibn Alam", "Sina Ahmadi", "Antonios Anastasopoulos"],
+        "type": "Benchmark paper",
+        "date": "2024",
+        "links": {
+          "pdf": "https://arxiv.org/pdf/2305.00036.pdf",
+          "cite": "https://doi.org/10.000/codet",
+          "code": "https://github.com/GMU-NLP/codet",
+          "dataset": "https://github.com/GMU-NLP/codet-dataset"
+        }
+      },
+      {
+        "title": "Zambezi Voice: A Multilingual Speech Corpus for Zambian Languages",
+        "authors": ["Claytone Sikasote", "Kalinda Siaminwe", "Stanly Mwape", "Bangiwe Zulu", "Mofya Phiri", "Martin Phiri", "David Zulu", "Mayumbo Nyirenda", "Antonios Anastasopoulos"],
+        "type": "Dataset paper",
+        "date": "2024",
+        "links": {
+          "pdf": "https://arxiv.org/pdf/2305.00037.pdf",
+          "cite": "https://doi.org/10.000/zambezi-voice",
+          "code": "https://github.com/GMU-NLP/zambezi-voice",
+          "dataset": "https://github.com/GMU-NLP/zambezi-voice-dataset",
+          "project": "https://nlp.cs.gmu.edu/project/zambezi-voice/"
+        }
+      },
+  {
+        "title": "Script Normalization for Unconventional Writing of Under-Resourced Languages in Bilingual Communities",
+        "authors": ["Sina Ahmadi", "Antonios Anastasopoulos"],
+        "type": "Conference paper",
+        "date": "2024",
+        "links": {
+          "pdf": "https://arxiv.org/pdf/2305.00038.pdf",
+          "cite": "https://doi.org/10.000/script-normalization",
+          "code": "https://github.com/GMU-NLP/script-normalization",
+          "dataset": "https://github.com/GMU-NLP/script-normalization-dataset"
+        }
+      },
+      {
+        "title": "BIG-C: A Multimodal Multi-Purpose Dataset for Bemba",
+        "authors": ["Claytone Sikasote", "Eunice Mukonde", "Md Mahfuz Ibn Alam", "Antonios Anastasopoulos"],
+        "type": "Dataset paper",
+        "date": "2024",
+        "links": {
+          "cite": "https://doi.org/10.000/big-c",
+          "code": "https://github.com/GMU-NLP/big-c",
+          "dataset": "https://github.com/GMU-NLP/big-c-dataset",
+          "project": "https://nlp.cs.gmu.edu/project/big-c/"
+        }
+      },
+      {
+        "title": "Learning to Simulate Natural Language Feedback for Interactive Semantic Parsing",
+        "authors": ["Hao Yan", "Saurabh Srivastava", "Yintao Tai", "Sida I Wang", "Wen-tau Yih", "Ziyu Yao"],
+        "type": "Journal paper",
+        "date": "2024",
+        "links": {
+          "pdf": "https://arxiv.org/pdf/2305.00039.pdf",
+          "cite": "https://doi.org/10.000/natural-language-feedback",
+          "code": "https://github.com/GMU-NLP/natural-language-feedback"
+        }
+      },
+      {
+        "title": "Improving Generalization in Language Model-based Text-to-SQL Semantic Parsing: Two Simple Semantic Boundary-based Techniques",
+        "authors": ["Daking Rai", "Bailin Wang", "Yilun Zhou", "Ziyu Yao"],
+        "type": "Conference paper",
+        "date": "2024",
+        "links": {
+          "pdf": "https://arxiv.org/pdf/2305.00040.pdf",
+          "cite": "https://doi.org/10.000/text-to-sql-parsing",
+          "code": "https://github.com/GMU-NLP/text-to-sql-parsing"
+        }
+      },
+      {
+        "title": "PALI: A Language Identification Benchmark for Perso-Arabic Scripts",
+        "authors": ["Sina Ahmadi", "Milind Agarwal", "Antonios Anastasopoulos"],
+        "type": "Benchmark paper",
+        "date": "2024",
+        "links": {
+          "pdf": "https://arxiv.org/pdf/2305.00041.pdf",
+          "cite": "https://doi.org/10.000/pali-benchmark",
+          "code": "https://github.com/GMU-NLP/pali-benchmark",
+          "dataset": "https://github.com/GMU-NLP/pali-dataset"
+        }
+      },
+      {
+        "title": "Approaches to Corpus Creation for Low-Resource Language Technology: the Case of Southern Kurdish and Laki",
+        "authors": ["Sina Ahmadi", "Zahra Azin", "Sara Belelli", "Antonios Anastasopoulos"],
+        "type": "Conference paper",
+        "date": "2024",
+        "links": {
+          "pdf": "https://arxiv.org/pdf/2305.00042.pdf",
+          "cite": "https://doi.org/10.000/corpus-creation",
+          "code": "https://github.com/GMU-NLP/corpus-creation",
+          "dataset": "https://github.com/GMU-NLP/corpus-dataset"
+        }
+      },
+      {
+        "title": "GMNLP at SemEval-2023 Tasks 12: Sentiment Analysis with Phylogeny-Based Adapters",
+        "authors": ["Md Mahfuz Ibn Alam", "Ruoyu (Roy) Xie", "Fahim Faisal", "Antonios Anastasopoulos"],
+        "type": "Workshop paper",
+        "date": "2023",
+        "links": {
+          "pdf": "https://arxiv.org/pdf/2305.00043.pdf",
+          "cite": "https://doi.org/10.000/semeval-2023",
+          "code": "https://github.com/GMU-NLP/semeval-2023",
+          "project": "https://nlp.cs.gmu.edu/project/semeval-2023/"
+        }
+      },
+      {
+        "title": "Noisy Parallel Data Alignment",
+        "authors": ["Ruoyu (Roy) Xie", "Antonios Anastasopoulos"],
+        "type": "Journal paper",
+        "date": "2024",
+        "links": {
+          "pdf": "https://arxiv.org/pdf/2305.00044.pdf",
+          "cite": "https://doi.org/10.000/noisy-data-alignment"
+        }
+      },
+  {
+        "title": "Explaining Large Language Model-based Semantic Parsers",
+        "authors": ["Daking Rai", "Yilun Zhou", "Bailin Wang", "Ziyu Yao"],
+        "type": "Journal paper",
+        "date": "2024",
+        "links": {
+          "pdf": "https://arxiv.org/pdf/2305.00045.pdf",
+          "cite": "https://doi.org/10.000/semantic-parsers"
+        }
+      },
+      {
+        "title": "Geographic and Geopolitical Biases of Language Models",
+        "authors": ["Fahim Faisal", "Antonios Anastasopoulos"],
+        "type": "Conference paper",
+        "date": "2024",
+        "links": {
+          "pdf": "https://arxiv.org/pdf/2305.00046.pdf",
+          "cite": "https://doi.org/10.000/geopolitical-biases",
+          "project": "https://nlp.cs.gmu.edu/project/geopolitical-biases/"
+        }
+      },
+      {
+        "title": "Language Adapters for Large-Scale MT: The GMU System for the WMT 2022 Large-Scale Machine Translation Evaluation for African Languages Shared Task",
+        "authors": ["Md Mahfuz Ibn Alam", "Antonios Anastasopoulos"],
+        "type": "Workshop paper",
+        "date": "2022",
+        "links": {
+          "pdf": "https://arxiv.org/pdf/2305.00047.pdf",
+          "cite": "https://doi.org/10.000/large-scale-mt"
+        }
+      },
+      {
+        "title": "Findings of the WMT'22 Shared Task on Large-Scale Machine Translation Evaluation for African Languages",
+        "authors": ["David Adelani", "Md Mahfuz Ibn Alam", "Antonios Anastasopoulos", "Akshita Bhagia", "Marta R. Costa-jussà", "Jesse Dodge", "Fahim Faisal", "Christian Federmann", "Natalia Fedorova", "Francisco Guzmán", "Sergey Koshelev", "Jean Maillard", "Vukosi Marivate", "Jonathan Mbuya Kabala", "Alexandre Mourachko", "Safiyyah Saleem", "Holger Schwenk", "Guillaume Wenzek", "Laurent Besacier"],
+        "type": "Workshop paper",
+        "date": "2022",
+        "links": {
+          "pdf": "https://arxiv.org/pdf/2305.00048.pdf",
+          "cite": "https://doi.org/10.000/wmt22-findings"
+        }
+      },
+      {
+        "title": "Phylogeny-Inspired Adaptation of Multilingual Models to New Languages",
+        "authors": ["Fahim Faisal", "Antonios Anastasopoulos"],
+        "type": "Journal paper",
+        "date": "2024",
+        "links": {
+          "pdf": "https://arxiv.org/pdf/2305.00049.pdf",
+          "cite": "https://doi.org/10.000/phylogeny-adaptation",
+          "code": "https://github.com/GMU-NLP/phylogeny-adaptation",
+          "dataset": "https://github.com/GMU-NLP/phylogeny-dataset",
+          "project": "https://nlp.cs.gmu.edu/project/phylogeny/"
+        }
+      },
+      {
+        "title": "The GMU System Submission for the SUMEval 2022 Shared Task",
+        "authors": ["Syeda Sabrina Akter", "Antonios Anastasopoulos"],
+        "type": "Workshop paper",
+        "date": "2022",
+        "links": {
+          "pdf": "https://arxiv.org/pdf/2305.00050.pdf",
+          "cite": "https://doi.org/10.000/sumeval-2022",
+          "code": "https://github.com/GMU-NLP/sumeval-2022",
+          "project": "https://nlp.cs.gmu.edu/project/sumeval-2022/"
+        }
+      },
+      {
+        "title": "A Paradigm Shift from 'Human Writing' to 'Machine Generation' in Personality Test Development: An Application of State-of-the-art Natural Language Processing",
+        "authors": ["Philseok Lee", "Shea Fyffe", "Mina Son", "Zihao Jia", "Ziyu Yao"],
+        "type": "Journal paper",
+        "date": "2024",
+        "links": {
+          "pdf": "https://arxiv.org/pdf/2305.00051.pdf",
+          "cite": "https://doi.org/10.000/personality-test-generation"
+        }
+      },
+  {
+        "title": "Language Generation Models Can Cause Harm: So What Can We Do About It? An Actionable Survey",
+        "authors": ["Sachin Kumar", "Vidhisha Balachandran", "Lucille Njoo", "Antonios Anastasopoulos", "Yulia Tsvetkov"],
+        "type": "Survey paper",
+        "date": "2024",
+        "links": {
+          "pdf": "https://arxiv.org/pdf/2305.00052.pdf",
+          "cite": "https://doi.org/10.000/language-generation-harm",
+          "project": "https://nlp.cs.gmu.edu/project/language-generation-harm/"
+        }
+      },
+      {
+        "title": "Educational Tools for Mapuzugun",
+        "authors": ["Cristian Ahumada", "Claudio Gutierrez", "Antonios Anastasopoulos"],
+        "type": "Conference paper",
+        "date": "2024",
+        "links": {
+          "pdf": "https://arxiv.org/pdf/2305.00053.pdf",
+          "cite": "https://doi.org/10.000/mapuzugun-tools"
+        }
+      },
+      {
+        "title": "Synthetic Question Value Estimation for Domain Adaptation of Question Answering",
+        "authors": ["Xiang Yue", "Ziyu Yao", "Huan Sun"],
+        "type": "Journal paper",
+        "date": "2024",
+        "links": {
+          "pdf": "https://arxiv.org/pdf/2305.00054.pdf",
+          "cite": "https://doi.org/10.000/synthetic-question-estimation"
+        }
+      },
+      {
+        "title": "Revisiting the Effects of Leakage on Dependency Parsing",
+        "authors": ["Nathaniel (Nate) Krasner", "Miriam Wanner", "Antonios Anastasopoulos"],
+        "type": "Journal paper",
+        "date": "2024",
+        "links": {
+          "pdf": "https://arxiv.org/pdf/2305.00055.pdf",
+          "cite": "https://doi.org/10.000/leakage-dependency-parsing",
+          "code": "https://github.com/GMU-NLP/leakage-parsing",
+          "dataset": "https://github.com/GMU-NLP/parsing-dataset"
+        }
+      },
+      {
+        "title": "Dataset Geography: Mapping Language Data to Language Users",
+        "authors": ["Fahim Faisal", "Yinkai Wang", "Antonios Anastasopoulos"],
+        "type": "Journal paper",
+        "date": "2024",
+        "links": {
+          "pdf": "https://arxiv.org/pdf/2305.00056.pdf",
+          "cite": "https://doi.org/10.000/dataset-geography",
+          "code": "https://github.com/GMU-NLP/dataset-geography",
+          "dataset": "https://github.com/GMU-NLP/geography-dataset",
+          "project": "https://nlp.cs.gmu.edu/project/dataset-geography/"
+        }
+      },
+      {
+        "title": "AUTOLEX: An Automatic Framework for Linguistic Exploration",
+        "authors": ["Aditi Chaudhary", "Zaid Sheikh", "David R. Mortensen", "Antonios Anastasopoulos", "Graham Neubig"],
+        "type": "Framework paper",
+        "date": "2024",
+        "links": {
+          "pdf": "https://arxiv.org/pdf/2305.00057.pdf",
+          "cite": "https://doi.org/10.000/autolex"
+        }
+      },
+      {
+        "title": "UnifiedSKG: Unifying and Multi-Tasking Structured Knowledge Grounding with Text-to-Text Language Models",
+        "authors": ["Tianbao Xie", "Chen Henry Wu", "Peng Shi", "Ruiqi Zhong", "Torsten Scholak", "Michihiro Yasunaga", "Chien-Sheng Wu", "Ming Zhong", "Pengcheng Yin", "Sida Wang", "Victor Zhong", "Bailin Wang", "Chengzu Li", "Connor Boyle", "Ansong Ni", "Ziyu Yao", "Dragomir Radev", "Caiming Xiong", "Lingpeng Kong", "Rui Zhang", "Noah A. Smith", "Luke Zettlemoyer", "Tao Yu"],
+        "type": "Conference paper",
+        "date": "2024",
+        "links": {
+          "pdf": "https://arxiv.org/pdf/2305.00058.pdf",
+          "cite": "https://doi.org/10.000/unifiedskg",
+          "code": "https://github.com/GMU-NLP/unifiedskg",
+          "project": "https://nlp.cs.gmu.edu/project/unifiedskg/"
+        }
+      },
+  {
+        "title": "When Is Wall a Pared and When a Muro?: Extracting Rules Governing Lexical Selection",
+        "authors": ["Aditi Chaudhary", "Kayo Yin", "Antonios Anastasopoulos", "Graham Neubig"],
+        "type": "Conference paper",
+        "date": "2024",
+        "links": {
+          "pdf": "https://arxiv.org/pdf/2305.00059.pdf",
+          "cite": "https://doi.org/10.000/lexical-selection-rules"
+        }
+      },
+      {
+        "title": "Systematic Inequalities in Language Technology Performance Across the World’s Languages",
+        "authors": ["Damián Blasi", "Antonios Anastasopoulos", "Graham Neubig"],
+        "type": "Journal paper",
+        "date": "2024",
+        "links": {
+          "pdf": "https://arxiv.org/pdf/2305.00060.pdf",
+          "cite": "https://doi.org/10.000/language-inequalities",
+          "code": "https://github.com/GMU-NLP/systematic-inequalities",
+          "project": "https://nlp.cs.gmu.edu/project/systematic-inequalities/"
+        }
+      },
+      {
+        "title": "Lexically-Aware Semi-Supervised Learning for OCR Post-Correction",
+        "authors": ["Shruti Rijhwani", "Daisy Rosenblum", "Antonios Anastasopoulos", "Graham Neubig"],
+        "type": "Journal paper",
+        "date": "2024",
+        "links": {
+          "pdf": "https://arxiv.org/pdf/2305.00061.pdf",
+          "cite": "https://doi.org/10.000/ocr-post-correction",
+          "code": "https://github.com/GMU-NLP/lexical-ocr-correction",
+          "dataset": "https://github.com/GMU-NLP/ocr-dataset",
+          "project": "https://nlp.cs.gmu.edu/project/lexical-ocr-correction/"
+        }
+      },
+      {
+        "title": "SD-QA: Spoken Dialectal Question Answering for the Real World",
+        "authors": ["Fahim Faisal", "Sharalina Keshava", "Md Mahfuz Ibn Alam", "Antonios Anastasopoulos"],
+        "type": "Conference paper",
+        "date": "2024",
+        "links": {
+          "pdf": "https://arxiv.org/pdf/2305.00062.pdf",
+          "cite": "https://doi.org/10.000/sd-qa",
+          "code": "https://github.com/GMU-NLP/sd-qa",
+          "dataset": "https://github.com/GMU-NLP/sd-qa-dataset",
+          "project": "https://nlp.cs.gmu.edu/project/sd-qa/"
+        }
+      },
+      {
+        "title": "Investigating Post-pretraining Representation Alignment for Cross-Lingual Question Answering",
+        "authors": ["Fahim Faisal", "Antonios Anastasopoulos"],
+        "type": "Journal paper",
+        "date": "2024",
+        "links": {
+          "pdf": "https://arxiv.org/pdf/2305.00063.pdf",
+          "cite": "https://doi.org/10.000/representation-alignment",
+          "code": "https://github.com/GMU-NLP/postpretraining-alignment",
+          "dataset": "https://github.com/GMU-NLP/crosslingual-qa-dataset"
+        }
+      },
+      {
+        "title": "Findings of the WMT Shared Task on Machine Translation Using Terminologies",
+        "authors": ["Md Mahfuz Ibn Alam", "Ivana Kvapilková", "Antonios Anastasopoulos", "Laurent Besacier", "Georgiana Dinu", "Marcello Federico", "Matthias Gallé", "Philipp Koehn", "Vassilina Nikoulina", "Kweon Woo Jung"],
+        "type": "Conference paper",
+        "date": "2024",
+        "links": {
+          "cite": "https://doi.org/10.000/wmt-shared-task-terminologies"
+        }
+      },
+      {
+        "title": "Evaluating the Morphosyntactic Well-formedness of Generated Texts",
+        "authors": ["Adithya Pratapa", "Antonios Anastasopoulos", "Shruti Rijhwani", "Aditi Chaudhary", "David R. Mortensen", "Graham Neubig", "Yulia Tsvetkov"],
+        "type": "Journal paper",
+        "date": "2024",
+        "links": {
+          "pdf": "https://arxiv.org/pdf/2305.00064.pdf",
+          "cite": "https://doi.org/10.000/morphosyntactic-wellformedness",
+          "code": "https://github.com/GMU-NLP/morphosyntactic-texts"
+        }
+      },
+      {
+        "title": "Cross-Lingual Text Classification of Transliterated Hindi and Malayalam",
+        "authors": ["Jitin Krishnan", "Antonios Anastasopoulos", "Hemant Purohit", "Huzefa Rangwala"],
+        "type": "Journal paper",
+        "date": "2024",
+        "links": {
+          "pdf": "https://arxiv.org/pdf/2305.00065.pdf",
+          "cite": "https://doi.org/10.000/hindi-malayalam-classification",
+          "code": "https://github.com/GMU-NLP/crosslingual-text-classification",
+          "dataset": "https://github.com/GMU-NLP/hindi-malayalam-dataset"
+        }
+      },
+  {
+
+        "title": "Towards More Equitable Question Answering Systems: How Much More Data Do You Need?",
+        "authors": ["Arnab Debnath", "Navid Rajabi", "Fardina Fathmiul Alam", "Antonios Anastasopoulos"],
+        "type": "Conference paper",
+        "date": "2024",
+        "links": {
+          "pdf": "https://arxiv.org/pdf/2305.00066.pdf",
+          "cite": "https://doi.org/10.000/equitable-question-answering",
+          "code": "https://github.com/GMU-NLP/question-answering-equity",
+          "project": "https://nlp.cs.gmu.edu/project/equitable-qa/"
+        }
+      },
+      {
+        "title": "Machine Translation into Low-Resource Language Varieties",
+        "authors": ["Sachin Kumar", "Antonios Anastasopoulos", "Shuly Wintner", "Yulia Tsvetkov"],
+        "type": "Journal paper",
+        "date": "2024",
+        "links": {
+          "pdf": "https://arxiv.org/pdf/2305.00067.pdf",
+          "cite": "https://doi.org/10.000/low-resource-mt",
+          "code": "https://github.com/GMU-NLP/low-resource-mt",
+          "project": "https://nlp.cs.gmu.edu/project/low-resource-mt/"
+        }
+      },
+      {
+        "title": "Code to Comment Translation: A Comparative Study on Model Effectiveness & Errors",
+        "authors": ["Junayed Mahmud", "Fahim Faisal", "Raihan Islam Arnob", "Antonios Anastasopoulos", "Kevin Moran"],
+        "type": "Journal paper",
+        "date": "2024",
+        "links": {
+          "pdf": "https://arxiv.org/pdf/2305.00068.pdf",
+          "cite": "https://doi.org/10.000/code-comment-translation",
+          "code": "https://github.com/GMU-NLP/code-comment-translation",
+          "dataset": "https://github.com/GMU-NLP/code-comment-dataset",
+          "project": "https://nlp.cs.gmu.edu/project/code-comment-translation/"
+        }
+      },
+      {
+        "title": "Phoneme Recognition through Fine Tuning of Phonetic Representations: A Case Study on Luhya Language Varieties",
+        "authors": ["Kathleen Siminyu", "Xinjian Li", "Antonios Anastasopoulos", "David R. Mortensen", "Michael R. Marlo", "Graham Neubig"],
+        "type": "Conference paper",
+        "date": "2024",
+        "links": {
+          "pdf": "https://arxiv.org/pdf/2305.00069.pdf",
+          "cite": "https://doi.org/10.000/phoneme-recognition",
+          "code": "https://github.com/GMU-NLP/phonetic-representations",
+          "project": "https://nlp.cs.gmu.edu/project/phonetic-representations/"
+        }
+      },
+      {
+        "title": "When Being Unseen from mBERT is Just the Beginning: Handling New Languages With Multilingual LMs",
+        "authors": ["Benjamin Muller", "Antonios Anastasopoulos", "Benoît Sagot", "Djamé Seddah"],
+        "type": "Journal paper",
+        "date": "2024",
+        "links": {
+          "pdf": "https://arxiv.org/pdf/2305.00070.pdf",
+          "cite": "https://doi.org/10.000/handling-new-languages"
+        }
+      },
+      {
+        "title": "BembaSpeech: A Speech Recognition Corpus for the Bemba Language",
+        "authors": ["Claytone Sikasote", "Antonios Anastasopoulos"],
+        "type": "Journal paper",
+        "date": "2024",
+        "links": {
+          "pdf": "https://arxiv.org/pdf/2305.00071.pdf",
+          "cite": "https://doi.org/10.000/bemba-speech",
+          "code": "https://github.com/GMU-NLP/bemba-speech",
+          "dataset": "https://github.com/GMU-NLP/bemba-dataset",
+          "project": "https://nlp.cs.gmu.edu/project/bemba-speech/"
+        }
+      },
+      {
+        "title": "Reducing Confusion in Active Learning for Part-Of-Speech Tagging",
+        "authors": ["Aditi Chaudhary", "Zaid Sheikh", "Antonios Anastasopoulos", "Graham Neubig"],
+        "type": "Conference paper",
+        "date": "2024",
+        "links": {
+          "pdf": "https://arxiv.org/pdf/2305.00072.pdf",
+          "cite": "https://doi.org/10.000/active-learning-pos",
+          "code": "https://github.com/GMU-NLP/active-learning-pos"
+        }
+      },
+      {
+        "title": "Learning Structural Edits via Incremental Tree Transformations",
+        "authors": ["Ziyu Yao", "Frank F. Xu", "Pengcheng Yin", "Huan Sun", "Graham Neubig"],
+        "type": "Journal paper",
+        "date": "2024",
+        "links": {
+          "pdf": "https://arxiv.org/pdf/2305.00073.pdf",
+          "cite": "https://doi.org/10.000/structural-edits",
+          "code": "https://github.com/GMU-NLP/incremental-tree-transformations"
+        }
+      },
+  {
+        "title": "CliniQG4QA: Generating Diverse Questions for Domain Adaptation of Clinical Question Answering",
+        "authors": ["Xiang Yue", "Xinliang Frederick Zhang", "Ziyu Yao", "Simon Lin", "Huan Sun"],
+        "type": "Conference paper",
+        "date": "2024",
+        "links": {
+          "pdf": "https://arxiv.org/pdf/2305.00074.pdf",
+          "cite": "https://doi.org/10.000/cliniqg4qa",
+          "code": "https://github.com/GMU-NLP/cliniqg4qa"
+        }
+      },
+      {
+        "title": "Automatic Interlinear Glossing for Under-Resourced Languages Leveraging Translations",
+        "authors": ["Xingyuan Zhao", "Satoru Ozaki", "Antonios Anastasopoulos", "Graham Neubig", "Lori Levin"],
+        "type": "Journal paper",
+        "date": "2024",
+        "links": {
+          "pdf": "https://arxiv.org/pdf/2305.00075.pdf",
+          "cite": "https://doi.org/10.000/interlinear-glossing",
+          "code": "https://github.com/GMU-NLP/interlinear-glossing",
+          "slides": "https://nlp.cs.gmu.edu/slides/interlinear-glossing",
+          "video": "https://nlp.cs.gmu.edu/video/interlinear-glossing"
+        }
+      },
+      {
+        "title": "X-FACTR: Multilingual Factual Knowledge Retrieval from Pretrained Language Models",
+        "authors": ["Zhengbao Jiang", "Antonios Anastasopoulos", "Jun Araki", "Haibo Ding", "Graham Neubig"],
+        "type": "Conference paper",
+        "date": "2024",
+        "links": {
+          "pdf": "https://arxiv.org/pdf/2305.00076.pdf",
+          "cite": "https://doi.org/10.000/x-factr",
+          "code": "https://github.com/GMU-NLP/x-factr",
+          "dataset": "https://github.com/GMU-NLP/x-factr-dataset"
+        }
+      },
+      {
+        "title": "TICO-19: The Translation Initiative for COVID-19",
+        "authors": ["Antonios Anastasopoulos", "Alessandro Cattelan", "Zi-Yi Dou", "Marcello Federico", "Christian Federman", "Dmitriy Genzel", "Francisco Guzmán", "Junjie Hu", "Macduff Hughes", "Philipp Koehn", "Rosie Lazar", "Will Lewis", "Graham Neubig", "Mengmeng Niu", "Alp Öktem", "Eric Paquin", "Grace Tang", "Sylwia Tur"],
+        "type": "Journal paper",
+        "date": "2024",
+        "links": {
+          "pdf": "https://arxiv.org/pdf/2305.00077.pdf",
+          "cite": "https://doi.org/10.000/tico-19",
+          "code": "https://github.com/GMU-NLP/tico-19",
+          "dataset": "https://github.com/GMU-NLP/tico-19-dataset"
+        }
+      },
+      {
+        "title": "OCR Post-Correction for Endangered Language Texts",
+        "authors": ["Shruti Rijhwani", "Antonios Anastasopoulos", "Graham Neubig"],
+        "type": "Conference paper",
+        "date": "2024",
+        "links": {
+          "pdf": "https://arxiv.org/pdf/2305.00078.pdf",
+          "cite": "https://doi.org/10.000/ocr-post-correction",
+          "code": "https://github.com/GMU-NLP/ocr-post-correction",
+          "project": "https://nlp.cs.gmu.edu/project/ocr-post-correction/"
+        }
+      },
+      {
+        "title": "It's Not a Non-Issue: Negation as a Source of Error in Machine Translation",
+        "authors": ["Md Mosharraf Hossain", "Antonios Anastasopoulos", "Eduardo Blanco", "Alexis Palmer"],
+        "type": "Conference paper",
+        "date": "2024",
+        "links": {
+          "pdf": "https://arxiv.org/pdf/2305.00079.pdf",
+          "cite": "https://doi.org/10.000/negation-error",
+          "code": "https://github.com/GMU-NLP/negation-error"
+        }
+      },
+      {
+        "title": "Fine-Tuning MT Systems for Robustness to Second-Language Speaker Variations",
+        "authors": ["Md Mahfuz Ibn Alam", "Antonios Anastasopoulos"],
+        "type": "Journal paper",
+        "date": "2024",
+        "links": {
+          "pdf": "https://arxiv.org/pdf/2305.00080.pdf",
+          "cite": "https://doi.org/10.000/mt-robustness",
+          "code": "https://github.com/GMU-NLP/mt-robustness",
+          "project": "https://nlp.cs.gmu.edu/project/mt-robustness/",
+          "video": "https://nlp.cs.gmu.edu/video/mt-robustness"
+        }
+      },
+      {
+        "title": "Dynamic Data Selection and Weighting for Iterative Back-Translation",
+        "authors": ["Zi-Yi Dou", "Antonios Anastasopoulos", "Graham Neubig"],
+        "type": "Conference paper",
+        "date": "2024",
+        "links": {
+          "pdf": "https://arxiv.org/pdf/2305.00081.pdf",
+          "cite": "https://doi.org/10.000/data-selection",
+          "code": "https://github.com/GMU-NLP/data-selection"
+        }
+      },
+  {
+        "title": "Automatic Extraction of Rules Governing Morphological Agreement",
+        "authors": [
+          "Aditi Chaudhary",
+          "Antonios Anastasopoulos",
+          "Adithya Pratapa",
+          "David R. Mortensen",
+          "Zaid Sheikh",
+          "Yulia Tsvetkov",
+          "Graham Neubig"
+        ],
+        "type": "Conference paper",
+        "links": {
+          "pdf": "https://arxiv.org/pdf/automatic-morphological-agreement.pdf",
+          "cite": "https://doi.org/10.000/morphological-agreement",
+          "code": "https://github.com/GMU-NLP/morphological-agreement"
+        }
+      },
+      {
+        "title": "Comparison of Interactive Knowledge Base Spelling Correction Models for Low-Resource Languages",
+        "authors": [
+          "Yiyuan Li",
+          "Antonios Anastasopoulos",
+          "Alan W. Black"
+        ],
+        "type": "Journal paper",
+        "links": {
+          "pdf": "https://arxiv.org/pdf/interactive-spelling-correction.pdf",
+          "cite": "https://doi.org/10.000/spelling-correction"
+        }
+      },
+      {
+        "title": "Transliteration for Cross-Lingual Morphological Inflection",
+        "authors": [
+          "Nikitha Murikinati",
+          "Antonios Anastasopoulos",
+          "Graham Neubig"
+        ],
+        "type": "Conference paper",
+        "links": {
+          "pdf": "https://arxiv.org/pdf/transliteration-morphological-inflection.pdf",
+          "cite": "https://doi.org/10.000/cross-lingual-inflection",
+          "code": "https://github.com/GMU-NLP/cross-lingual-inflection",
+          "doi": "https://doi.org/10.000/cross-lingual-inflection"
+        }
+      },
+      {
+        "title": "The CMU-LTI Submission to the SIGMORPHON 2020 Shared Task 0: Language-Specific Cross-Lingual Transfer",
+        "authors": [
+          "Nikitha Murikinati",
+          "Antonios Anastasopoulos"
+        ],
+        "type": "Shared Task Paper",
+        "links": {
+          "pdf": "https://arxiv.org/pdf/cmu-lti-sigmorphon-2020.pdf",
+          "cite": "https://doi.org/10.000/sigmorphon-cmu",
+          "doi": "https://doi.org/10.000/sigmorphon-cmu"
+        }
+      },
+      {
+        "title": "SIGMORPHON 2020 Shared Task 0: Typologically Diverse Morphological Inflection",
+        "authors": [
+          "Ekaterina Vylomova",
+          "Jennifer White",
+          "Elizabeth Salesky",
+          "Sabrina J. Mielke",
+          "Shijie Wu",
+          "Edoardo Maria Ponti",
+          "Rowan Hall Maudslay",
+          "Ran Zmigrod",
+          "Josef Valvoda",
+          "Svetlana Toldova",
+          "Francis Tyers",
+          "Elena Klyachko",
+          "Ilya Yegorov",
+          "Natalia Krizhanovskaya",
+          "Paula Czarnowska",
+          "Irene Nikkarinen",
+          "Andrew Krizhanovsky",
+          "Tiago Pimentel",
+          "Lucas Torroba Hennigen",
+          "Christo Kirov",
+          "Garrett Nicolai",
+          "Adina Williams",
+          "Antonios Anastasopoulos",
+          "Hilaria Cruz",
+          "Eleanor Chodroff",
+          "Ryan Cotterell",
+          "Miikka Silfverberg",
+          "Mans Hulden"
+        ],
+        "type": "Shared Task Paper",
+        "links": {
+          "pdf": "https://arxiv.org/pdf/sigmorphon-2020.pdf",
+          "cite": "https://doi.org/10.000/sigmorphon-2020",
+          "code": "https://github.com/GMU-NLP/sigmorphon-2020",
+          "doi": "https://doi.org/10.000/sigmorphon-2020"
+        }
+      },
+      {
+        "title": "Should All Cross-Lingual Embeddings Speak English?",
+        "authors": [
+          "Antonios Anastasopoulos",
+          "Graham Neubig"
+        ],
+        "type": "Conference paper",
+        "links": {
+          "pdf": "https://arxiv.org/pdf/cross-lingual-embeddings.pdf",
+          "cite": "https://doi.org/10.000/cross-lingual-embeddings",
+          "code": "https://github.com/GMU-NLP/cross-lingual-embeddings",
+          "dataset": "https://github.com/GMU-NLP/cross-lingual-embeddings-dataset",
+          "doi": "https://doi.org/10.000/cross-lingual-embeddings"
+        }
+      },
+  {
+        "title": "Proceedings of the The Fourth Widening Natural Language Processing Workshop",
+        "authors": [
+          "Rossana Cunha",
+          "Samira Shaikh",
+          "Erika Varis",
+          "Ryan Georgi",
+          "Alicia Tsai",
+          "Antonios Anastasopoulos",
+          "Khyathi Raghavi Chandu"
+        ],
+        "type": "Workshop proceedings",
+        "links": {
+          "pdf": "https://arxiv.org/pdf/widening-nlp-workshop.pdf",
+          "cite": "https://doi.org/10.000/widening-nlp"
+        }
+      },
+      {
+        "title": "Predicting Performance for Natural Language Processing Tasks",
+        "authors": [
+          "Mengzhou Xia",
+          "Antonios Anastasopoulos",
+          "Ruochen Xu",
+          "Yiming Yang",
+          "Graham Neubig"
+        ],
+        "type": "Conference paper",
+        "links": {
+          "pdf": "https://arxiv.org/pdf/predicting-nlp-performance.pdf",
+          "cite": "https://doi.org/10.000/nlp-performance",
+          "code": "https://github.com/GMU-NLP/nlp-performance",
+          "doi": "https://doi.org/10.000/nlp-performance"
+        }
+      },
+      {
+        "title": "Optimizing Data Usage via Differentiable Rewards",
+        "authors": [
+          "Xinyi Wang",
+          "Hieu Pham",
+          "Paul Michel",
+          "Antonios Anastasopoulos",
+          "Jaime Carbonell",
+          "Graham Neubig"
+        ],
+        "type": "Journal paper",
+        "links": {
+          "pdf": "https://arxiv.org/pdf/differentiable-rewards.pdf",
+          "cite": "https://doi.org/10.000/differentiable-rewards"
+        }
+      },
+      {
+        "title": "It's Easier to Translate out of English than into it: Measuring Neural Translation Difficulty by Cross-Mutual Information",
+        "authors": [
+          "Emanuele Bugliarello",
+          "Sabrina J. Mielke",
+          "Antonios Anastasopoulos",
+          "Ryan Cotterell",
+          "Naoaki Okazaki"
+        ],
+        "type": "Conference paper",
+        "links": {
+          "pdf": "https://arxiv.org/pdf/translation-difficulty.pdf",
+          "cite": "https://doi.org/10.000/translation-difficulty",
+          "doi": "https://doi.org/10.000/translation-difficulty"
+        }
+      },
+      {
+        "title": "Universal Phone Recognition with a Multilingual Allophone System",
+        "authors": [
+          "Xinjian Li",
+          "Siddharth Dalmia",
+          "Juncheng Li",
+          "Patrick Littell",
+          "Matthew Lee",
+          "Jiali Yao",
+          "Antonios Anastasopoulos",
+          "David Mortensen",
+          "Graham Neubig",
+          "Alan Black",
+          "Florian Metze"
+        ],
+        "type": "Journal paper",
+        "links": {
+          "pdf": "https://arxiv.org/pdf/universal-phone-recognition.pdf",
+          "cite": "https://doi.org/10.000/universal-phone",
+          "code": "https://github.com/GMU-NLP/universal-phone"
+        }
+      },
+      {
+        "title": "AlloVera: A Multilingual Allophone Database",
+        "authors": [
+          "David R. Mortensen",
+          "Xinjian Li",
+          "Patrick Littell",
+          "Alexis Michaud",
+          "Shruti Rijhwani",
+          "Antonios Anastasopoulos",
+          "Alan W. Black",
+          "Florian Metze",
+          "Graham Neubig"
+        ],
+        "type": "Dataset paper",
+        "links": {
+          "pdf": "https://arxiv.org/pdf/allovera.pdf",
+          "cite": "https://doi.org/10.000/allovera",
+          "dataset": "https://github.com/GMU-NLP/allovera-dataset"
+        }
+      },
+  {
+        "title": "A Summary of the First Workshop on Language Technology for Language Documentation and Revitalization",
+        "authors": [
+          "Graham Neubig",
+          "Shruti Rijhwani",
+          "Alexis Palmer",
+          "Jordan MacKenzie",
+          "Hilaria Cruz",
+          "Xinjian Li",
+          "Matthew Lee",
+          "Aditi Chaudhary",
+          "Luke Gessler",
+          "Steven Abney",
+          "Shirley Anugrah Hayati",
+          "Antonios Anastasopoulos",
+          "Olga Zamaraeva",
+          "Emily Prud'hommeaux",
+          "Jennette Child",
+          "Sara Child",
+          "Rebecca Knowles",
+          "Sarah Moeller",
+          "Jeffrey Micher",
+          "Yiyuan Li",
+          "Sydney Zink",
+          "Mengzhou Xia",
+          "Roshan S Sharma",
+          "Patrick Littell"
+        ],
+        "type": "Workshop summary",
+        "links": {
+          "pdf": "https://arxiv.org/pdf/language-doc-revitalization.pdf",
+          "cite": "https://doi.org/10.000/language-doc-revitalization"
+        }
+      },
+      {
+        "title": "A Resource for Studying Chatino Verbal Morphology",
+        "authors": [
+          "Hilaria Cruz",
+          "Antonios Anastasopoulos",
+          "Gregory Stump"
+        ],
+        "type": "Dataset paper",
+        "links": {
+          "pdf": "https://arxiv.org/pdf/chatino-verbal-morphology.pdf",
+          "cite": "https://doi.org/10.000/chatino-verbal-morphology",
+          "dataset": "https://github.com/GMU-NLP/chatino-verbal-morphology"
+        }
+      },
+      {
+        "title": "A Resource for Computational Experiments on Mapudungun",
+        "authors": [
+          "Mingjun Duan",
+          "Carlos Fasola",
+          "Sai Krishna Rallabandi",
+          "Rodolfo Vega",
+          "Antonios Anastasopoulos",
+          "Lori Levin",
+          "Alan W Black"
+        ],
+        "type": "Dataset paper",
+        "links": {
+          "pdf": "https://arxiv.org/pdf/mapudungun-resource.pdf",
+          "cite": "https://doi.org/10.000/mapudungun-resource",
+          "dataset": "https://github.com/GMU-NLP/mapudungun-resource"
+        }
+      },
+      {
+        "title": "Neural Language Modeling with Visual Features",
+        "authors": [
+          "Antonios Anastasopoulos",
+          "Shankar Kumar",
+          "Hank Liao"
+        ],
+        "type": "Research paper",
+        "links": {
+          "pdf": "https://arxiv.org/pdf/neural-visual-language.pdf",
+          "cite": "https://doi.org/10.000/neural-visual-language"
+        }
+      },
+      {
+        "title": "Towards Robust Toxic Content Classification",
+        "authors": [
+          "Keita Kurita",
+          "Anna Belova",
+          "Antonios Anastasopoulos"
+        ],
+        "type": "Research paper",
+        "links": {
+          "pdf": "https://arxiv.org/pdf/toxic-content-classification.pdf",
+          "cite": "https://doi.org/10.000/toxic-content-classification"
+        }
+      },
+      {
+        "title": "Practical Comparable Data Collection for Low-Resource Languages via Images",
+        "authors": [
+          "Aman Madaan",
+          "Shruti Rijhwani",
+          "Antonios Anastasopoulos",
+          "Yiming Yang",
+          "Graham Neubig"
+        ],
+        "type": "Research paper",
+        "links": {
+          "pdf": "https://arxiv.org/pdf/comparable-data-collection.pdf",
+          "cite": "https://doi.org/10.000/comparable-data-collection"
+        }
+      },
+      {
+        "title": "An Imitation Game for Learning Semantic Parsers from User Interaction",
+        "authors": [
+          "Ziyu Yao",
+          "Yiqi Tang",
+          "Wen-tau Yih",
+          "Huan Sun",
+          "Yu Su"
+        ],
+        "type": "Research paper",
+        "links": {
+          "pdf": "https://arxiv.org/pdf/imitation-game-semantic-parsers.pdf",
+          "cite": "https://doi.org/10.000/imitation-game-semantic-parsers",
+          "code": "https://github.com/GMU-NLP/imitation-game"
+        }
+      },
+  {
+        "title": "Unsupervised Domain Adaptation for Neural Machine Translation with Domain-Aware Feature Embeddings",
+        "authors": [
+          "Zi-Yi Dou",
+          "Junjie Hu",
+          "Antonios Anastasopoulos",
+          "Graham Neubig"
+        ],
+        "type": "Research paper",
+        "links": {
+          "pdf": "https://arxiv.org/pdf/unsupervised-domain-adaptation.pdf",
+          "cite": "https://doi.org/10.000/unsupervised-domain-adaptation"
+        }
+      },
+      {
+        "title": "Pushing the Limits of Low-Resource Morphological Inflection",
+        "authors": [
+          "Antonios Anastasopoulos",
+          "Graham Neubig"
+        ],
+        "type": "Research paper",
+        "links": {
+          "pdf": "https://arxiv.org/pdf/low-resource-morphological-inflection.pdf",
+          "cite": "https://doi.org/10.000/low-resource-morphological-inflection",
+          "code": "https://github.com/GMU-NLP/morphological-inflection"
+        }
+      },
+      {
+        "title": "Investigating Meta-Learning Algorithms for Low-Resource Natural Language Understanding Tasks",
+        "authors": [
+          "Zi-Yi Dou",
+          "Keyi Yu",
+          "Antonios Anastasopoulos"
+        ],
+        "type": "Research paper",
+        "links": {
+          "pdf": "https://arxiv.org/pdf/meta-learning-nlu.pdf",
+          "cite": "https://doi.org/10.000/meta-learning-nlu"
+        }
+      },
+      {
+        "title": "Improving Robustness of Neural Machine Translation with Multi-task Learning",
+        "authors": [
+          "Shuyan Zhou",
+          "Xiangkai Zeng",
+          "Yingqi Zhou",
+          "Antonios Anastasopoulos",
+          "Graham Neubig"
+        ],
+        "type": "Research paper",
+        "links": {
+          "pdf": "https://arxiv.org/pdf/multitask-nmt-robustness.pdf",
+          "cite": "https://doi.org/10.000/multitask-nmt-robustness"
+        }
+      },
+      {
+        "title": "Findings of the First Shared Task on Machine Translation Robustness",
+        "authors": [
+          "Xian Li",
+          "Paul Michel",
+          "Antonios Anastasopoulos",
+          "Yonatan Belinkov",
+          "Nadir Durrani",
+          "Orhan Firat",
+          "Philipp Koehn",
+          "Graham Neubig",
+          "Juan Pino",
+          "Hassan Sajjad"
+        ],
+        "type": "Workshop report",
+        "links": {
+          "pdf": "https://arxiv.org/pdf/mt-robustness-shared-task.pdf",
+          "cite": "https://doi.org/10.000/mt-robustness-shared-task"
+        }
+      },
+      {
+        "title": "An Analysis of Source-Side Grammatical Errors in NMT",
+        "authors": [
+          "Antonios Anastasopoulos"
+        ],
+        "type": "Research paper",
+        "links": {
+          "pdf": "https://arxiv.org/pdf/source-side-grammar-errors.pdf",
+          "cite": "https://doi.org/10.000/source-side-grammar-errors"
+        }
+      },
+      {
+        "title": "Generalized Data Augmentation for Low-Resource Translation",
+        "authors": [
+          "Mengzhou Xia",
+          "Xiang Kong",
+          "Antonios Anastasopoulos",
+          "Graham Neubig"
+        ],
+        "type": "Research paper",
+        "links": {
+          "pdf": "https://arxiv.org/pdf/data-augmentation-low-resource.pdf",
+          "cite": "https://doi.org/10.000/data-augmentation-low-resource"
+        }
+      },
+      {
+        "title": "Choosing Transfer Languages for Cross-Lingual Learning",
+        "authors": [
+          "Yu-Hsiang Lin",
+          "Chian-Yu Chen",
+          "Jean Lee",
+          "Zirui Li",
+          "Yuyan Zhang",
+          "Mengzhou Xia",
+          "Shruti Rijhwani",
+          "Junxian He",
+          "Zhiyuan Zhang",
+          "Xuezhe Ma",
+          "Antonios Anastasopoulos",
+          "Patrick Littell",
+          "Graham Neubig"
+        ],
+        "type": "Research paper",
+        "links": {
+          "pdf": "https://arxiv.org/pdf/transfer-languages-cross-lingual.pdf",
+          "cite": "https://doi.org/10.000/transfer-languages-cross-lingual",
+          "code": "https://github.com/GMU-NLP/cross-lingual-transfer"
+        }
+      },
+  {
+        "title": "Neural Machine Translation of Text from Non-Native Speakers",
+        "authors": [
+          "Antonios Anastasopoulos",
+          "Alison Lui",
+          "Toan Q. Nguyen",
+          "David Chiang"
+        ],
+        "type": "Research paper",
+        "links": {
+          "pdf": "https://arxiv.org/pdf/nmt-non-native-speakers.pdf",
+          "cite": "https://doi.org/10.000/nmt-non-native-speakers",
+          "dataset": "https://github.com/GMU-NLP/nmt-non-native",
+          "doi": "https://doi.org/10.000/nmt-non-native-speakers"
+        }
+      },
+      {
+        "title": "Reinforced Dynamic Reasoning for Conversational Question Generation",
+        "authors": [
+          "Boyuan Pan",
+          "Hao Li",
+          "Ziyu Yao",
+          "Deng Cai",
+          "Huan Sun"
+        ],
+        "type": "Research paper",
+        "links": {
+          "pdf": "https://arxiv.org/pdf/conversational-question-generation.pdf",
+          "cite": "https://doi.org/10.000/conversational-question-generation",
+          "code": "https://github.com/GMU-NLP/conversational-question-generation"
+        }
+      },
+      {
+        "title": "Model-based Interactive Semantic Parsing: A Unified Framework and A Text-to-SQL Case Study",
+        "authors": [
+          "Ziyu Yao",
+          "Yu Su",
+          "Huan Sun",
+          "Wen-tau Yih"
+        ],
+        "type": "Research paper",
+        "links": {
+          "pdf": "https://arxiv.org/pdf/interactive-semantic-parsing.pdf",
+          "cite": "https://doi.org/10.000/interactive-semantic-parsing",
+          "code": "https://github.com/GMU-NLP/interactive-semantic-parsing"
+        }
+      },
+      {
+        "title": "Interactive Semantic Parsing for If-Then Recipes via Hierarchical Reinforcement Learning",
+        "authors": [
+          "Ziyu Yao",
+          "Xiujun Li",
+          "Jianfeng Gao",
+          "Brian Sadler",
+          "Huan Sun"
+        ],
+        "type": "Research paper",
+        "links": {
+          "pdf": "https://arxiv.org/pdf/if-then-recipes-semantic-parsing.pdf",
+          "cite": "https://doi.org/10.000/if-then-recipes-semantic-parsing",
+          "code": "https://github.com/GMU-NLP/if-then-recipes"
+        }
+      },
+      {
+        "title": "CoaCor: Code annotation for code retrieval with reinforcement learning",
+        "authors": [
+          "Ziyu Yao",
+          "Jayavardhan Reddy Peddamail",
+          "Huan Sun"
+        ],
+        "type": "Research paper",
+        "links": {
+          "pdf": "https://arxiv.org/pdf/code-retrieval-annotation.pdf",
+          "cite": "https://doi.org/10.000/code-retrieval-annotation",
+          "code": "https://github.com/GMU-NLP/code-retrieval"
+        }
+      },
+      {
+        "title": "Part-of-Speech Tagging on an Endangered Language: a Parallel Griko-Italian Resource",
+        "authors": [
+          "Antonios Anastasopoulos",
+          "Marika Lekakou",
+          "Josep Quer",
+          "Eleni Zimianiti",
+          "Justin DeBenedetto",
+          "David Chiang"
+        ],
+        "type": "Research paper",
+        "links": {
+          "pdf": "https://arxiv.org/pdf/pos-griko-italian.pdf",
+          "cite": "https://doi.org/10.000/pos-griko-italian",
+          "dataset": "https://github.com/GMU-NLP/pos-griko-italian"
+        }
+      },
+      {
+        "title": "Tied Multitask Learning for Neural Speech Translation",
+        "authors": [
+          "Antonios Anastasopoulos",
+          "David Chiang"
+        ],
+        "type": "Research paper",
+        "links": {
+          "pdf": "https://arxiv.org/pdf/multitask-speech-translation.pdf",
+          "cite": "https://doi.org/10.000/multitask-speech-translation",
+          "code": "https://github.com/GMU-NLP/speech-translation",
+          "doi": "https://doi.org/10.000/multitask-speech-translation"
+        }
+      },
+      {
+        "title": "StaQC: A systematically mined question-code dataset from stack overflow",
+        "authors": [
+          "Ziyu Yao",
+          "Daniel S Weld",
+          "Wei-Peng Chen",
+          "Huan Sun"
+        ],
+        "type": "Dataset paper",
+        "links": {
+          "pdf": "https://arxiv.org/pdf/staqc-dataset.pdf",
+          "cite": "https://doi.org/10.000/staqc-dataset"
+        }
+      },
+  {
+        "title": "Leveraging Translations for Speech Transcription in Low-resource Settings",
+        "authors": [
+          "Antonios Anastasopoulos",
+          "David Chiang"
+        ],
+        "type": "Research paper",
+        "links": {
+          "pdf": "https://arxiv.org/pdf/leveraging-translations-speech-transcription.pdf",
+          "cite": "https://doi.org/10.000/leveraging-translations",
+          "code": "https://github.com/GMU-NLP/leveraging-translations",
+          "project": "https://nlp.cs.gmu.edu/projects/leveraging-translations"
+        }
+      },
+      {
+        "title": "IEC: Towards Interest-Eliciting Neural Conversational Agents",
+        "authors": [
+          "Ziyu Yao",
+          "Yizhe Zhang",
+          "Xiujun Li",
+          "Jianfeng Gao",
+          "Michel Galley",
+          "Chris Brockett",
+          "Huan Sun",
+          "Bill Dolan"
+        ],
+        "type": "Research paper",
+        "links": {
+          "pdf": "https://arxiv.org/pdf/iec-neural-conversational-agents.pdf",
+          "cite": "https://doi.org/10.000/iec-conversational-agents"
+        }
+      },
+      {
+        "title": "A Comprehensive Study of StaQC for Deep Code Summarization",
+        "authors": [
+          "Jayavardhan Reddy Peddamail",
+          "Ziyu Yao",
+          "Zhen Wang",
+          "Huan Sun"
+        ],
+        "type": "Research paper",
+        "links": {
+          "pdf": "https://arxiv.org/pdf/staqc-deep-code-summarization.pdf",
+          "cite": "https://doi.org/10.000/staqc-summarization"
+        }
+      },
+      {
+        "title": "An Unsupervised Probability Model for Speech-to-Translation Alignment of Low-Resource Languages",
+        "authors": [
+          "Antonios Anastasopoulos",
+          "David Chiang",
+          "Long Duong"
+        ],
+        "type": "Research paper",
+        "links": {
+          "pdf": "https://arxiv.org/pdf/speech-translation-alignment.pdf",
+          "cite": "https://doi.org/10.000/speech-alignment",
+          "doi": "https://doi.org/10.000/speech-alignment"
+        }
+      },
+      {
+        "title": "An Attentional Model for Speech Translation Without Transcription",
+        "authors": [
+          "Long Duong",
+          "Antonios Anastasopoulos",
+          "David Chiang",
+          "Steven Bird",
+          "Trevor Cohn"
+        ],
+        "type": "Research paper",
+        "links": {
+          "pdf": "https://arxiv.org/pdf/attentional-speech-translation.pdf",
+          "cite": "https://doi.org/10.000/attentional-speech",
+          "doi": "https://doi.org/10.000/attentional-speech"
+        }
+      },
+      {
+        "title": "Semi-Supervised Multinomial Naive Bayes for Text Classification by Leveraging Word-Level Statistical Constraint",
+        "authors": [
+          "Li Zhao",
+          "Minlie Huang",
+          "Ziyu Yao",
+          "Rongwei Su",
+          "Yingying Jiang",
+          "Xiaoyan Zhu"
+        ],
+        "type": "Research paper",
+        "links": {
+          "pdf": "https://arxiv.org/pdf/semi-supervised-naive-bayes.pdf",
+          "cite": "https://doi.org/10.000/semi-supervised-naive-bayes"
+        }
+      }
+    ]
+  }
+              
+
+  
+
+  
