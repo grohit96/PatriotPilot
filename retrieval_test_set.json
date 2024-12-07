@@ -1,0 +1,663 @@
+{
+    "test_set": [
+      {
+        "query": "how do I contact Antonios Anastasopoulos?",
+        "related_contexts": [
+          "cs_faculty_contact name antonios anastasopoulos cs_faculty_contact title assistant professor cs_faculty_contact email antonis @ gmu.edu cs_faculty_contact phone 7039936821 cs_faculty_contact webpage cs.gmu.edu/~antonis/"
+        ]
+      },
+      {
+        "query": "what is the mailing address for the CS department?",
+        "related_contexts": [
+          "computer_science_department_contact mailing_address department department of computer science computer_science_department_contact mailing_address university george mason university computer_science_department_contact mailing_address full_address 4400 university drive msn 4a5 fairfax va 22030 usa"
+        ]
+      },
+      {
+        "query": "where is the undergraduate advising office located?",
+        "related_contexts": [
+          "computer_science_department_contact undergrad_advising office_location buchanan hall room d215"
+        ]
+      },
+      {
+        "query": "who is the program director for MS Software Engineering?",
+        "related_contexts": [
+          "leadership name thanhvu nguyen leadership position program director ms software engineering"
+        ]
+      },
+      {
+        "query": "who is David Rosenblum?",
+        "related_contexts": [
+          "leadership name david rosenblum leadership position department chair"
+        ]
+      },
+      {
+        "query": "name some student club organizations",
+        "related_contexts": [
+          "computer_science_department_student_organizations name cs club computer_science_department_student_organizations description provides platform students enhance computer science knowledge skills various projects events",
+          "computer_science_department_student_organizations name game analysis design interest group gadig computer_science_department_student_organizations description dedicated analysis design video games"
+        ]
+      },
+      {
+        "query": "what are the core courses for MS CS?",
+        "related_contexts": [
+          "ms_cs_degree_requirements ms_cs_general_requirements core_courses cs 583 analysis of algorithms ms_cs_degree_requirements ms_cs_general_requirements core_courses cs 530 mathematical foundations computer science ms_cs_degree_requirements ms_cs_general_requirements core_courses cs 531 computer systems fundamentals systems programming"
+        ]
+      },
+      {
+        "query": "how many advanced courses should you take for MS CS?",
+        "related_contexts": [
+          "ms_cs_degree_requirements ms_cs_general_requirements advanced_courses at least four courses 12 credits must be chosen from advanced courses four courses must come from at least two different areas"
+        ]
+      },
+      {
+        "query": "name some faculty research areas",
+        "related_contexts": [
+          "computer_science_department_research_areas faculty name elizabeth white research_area distributed systems computer_science_department_research_areas faculty name mingrui liu research_area machine learning computer_science_department_research_areas faculty name ping deng research_area cybersecurity"
+        ]
+      },
+      {
+        "query": "what is the name of the laboratory dedicated to autonomous robotics?",
+        "related_contexts": [
+          "computer_science_department_labs_research_centers name autonomous robotics laboratory computer_science_department_labs_research_centers url https://cs.gmu.edu/~robotics/pmwiki.php"
+        ]
+      },
+      {
+        "query": "how do I contact Antonios Anastasopoulos?",
+        "related_contexts": [
+          "cs_faculty_contact name antonios anastasopoulos cs_faculty_contact title assistant professor cs_faculty_contact email antonis @ gmu.edu cs_faculty_contact phone 7039936821 cs_faculty_contact webpage cs.gmu.edu/~antonis/"
+        ]
+      },
+      {
+        "query": "what is the mailing address for the CS department?",
+        "related_contexts": [
+          "computer_science_department_contact mailing_address department department of computer science computer_science_department_contact mailing_address university george mason university computer_science_department_contact mailing_address full_address 4400 university drive msn 4a5 fairfax va 22030 usa"
+        ]
+      },
+      {
+        "query": "where is the undergraduate advising office located?",
+        "related_contexts": [
+          "computer_science_department_contact undergrad_advising office_location buchanan hall room d215"
+        ]
+      },
+      {
+        "query": "who is the program director for MS Software Engineering?",
+        "related_contexts": [
+          "leadership name thanhvu nguyen leadership position program director ms software engineering"
+        ]
+      },
+      {
+        "query": "who is David Rosenblum?",
+        "related_contexts": [
+          "leadership name david rosenblum leadership position department chair"
+        ]
+      },
+      {
+        "query": "what are some research areas in computer science?",
+        "related_contexts": [
+          "computer_science_department_research_areas faculty name elizabeth white research_area distributed systems computer_science_department_research_areas faculty name mingrui liu research_area machine learning computer_science_department_research_areas faculty name ping deng research_area cybersecurity"
+        ]
+      },
+      {
+        "query": "what is the CS department phone number?",
+        "related_contexts": [
+          "computer_science_department_contact phone_number 7039931530"
+        ]
+      },
+      {
+        "query": "name some student organizations in computer science",
+        "related_contexts": [
+          "computer_science_department_student_organizations name cs club computer_science_department_student_organizations description provides platform students enhance computer science knowledge skills various projects events",
+          "computer_science_department_student_organizations name game analysis design interest group gadig computer_science_department_student_organizations description dedicated analysis design video games"
+        ]
+      },
+      {
+        "query": "name a faculty member specializing in cybersecurity",
+        "related_contexts": [
+          "computer_science_department_research_areas faculty name ping deng research_area cybersecurity"
+        ]
+      },
+      {
+        "query": "where can I find the robotics lab?",
+        "related_contexts": [
+          "computer_science_department_labs_research_centers name autonomous robotics laboratory computer_science_department_labs_research_centers url https://cs.gmu.edu/~robotics/pmwiki.php"
+        ]
+      },
+      {
+        "query": "what is the email address for undergraduate program inquiries?",
+        "related_contexts": [
+          "computer_science_department_contact emails undergrad_programs csug @ gmu.edu"
+        ]
+      },
+      {
+        "query": "what is the full address of the CS department?",
+        "related_contexts": [
+          "computer_science_department_contact mailing_address department department of computer science computer_science_department_contact mailing_address university george mason university computer_science_department_contact mailing_address full_address 4400 university drive msn 4a5 fairfax va 22030 usa"
+        ]
+      },
+      {
+        "query": "name an advanced course in machine learning for MS CS",
+        "related_contexts": [
+          "ms_cs_degree_requirements ms_cs_general_requirements advanced_courses cs 682 machine learning"
+        ]
+      },
+      {
+        "query": "what is the title of Mark Snyder in the CS department?",
+        "related_contexts": [
+          "leadership name mark snyder leadership position associate chair for undergraduate studies"
+        ]
+      },
+      {
+        "query": "who is the associate chair for undergraduate studies?",
+        "related_contexts": [
+          "leadership name shvetha soundararajan leadership position associate chair for undergraduate studies"
+        ]
+      },
+      {
+        "query": "who is the program director for the PhD in Computer Science?",
+        "related_contexts": [
+          "leadership name hakan aydin leadership position program director phd cs"
+        ]
+      },
+      {
+        "query": "what are the core courses for MS CS?",
+        "related_contexts": [
+          "ms_cs_degree_requirements ms_cs_general_requirements core_courses cs 530 mathematical foundations computer science ms_cs_degree_requirements ms_cs_general_requirements core_courses cs 531 computer systems fundamentals systems programming ms_cs_degree_requirements ms_cs_general_requirements core_courses cs 583 analysis algorithms"
+        ]
+      },
+      {
+        "query": "what is the webpage for the CS department?",
+        "related_contexts": [
+          "computer_science_department_contact webpage https://cs.gmu.edu"
+        ]
+      },
+      {
+        "query": "name some faculty members specializing in machine learning",
+        "related_contexts": [
+          "computer_science_department_research_areas faculty name mingrui liu research_area machine learning",
+          "computer_science_department_research_areas faculty name jessica lin research_area machine learning"
+        ]
+      },
+      {
+        "query": "what are some ongoing research areas in cybersecurity?",
+        "related_contexts": [
+          "computer_science_department_research_areas faculty name elizabeth white research_area cybersecurity",
+          "computer_science_department_research_areas faculty name ping deng research_area cybersecurity"
+        ]
+      },
+      {
+        "query": "what is the office location of Shvetha Soundararajan?",
+        "related_contexts": [
+          "leadership name shvetha soundararajan leadership position associate chair for undergraduate studies office_location engr 4330"
+        ]
+      },
+      {
+        "query": "what is the office location for Robert Pettit?",
+        "related_contexts": [
+          "leadership name robert pettit leadership position associate chair for graduate studies office_location engr 4312"
+        ]
+      },
+      {
+        "query": "name some advanced constrained electives for MS CS",
+        "related_contexts": [
+          "ms_cs_degree_requirements ms_cs_general_requirements advanced_courses cs 682 machine learning ms_cs_degree_requirements ms_cs_general_requirements advanced_courses cs 672 natural language processing"
+        ]
+      },
+      {
+        "query": "who is the operations manager for the CS department?",
+        "related_contexts": [
+          "staff name michele pieper staff role department operations manager and assistant to chair"
+        ]
+      },
+      {
+        "query": "where is the computer vision and robotics lab located?",
+        "related_contexts": [
+          "computer_science_department_labs_research_centers name computer vision and robotics laboratory computer_science_department_labs_research_centers url https://www.cs.gmu.edu/~robotics/"
+        ]
+      },
+      {
+        "query": "what is the title of Zoran Duric in the CS department?",
+        "related_contexts": [
+          "leadership name zoran duric leadership position program director ms cs"
+        ]
+      },
+      {
+        "query": "where is the measurable security lab?",
+        "related_contexts": [
+          "computer_science_department_labs_research_centers name measurable security laboratory computer_science_department_labs_research_centers url https://msl.cs.gmu.edu"
+        ]
+      },
+      {
+        "query": "what is the main contact email for the CS department?",
+        "related_contexts": [
+          "computer_science_department_contact emails admin_support csinfo @ gmu.edu"
+        ]
+      },
+      {
+        "query": "name an honor society in the CS department",
+        "related_contexts": [
+          "computer_science_department_student_organizations name beta theta tau βθτ computer_science_department_student_organizations description honor society recognizing academic excellence computing disciplines"
+        ]
+      },
+      {
+        "query": "name a course related to software engineering in the CS department",
+        "related_contexts": [
+          "computer_science_primary_course_list course cs 550 computer_science_primary_course_list title software engineering"
+        ]
+      },
+      {
+        "query": "what is the focus of the robotics club at GMU?",
+        "related_contexts": [
+          "computer_science_department_student_organizations name gmu robotics club computer_science_department_student_organizations description engages students robotics projects competitions"
+        ]
+      },
+      {
+        "query": "who is the director of inclusive computing?",
+        "related_contexts": [
+          "leadership name shahnaz kamberi leadership position director of inclusive computing"
+        ]
+      },
+      {
+        "query": "what is the title of Alex Brodsky in the CS department?",
+        "related_contexts": [
+          "leadership name alex brodsky leadership position program director ms information systems"
+        ]
+      },
+      {
+        "query": "what is the full address of the engineering building?",
+        "related_contexts": [
+          "computer_science_department_contact engineering_building_full_address 4400 university drive fairfax va 22030"
+        ]
+      },
+      {
+        "query": "what is the email address for graduate advising in the CS department?",
+        "related_contexts": [
+          "computer_science_department_contact grad_advising email csgrad @ gmu.edu"
+        ]
+      },
+      {
+        "query": "what are the office hours for Ping Deng?",
+        "related_contexts": [
+          "cs_faculty_contact name ping deng cs_faculty_contact office_hours mondays wednesdays 1200 100 pm"
+        ]
+      },
+      {
+        "query": "where is the autonomous robotics lab located?",
+        "related_contexts": [
+          "computer_science_department_labs_research_centers name autonomous robotics laboratory computer_science_department_labs_research_centers url https://cs.gmu.edu/~robotics/"
+        ]
+      },
+      {
+        "query": "who is the assistant professor specializing in natural language processing?",
+        "related_contexts": [
+          "computer_science_department_research_areas faculty name antonios anastasopoulos research_area natural language processing"
+        ]
+      },
+      {
+        "query": "what is the phone number for the CS department?",
+        "related_contexts": [
+          "computer_science_department_contact phone_number 703 9931530"
+        ]
+      },
+      {
+        "query": "name some advanced topics courses in the CS department",
+        "related_contexts": [
+          "computer_science_primary_course_list course cs 795 computer_science_primary_course_list title advanced topics cs"
+        ]
+      },
+      {
+        "query": "who is the faculty member in charge of the Learning Agents Center?",
+        "related_contexts": [
+          "computer_science_department_labs_research_centers name learning agents center faculty_in_charge sandip sen"
+        ]
+      },
+      {
+        "query": "what is the description of the Girls Code Compute club?",
+        "related_contexts": [
+          "computer_science_department_student_organizations name girls code compute computer_science_department_student_organizations description supports women computing education community involvement"
+        ]
+      },
+      {
+        "query": "what is the focus of the Data Mining and Machine Learning Lab?",
+        "related_contexts": [
+          "computer_science_department_labs_research_centers name data mining and machine learning laboratory computer_science_department_labs_research_centers description focuses on large-scale data analysis and predictive modeling"
+        ]
+      },
+      {
+        "query": "where can I find the lab for computational biology?",
+        "related_contexts": [
+          "computer_science_department_labs_research_centers name computational biology laboratory computer_science_department_labs_research_centers url https://cs.gmu.edu/~ashehu/qhome"
+        ]
+      },
+      {
+        "query": "what is the undergraduate email address for the CS department?",
+        "related_contexts": [
+          "computer_science_department_contact emails undergrad_programs csug @ gmu.edu"
+        ]
+      },
+      {
+        "query": "what is the webpage for the Mason Competitive Cyber club?",
+        "related_contexts": [
+          "computer_science_department_student_organizations name mason competitive cyber computer_science_department_student_organizations url https://cs.gmu.edu/mason-competitive-cyber"
+        ]
+      },
+      {
+        "query": "who is the program director for MS Information Systems?",
+        "related_contexts": [
+          "leadership name alex brodsky leadership position program director ms information systems"
+        ]
+      },
+      {
+        "query": "where is the Bioinformatics and Computational Biology Group located?",
+        "related_contexts": [
+          "computer_science_department_labs_research_centers name bioinformatics and computational biology group computer_science_department_labs_research_centers url https://cs.gmu.edu/~bcb"
+        ]
+      },
+      {
+        "query": "name an associate professor in the CS department",
+        "related_contexts": [
+          "cs_faculty_contact name shvetha soundararajan cs_faculty_contact title associate professor"
+        ]
+      },
+      {
+        "query": "what is the description of the ACM student chapter?",
+        "related_contexts": [
+          "computer_science_department_student_organizations name association computing machinery student chapter acm computer_science_department_student_organizations description professional society dedicated advancing computing science profession"
+        ]
+      },
+      {
+        "query": "what is the description of the Human-Computer Interaction Lab?",
+        "related_contexts": [
+          "computer_science_department_labs_research_centers name human-computer interaction laboratory computer_science_department_labs_research_centers description focuses on interface design and usability testing"
+        ]
+      },
+      {
+        "query": "who is the professor specializing in computer vision?",
+        "related_contexts": [
+          "computer_science_department_research_areas faculty name jana košecká research_area computer vision"
+        ]
+      },
+      {
+        "query": "what is the role of Beth Posocco in the CS department?",
+        "related_contexts": [
+          "staff name beth posocco staff role graduate program specialist"
+        ]
+      },
+      {
+        "query": "who is the associate dean of the CS department?",
+        "related_contexts": [
+          "leadership name jan allbeck leadership position associate dean honors college"
+        ]
+      },
+      {
+        "query": "what are the prerequisites for CS 530?",
+        "related_contexts": [
+          "computer_science_primary_course_list course cs 530 computer_science_primary_course_list prerequisites cs 310 or equivalent"
+        ]
+      },
+      {
+        "query": "where can I find the faculty directory?",
+        "related_contexts": [
+          "computer_science_department_contact directory_url https://cs.gmu.edu/directory/"
+        ]
+      },
+      {
+        "query": "what is the main focus of the Robotics Club?",
+        "related_contexts": [
+          "computer_science_department_student_organizations name robotics club computer_science_department_student_organizations description engages students robotics projects competitions"
+        ]
+      },
+      {
+        "query": "who is the professor teaching advanced machine learning?",
+        "related_contexts": [
+          "computer_science_primary_course_list course cs 688 computer_science_primary_course_list title advanced machine learning computer_science_primary_course_list instructor huzefa rangwala"
+        ]
+      },
+      {
+        "query": "where is the Computer Vision and Robotics Laboratory located?",
+        "related_contexts": [
+          "computer_science_department_labs_research_centers name computer vision and robotics laboratory computer_science_department_labs_research_centers url https://www.cs.gmu.edu/~robotics/"
+        ]
+      },
+      {
+        "query": "what is the description of Beta Theta Tau?",
+        "related_contexts": [
+          "computer_science_department_student_organizations name beta theta tau βθτ computer_science_department_student_organizations description honor society recognizing academic excellence computing disciplines"
+        ]
+      },
+      {
+        "query": "what is the mailing address for the dean of engineering?",
+        "related_contexts": [
+          "college_of_engineering_contact mailing_address 4400 university drive msn 4a3 fairfax va 22030 usa"
+        ]
+      },
+      {
+        "query": "who is the program director for the PhD in Computer Science?",
+        "related_contexts": [
+          "leadership name hakan aydin leadership position program director phd cs"
+        ]
+      },
+      {
+        "query": "what is the description of CS Club?",
+        "related_contexts": [
+          "computer_science_department_student_organizations name cs club computer_science_department_student_organizations description provides platform students enhance computer science knowledge skills various projects events"
+        ]
+      },
+      {
+        "query": "where is the Computational Reality Creativity and Graphics Lab located?",
+        "related_contexts": [
+          "computer_science_department_labs_research_centers name computational reality creativity and graphics lab cragl computer_science_department_labs_research_centers url https://cragl.cs.gmu.edu/"
+        ]
+      },
+      {
+        "query": "what is the URL for the Center for Assurance Research and Engineering?",
+        "related_contexts": [
+          "computer_science_department_labs_research_centers name center for assurance research and engineering computer_science_department_labs_research_centers url https://care.vse.gmu.edu/"
+        ]
+      },
+      {
+        "query": "who is the contact for graduate admissions in the CS department?",
+        "related_contexts": [
+          "computer_science_department_contact grad_advising contact csgrad @ gmu.edu"
+        ]
+      },
+      {
+        "query": "what is the focus of the NLP research group?",
+        "related_contexts": [
+          "computer_science_department_labs_research_centers name natural language processing group computer_science_department_labs_research_centers description research in linguistics, language modeling, and AI"
+        ]
+      },
+      {
+        "query": "who is the department operations manager?",
+        "related_contexts": [
+          "staff name michele pieper staff role department operations manager"
+        ]
+      },
+      {
+        "query": "what is the URL for the Data Mining and Machine Learning Lab?",
+        "related_contexts": [
+          "computer_science_department_labs_research_centers name data mining and machine learning laboratory computer_science_department_labs_research_centers url https://cs.gmu.edu/~dmml/"
+        ]
+      },
+      {
+        "query": "who is the associate chair for undergraduate studies?",
+        "related_contexts": [
+          "leadership name shvetha soundararajan leadership position associate chair undergraduate studies"
+        ]
+      },
+      {
+        "query": "what are the course requirements for MS CS?",
+        "related_contexts": [
+          "ms_cs_degree_requirements ms_cs_general_requirements description addition general university requirements students must complete 30 approved graduate credits 10 courses divided five core required basic courses four advanced constrained elective courses one constrained elective"
+        ]
+      },
+      {
+        "query": "name one research focus of Zoran Duric",
+        "related_contexts": [
+          "computer_science_department_research_areas faculty name zoran duric research_area computer vision"
+        ]
+      },
+      {
+        "query": "what is the phone number for undergraduate advising?",
+        "related_contexts": [
+          "computer_science_department_contact undergrad_advising phone_number 703 9931152"
+        ]
+      },
+      {
+        "query": "what is the title of CS 795?",
+        "related_contexts": [
+          "computer_science_primary_course_list course cs 795 computer_science_primary_course_list title advanced topics cs"
+        ]
+      },
+      {
+        "query": "what is the website for the Bioinformatics and Computational Biology Group?",
+        "related_contexts": [
+          "computer_science_department_labs_research_centers name bioinformatics and computational biology group computer_science_department_labs_research_centers url https://cs.gmu.edu/~bcb"
+        ]
+      },
+      {
+        "query": "who is the associate chair for graduate studies?",
+        "related_contexts": [
+          "leadership name robert pettit leadership position associate chair graduate studies"
+        ]
+      },
+      {
+        "query": "what is the mailing address for the Software Engineering Lab?",
+        "related_contexts": [
+          "computer_science_department_labs_research_centers name software engineering laboratory computer_science_department_labs_research_centers mailing_address 4400 university drive msn 4a5 fairfax va 22030 usa"
+        ]
+      },
+      {
+        "query": "name a faculty member specializing in data mining",
+        "related_contexts": [
+          "computer_science_department_research_areas faculty name jessica lin research_area data mining"
+        ]
+      },
+      {
+        "query": "what is the description of the Girls Code Compute club?",
+        "related_contexts": [
+          "computer_science_department_student_organizations name girls code compute computer_science_department_student_organizations description supports women computing education community involvement"
+        ]
+      },
+      {
+        "query": "what is the grading scale for CS courses?",
+        "related_contexts": [
+          "computer_science_primary_course_list grading graduate regular scale"
+        ]
+      },
+      {
+        "query": "who is the professor for CS 367?",
+        "related_contexts": [
+          "computer_science_primary_course_list course cs 367 computer_science_primary_course_list instructor ping deng"
+        ]
+      },
+      {
+        "query": "where is the Autonomous Robotics Laboratory located?",
+        "related_contexts": [
+          "computer_science_department_labs_research_centers name autonomous robotics laboratory computer_science_department_labs_research_centers location engineering building"
+        ]
+      },
+      {
+        "query": "what is the description of the Mason Competitive Cyber Club?",
+        "related_contexts": [
+          "computer_science_department_student_organizations name mason competitive cyber computer_science_department_student_organizations description focuses cybersecurity competitions skill development"
+        ]
+      },
+      {
+        "query": "what are the required courses for the Cyber Security concentration?",
+        "related_contexts": [
+          "ms_cs_degree_requirements cyber_security_concentration required_courses isa 656, isa 562"
+        ]
+      },
+      {
+        "query": "who manages the department operations?",
+        "related_contexts": [
+          "staff name michele pieper staff role department operations manager"
+        ]
+      },
+      {
+        "query": "what is the URL for the Center of Excellence in Command Control Communications?",
+        "related_contexts": [
+          "computer_science_department_labs_research_centers name center of excellence in command control communications computing and intelligence computer_science_department_labs_research_centers url https://c4i.gmu.edu/"
+        ]
+      },
+      {
+        "query": "who is the program director for the MS in Information Systems?",
+        "related_contexts": [
+          "leadership name alex brodsky leadership position program director ms information systems"
+        ]
+      },
+      {
+        "query": "what is the webpage for Sanmay Das?",
+        "related_contexts": [
+          "cs_faculty_contact name sanmay das cs_faculty_contact webpage https://cs.gmu.edu/~sanmay/"
+        ]
+      },
+      {
+        "query": "what is the main focus of the Center for Assurance Research?",
+        "related_contexts": [
+          "computer_science_department_labs_research_centers name center for assurance research and engineering computer_science_department_labs_research_centers focus system assurance and reliability"
+        ]
+      },
+      {
+        "query": "where is the Design Computing and Extended Reality Group located?",
+        "related_contexts": [
+          "computer_science_department_labs_research_centers name design computing and extended reality group computer_science_department_labs_research_centers location innovation building"
+        ]
+      },
+      {
+        "query": "what is the URL for the George Mason International Cyber Center?",
+        "related_contexts": [
+          "computer_science_department_labs_research_centers name george mason university international cyber center computer_science_department_labs_research_centers url https://www.internationalcybercenter.org/"
+        ]
+      },
+      {
+        "query": "who is the instructor for CS 262?",
+        "related_contexts": [
+          "computer_science_primary_course_list course cs 262 computer_science_primary_course_list instructor kevin andrea"
+        ]
+      },
+      {
+        "query": "what is the location of the Motion and Shape Computing Group?",
+        "related_contexts": [
+          "computer_science_department_labs_research_centers name motion and shape computing group computer_science_department_labs_research_centers location innovation building"
+        ]
+      },
+      {
+        "query": "who is the chair of the CS department?",
+        "related_contexts": [
+          "leadership name david rosenblum leadership position department chair"
+        ]
+      },
+      {
+        "query": "what is the URL for the Imaging and Vision Lab?",
+        "related_contexts": [
+          "computer_science_department_labs_research_centers name imaging and vision lab computer_science_department_labs_research_centers url https://ivlab.cs.gmu.edu/"
+        ]
+      },
+      {
+        "query": "who is the instructor for CS 450?",
+        "related_contexts": [
+          "computer_science_primary_course_list course cs 450 computer_science_primary_course_list instructor carlotta domeniconi"
+        ]
+      },
+      {
+        "query": "where is the office of Ghada Abdelmoumin?",
+        "related_contexts": [
+          "cs_faculty_contact name ghada abdelmoumin cs_faculty_contact office_location engineering building room 4439"
+        ]
+      },
+      {
+        "query": "what is the title of CS 531?",
+        "related_contexts": [
+          "computer_science_primary_course_list course cs 531 computer_science_primary_course_list title computer systems fundamentals"
+        ]
+      },
+      {
+        "query": "what are the office hours for Antonios Anastasopoulos?",
+        "related_contexts": [
+          "cs_faculty_contact name antonios anastasopoulos cs_faculty_contact office_hours mondays 300 330 pm or email for appointment"
+        ]
+      }
+    ]
+  }
+  

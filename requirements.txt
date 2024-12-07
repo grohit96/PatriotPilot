@@ -1,0 +1,22 @@
+# Core dependencies
+
+numpy<2
+
+torch
+
+transformers
+
+sentence-transformers
+
+
+faiss
+
+faiss-gpu
+
+datasets
+
+peft
+
+rouge_score
+
+rouge
