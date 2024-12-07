@@ -5,7 +5,7 @@ Prerequisites
 Python 3.9.9 is recommended.
 Install all dependencies using:
 pip install -r requirements.txt
-Steps to Reproduce
+
 Data Preparation:
 Place the structured JSON data files in the datasets folder. Run preprocessing.py to process the data and generate preprocessed_data.json.
 
