@@ -49,7 +49,8 @@ qwen_model = AutoModelForCausalLM.from_pretrained(
 
 
 def search_faiss(query, k=5):
-
+    
+    query = query.lower()
     query_embedding = embedding_model.encode([query])
 
     D, I = faiss_index.search(np.array(query_embedding).astype("float32"), k=k)
