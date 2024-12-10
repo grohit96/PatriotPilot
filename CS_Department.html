@@ -1,0 +1,369 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Computer Science Department</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
+
+    <style>
+        /* Custom styles */
+        .mason-h1 {
+            color: #006633;
+        }
+
+        .mason-yellow {
+            color: #FFCC33;
+        }
+
+        .mason-header {
+            color: #006633;
+            background-color: #FFCC33;
+            border: 5px solid #006633;
+            padding: 20px;
+            margin-bottom: 20px;
+            box-shadow: 0 5px 10px rgba(1, 1, 0, 1);
+        }
+
+        .navigationbar {
+            background-color: #343a40;
+        }
+
+        .cs-dept-image {
+            display: block;
+            max-width: 100%;
+            height: auto;
+            margin: 0 auto;
+            border-radius: 10px;
+        }
+
+        .contact-image {
+            display: block;
+            border-radius: 10px;
+            width: 25%;
+        }
+
+        .heading-style {
+            color: #006633;
+            font-weight: bold;
+            text-shadow: 1px 1px 2px grey;
+            margin-top: 20px;
+        }
+
+        .sub-heading-style {
+            color: black;
+            text-shadow: 1px 1px 2px grey;
+            margin-top: 20px;
+        }
+
+        body {
+            background-color: #f0f0f0;
+        }
+
+        table {
+            width: 100%;
+            margin-top: 20px;
+        }
+
+        th, td {
+            padding: 10px;
+            text-align: left;
+            border-bottom: 1px solid #ddd;
+        }
+
+       
+        #chatbot-container {
+            position: fixed;
+            bottom: 20px;
+            right: 20px;
+        }
+
+        #chatbot-button {
+            width: 50px;
+            height: 50px;
+            border-radius: 50%;
+            background-color: #006633;
+            color: white;
+            border: none;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+        }
+
+        #chatbot-popup {
+            display: none;
+            position: fixed;
+            bottom: 80px;
+            right: 20px;
+            width: 300px;
+            background-color: white;
+            border: 1px solid #ddd;
+            border-radius: 10px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="mason-header">
+            <h1 style = "text-align: center;" id="home">Department of Computer Science</h1>
+        </div> 
+           <!-- This is the navbar which helps to navigate the webpage easily -->
+          <nav class="navbar navbar-expand-lg navigationbar">
+            <div class="container-fluid">
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarNav">
+                    <ul class="navbar-nav">
+                        <li class="nav-item">
+                            <a style = "color: #FFCC33;" class ="nav-link active" aria-current="page" href="#home">Home</a>  <!-- The ID mentioned in the respective sections are used in href to navigate to them. The # indicates they are in the same webpage -->
+                        </li>
+                        <li class="nav-item">
+                            <a style = "color: #FFCC33;"class="nav-link" href="#degrees">Degrees</a>
+                        </li>
+                        <li class="nav-item">
+                            <a style = "color: #FFCC33;" class="nav-link" href="#survey">Survey</a>
+                        </li>
+                        <li class="nav-item">
+                            <a style = "color: #FFCC33;" class="nav-link" href="#contact">Contact Us</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+          <!-- A couple of paragraphs about the department-->
+          <h2 class="heading-style">About Us</h2>
+        <p>The Department of Computer Science at Mason, the largest and fastest-growing CS department in Virginia, is a cornerstone of the College of Engineering and Computing. Hosting nearly 80 full-time faculty and over 3,200 students across its undergraduate and graduate programs, the department offers a diverse array of studies including two Bachelor of Science degrees, four Masters degrees in specialized areas, and Ph.D. programs in Computer Science and Information Technology. Emphasizing a "Computing for All" philosophy, our curriculum bridges computing with various academic fields, preparing students for interdisciplinary applications in a technology-driven world.</p>
+
+		<p>Our faculty are leaders in their fields, engaging in groundbreaking research and innovative teaching, supported by an array of national awards such as NSF CAREER and AFOSR Young Investigator awards. The department's commitment extends beyond academia into industry and community engagement through an active External Advisory Board, which includes Mason alumni and industry experts who ensure our programs align with the latest technological advances. Upholding GMUs mission, we strive for inclusivity and diversity, aiming to increase participation from underrepresented groups in computing, reflecting the dynamic and diverse nature of our university.</p>
+
+          <div class="row align-items-center mb-4">
+            <div class="col-md-5">
+                <img src="images/CS.jpg" alt="Computer Science Department" class="cs-dept-image"> <!-- Department building image below the about us section to enhance visual representation -->
+            </div>
+            <div>
+                <h2 class="heading-style" id="degrees">Degrees Offered</h2> <!-- This is the degrees section. The ID here is used by the nav bar to navigate here-->
+                <ul>
+                    <li>MS in Computer Science</li>
+                    <li>MS in Software Engineering</li>
+                    <li>MS in Information Systems</li>
+                    <li>Software Engineering Graduate Certificate</li>
+                </ul>
+            </div>
+        </div>
+        <h2 class="heading-style">Required Courses</h2> <!-- Table section for the required courses for each degree -->
+        <h4 class="sub-heading-style">MS in Computer Science</h4> <!-- Table section for the required courses for MS Computer Science -->
+        <table>                                         <!-- th defines table header cell, tr defines row and td defines table data cells -->
+            <tr>
+                <th>Course Number</th>
+                <th>Course Name</th>
+            </tr>
+            <tr>
+                <td>CS 530</td>
+                <td>Mathematical Foundations of Computer Science</td>
+            </tr>
+            <tr>
+                <td>CS 531</td>
+                <td>Fundamentals of Systems Programming</td>
+            </tr>
+            <tr>
+                <td>CS 550</td>
+                <td>Database Systems</td>
+            </tr>
+            <tr>
+                <td>CS 583</td>
+                <td>Analysis of Algorithms</td>
+            </tr>
+            <tr>
+                <td>CS 580</td>
+                <td>Artificial Intelligence</td>
+            </tr>
+        </table> <!-- Table section for the required courses for MS in Software Engineering -->
+         <h4 class="sub-heading-style">MS in Sofware Engineering</h4>
+        <table>
+            <tr>
+                <th>Course Number</th>
+                <th>Course Name</th>
+            </tr>
+            <tr>
+                <td>SWE 619</td>
+                <td>Object-Oriented Software Specification and Construction</td>
+            </tr>
+            <tr>
+                <td>SWE 621</td>
+                <td>Software Design and Architecture</td>
+            </tr>
+            <tr>
+                <td>SWE 637</td>
+                <td>Software Testing</td>
+            </tr>
+            <tr>	
+                <td>SWE 642</td>
+                <td>Software Engineering for the World Wide Web</td>
+            </tr>
+            <tr>
+                <td>SWE 645</td>
+                <td>Component-Based Software Development</td>
+            </tr>  
+        </table> <!-- Table section for the required courses for MS in Information Science -->
+        <h4 class="sub-heading-style">MS in Information Systems</h4>
+        <table>
+            <tr>
+                <th>Course Number</th>
+                <th>Course Name</th>
+            </tr>
+            <tr>
+                <td>COMP 502</td>
+                <td>Mathematical Foundations of Computing I</td>
+            </tr>
+            <tr>
+                <td>INFS 622</td>
+                <td>Information Systems Analysis and Design</td>
+            </tr>
+            <tr>
+                <td>INFS 580</td>
+                <td>Analytics: Big Data to Information</td>
+            </tr>
+            <tr>
+                <td>INFS 611</td>
+                <td>Rapid Information Systems Prototyping</td>
+            </tr>
+            <tr>
+                <td>AIT 716</td>
+                <td>Advanced Human Computer Interaction</td>
+            </tr>
+        </table><!-- Table section for the required courses for Software Engineering Graduate Certificate -->
+        <h4 class="sub-heading-style">Software Engineering Graduate Certificate</h4>
+        <table>
+            <tr>
+                <th>Course Number</th>
+                <th>Course Name</th>
+            </tr>
+            <tr>
+                <td>SWE 632</td>
+                <td>User Interface Design and Development</td>
+            </tr>
+            <tr>
+                <td>SWE 642</td>
+                <td>Software Engineering for the World Wide Web</td>
+            </tr>
+            <tr>
+                <td>ISA 656</td>
+                <td>Network Security</td>
+            </tr>
+            <tr>
+                <td>SWE 681</td>
+                <td>Secure Software Design and Programming</td>
+            </tr>
+            <tr>
+                <td>CS 550</td>
+                <td>Database Systems</td>
+            </tr>
+        </table>
+         
+     <!-- Survey Section -->    
+     <div class="row">
+        <div class="col-12">
+            <h2 class="heading-style" id="survey">Survey</h2> <!-- The id is used by the nav bar to navigate here when survey is clicked -->
+            <p>If you have visited our campus and our department, please take the time to fill out this survey form. It will help us a lot!</p>
+            <a href="CS_Department_Survey.html">Computer Science Department Survey Form</a>
+        </div>
+     </div>
+
+   </div>
+   <!-- div container for contact us section -->
+   <div class="container mb-5">
+    <div class="row">
+        <div class="col-12">
+            <h2 class="heading-style" id="contact">Contact Us</h2> <!-- The ID here is used by the nav bar to navigate here -->
+           
+            <p><i class="fa fa-envelope" style="width: 20px; text-align: center;"></i> Email: csinfo@gmu.edu</p>
+            <p><i class="fa fa-phone" style="width: 20px; text-align: center;"></i> Phone: (703) 993-1530</p>
+            <p><i class="fa fa-map-marker-alt" style="width: 20px; text-align: center;"></i> Address: 4400 University Drive, MSN 4A5,Fairfax, VA</p>
+        </div>
+    </div>
+</div>
+
+        
+        <div id="chatbot-container">
+            <button id="chatbot-button">
+                <i class="fas fa-comment-alt"></i>
+            </button>
+        </div>
+
+        <div id="chatbot-popup">
+            <div style="background-color: #006633; color: white; padding: 10px; border-top-left-radius: 10px; border-top-right-radius: 10px; display: flex; justify-content: space-between; align-items: center;">
+                <span>Chat with Us</span>
+                <button id="close-chatbot" style="background: none; border: none; color: white;">&times;</button>
+            </div>
+            <div id="chatbot-messages" style="padding: 10px; height: 300px; overflow-y: auto;"></div>
+            <div style="padding: 10px; border-top: 1px solid #ddd;">
+                <input id="chatbot-input" type="text" placeholder="Type your message..." style="width: calc(100% - 60px); padding: 5px; border: 1px solid #ddd; border-radius: 5px;">
+                <button id="send-chatbot" class="btn btn-success" style="background-color: #006633; border: none; margin-left: 5px;">Send</button>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        document.addEventListener("DOMContentLoaded", function () {
+            const chatbotButton = document.getElementById("chatbot-button");
+            const chatbotPopup = document.getElementById("chatbot-popup");
+            const closeChatbot = document.getElementById("close-chatbot");
+            const chatbotInput = document.getElementById("chatbot-input");
+            const sendChatbot = document.getElementById("send-chatbot");
+            const chatbotMessages = document.getElementById("chatbot-messages");
+
+            
+            chatbotButton.addEventListener("click", () => {
+                chatbotPopup.style.display = "block";
+            });
+
+            
+            closeChatbot.addEventListener("click", () => {
+                chatbotPopup.style.display = "none";
+            });
+
+            
+            sendChatbot.addEventListener("click", async () => {
+                const userMessage = chatbotInput.value.trim();
+                if (userMessage === "") return;
+
+              
+                chatbotMessages.innerHTML += `<div style="text-align: right; margin-bottom: 10px;"><span style="background-color: #e6ffe6; padding: 5px 10px; border-radius: 10px; display: inline-block;">${userMessage}</span></div>`;
+                chatbotInput.value = "";
+
+                
+                try {
+                    const response = await fetch("http://127.0.0.1:39507/api/chat", {
+                        method: "POST",
+                        headers: { "Content-Type": "application/json" },
+                        body: JSON.stringify({ query: userMessage }),
+                    });
+
+                    const data = await response.json();
+                    const chatbotReply = data.response || "I don't know. Please try again later.";
+
+                    
+                    chatbotMessages.innerHTML += `<div style="text-align: left; margin-bottom: 10px;"><span style="background-color: #f0f0f0; padding: 5px 10px; border-radius: 10px; display: inline-block;">${chatbotReply}</span></div>`;
+                } catch (error) {
+                    chatbotMessages.innerHTML += `<div style="text-align: left; margin-bottom: 10px;"><span style="background-color: #f0f0f0; padding: 5px 10px; border-radius: 10px; display: inline-block;">Error connecting to the server. Please try again later.</span></div>`;
+                }
+
+                
+                chatbotMessages.scrollTop = chatbotMessages.scrollHeight;
+            });
+
+            
+            chatbotInput.addEventListener("keypress", (event) => {
+                if (event.key === "Enter") {
+                    sendChatbot.click();
+                }
+            });
+        });
+    </script>
+</body>
+</html>
+
