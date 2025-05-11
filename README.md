@@ -1,7 +1,7 @@
 PatriotPilot: Your Virtual GMU Guide
 PatriotPilot is a comprehensive virtual assistant designed to provide seamless access to information about George Mason University (GMU). This guide explains the steps required to reproduce and deploy the project in your environment.
 
-Prerequisites
+Prerequisites : 
 Python 3.9.9 is recommended.
 Install all dependencies using:
 pip install -r requirements.txt
